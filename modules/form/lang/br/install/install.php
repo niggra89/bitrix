@@ -1,0 +1,29 @@
+<?
+$MESS["FORM_DENIED"] = "Negar acesso";
+$MESS["FORM_OPENED"] = "acesso concedido";
+$MESS["COPY_PUBLIC_FILES"] = "Copiar arquivos públicos";
+$MESS["FORM_ERRORS"] = "Erros:";
+$MESS["FORM_URL_PUBLIC"] = "Pasta para arquivos de demonstração:";
+$MESS["COPY_FOLDER"] = "Pasta para onde os arquivos serão copiados (com relação à pasta raiz do site):";
+$MESS["FORM_DEMO_DIR"] = "Seguir este link para visualizar os arquivos de demonstração em ação:";
+$MESS["FORM_FULL"] = "Acesso completo";
+$MESS["FORM_BACK"] = "Voltar";
+$MESS["FORM_INSTALL"] = "Instalar";
+$MESS["FORM_COMPLETE"] = "Instalação completa.";
+$MESS["FORM_LINK"] = "Link";
+$MESS["FORM_NO"] = "não";
+$MESS["INSTALL_PUBLIC_REW"] = "Sobrescerever arrquivos existentes";
+$MESS["FORM_SELECT_INITITAL"] = "Por favor selecione a pasta para arquivos de demonstração:";
+$MESS["FORM_RESET"] = "Restabelecer";
+$MESS["FORM_SAVE_TABLES"] = "Salvar tabelas";
+$MESS["FORM_SITE"] = "Site";
+$MESS["FORM_MODULE_DESCRIPTION"] = "Este módulo gerencia vários formulários web, permite armazenar e filtrar dados nos formulários preenchidos.";
+$MESS["FORM_WRONG_MAIN_VERSION"] = "Para instalar este módulo você deve atualizar o núcleo do sistema para a versão #VER#";
+$MESS["FORM_YOU_CAN_SAVE_TABLES"] = "Para salvar os dados armazenados em tabelas nos bancos de dados, marque a caixa de seleção &quot;Salvar Tabelas&quot;";
+$MESS["FORM_DELETE"] = "Desinstalar";
+$MESS["FORM_DELETE_COMLETE"] = "Desinstalação completada.";
+$MESS["FORM_ATTENTION"] = "Atenção! O módulo será desinstalado.";
+$MESS["FORM_MODULE_NAME"] = "Formulários web";
+$MESS["FORM_INSTALL_TITLE"] = "Instalação do módulo de formulário web";
+$MESS["FORM_UNINSTALL_TITLE"] = "Desinstalação do módulo de formulário web";
+?>

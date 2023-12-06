@@ -1,0 +1,30 @@
+<?
+$MESS ['SDEN_NO_PERMS2ADD'] = "Yeni indirimin eklemesi için yeterli hak sahibi değilsiniz";
+$MESS ['SDEN_NO_DISCOUNT'] = "##ID# indirimi bulunamadı";
+$MESS ['SDEN_ERROR_SAVING_DISCOUNT'] = "İndirim kaydında hata";
+$MESS ['SDEN_UPDATING'] = "İndirim parametrelerin değiştirilmesi";
+$MESS ['SDEN_ADDING'] = "Yeni indirimin eklenmesi";
+$MESS ['SDEN_TO_LIST'] = "İndirim listesi";
+$MESS ['SDEN_TIMESTAMP'] = "Son değişiklik tarihi:";
+$MESS ['SDEN_SAVE'] = "Kaydet";
+$MESS ['SDEN_SAVE_ADD'] = "Ekle";
+$MESS ['SDEN_APPLY'] = "Uygula";
+$MESS ['SDEN_CANCEL'] = "Sıfırla";
+$MESS ['SDEN_2FLIST'] = "İndirim listesi";
+$MESS ['SDEN_NEW_DISCOUNT'] = "Yeni indirim oluştur";
+$MESS ['SDEN_DELETE_DISCOUNT'] = "İndirimi sil";
+$MESS ['SDEN_DELETE_DISCOUNT_CONFIRM'] = "Bu indirimi silmek istediğinizden eminmisiniz?";
+$MESS ['SDEN_TAB_DISCOUNT'] = "İndirim";
+$MESS ['SDEN_TAB_DISCOUNT_DESCR'] = "İndirim parametreleri";
+$MESS ['SDEN_SITE'] = "Site";
+$MESS ['SDEN_PRICE'] = "Sipariş tutarında uygulanmaktadır";
+$MESS ['SDEN_PRICE_FROM'] = "den";
+$MESS ['SDEN_PRICE_TO'] = "kadar";
+$MESS ['SDEN_DISCOUNT_VALUE'] = "İndirim boyutu";
+$MESS ['SDEN_ACTIVE'] = "Etkinlik";
+$MESS ['SDEN_SORT'] = "Sıralama dizini";
+$MESS ['SDEN_ERROR'] = "Kayıt hata!";
+$MESS ['SDEN_PERIOD'] = "Etkinlik dönemi";
+$MESS ['SDEN_TYPE_PERCENT'] = "Yüzde";
+$MESS ['SDEN_TYPE_FIX'] = "Değişmez miktar";
+?>

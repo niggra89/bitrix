@@ -1,0 +1,33 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Грешка при премахването на платежната система. Възможно е от тази система да е правено поръчки.<br>";
+$MESS ['SALE_SECTION_TITLE'] = "Платежни системи";
+$MESS ['SALE_F_FILTER'] = "Филтър";
+$MESS ['SALE_F_LANG'] = "Сайт";
+$MESS ['SALE_ALL'] = "всички";
+$MESS ['SALE_F_CURRENCY'] = "Валута";
+$MESS ['SALE_F_ACTIVE'] = "Активна";
+$MESS ['SALE_F_SUBMIT'] = "Задайте филтър";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+$MESS ['SALE_ADD'] = "Добави";
+$MESS ['SALE_NAME'] = "Име";
+$MESS ['SALE_LID'] = "Сайт";
+$MESS ['SALE_H_CURRENCY'] = "Валута";
+$MESS ['SALE_ACTIVE'] = "Акт.";
+$MESS ['SALE_SORT'] = "Сорт.";
+$MESS ['SALE_ACTION'] = "Действия";
+$MESS ['SALE_EDIT'] = "Промени";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Сигурни ли сте, че искате да изтриете платежната система? Платежни системи с активни поръчки не могат да бъдат изтрити.";
+$MESS ['SALE_DELETE'] = "Премахни";
+$MESS ['SALE_PRLIST'] = "Платежни системи";
+$MESS ['SALE_YES'] = "Да";
+$MESS ['SALE_NO'] = "Не";
+$MESS ['SALE_EDIT_DESCR'] = "Промяна на настройките на системата за плащане";
+$MESS ['SALE_DELETE_DESCR'] = "Изтриване на платежната система";
+$MESS ['SPS_ADD_NEW'] = "Добави &gt;&gt;";
+$MESS ['SPS_YES'] = "да";
+$MESS ['SPS_NO'] = "не";
+$MESS ['SPSAN_ERROR_DELETE'] = "Грешка при изтриването на записа";
+$MESS ['SPSAN_ERROR_UPDATE'] = "Грешка при промяната на записа";
+$MESS ['SPSAN_ADD_NEW'] = "Нова платежна система";
+$MESS ['SPSAN_ADD_NEW_ALT'] = "Натиснете за да добавите нова платежна система";
+?>

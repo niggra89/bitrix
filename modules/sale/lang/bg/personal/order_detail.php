@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Подробна информация за поръчка N#ID#";
+$MESS ['SALE_RECORDS_LIST'] = "Към списъка на поръчките";
+$MESS ['P_ORDER_ID'] = "Поръчка";
+$MESS ['P_ORDER_DATE'] = "Дата на поръчката";
+$MESS ['P_ORDER_LANG'] = "Език на поръчката";
+$MESS ['P_ORDER_STATUS'] = "Статус";
+$MESS ['P_ORDER_STATUS_DATE'] = "сменен";
+$MESS ['P_ORDER_PRICE'] = "Сума на поръчката";
+$MESS ['P_ORDER_UPDATE_DATE'] = "последни промени";
+$MESS ['P_ORDER_CANCELED'] = "Отменена";
+$MESS ['P_ORDER_DATE_CANCELED'] = "отменена";
+$MESS ['P_ORDER_PERS_TYPE'] = "Начин на плащане";
+$MESS ['P_ORDER_USER'] = "Параметри на поръчката";
+$MESS ['P_ORDER_PAYMENT'] = "Плащане и доставка";
+$MESS ['P_ORDER_PAY_SYSTEM'] = "Платежна система";
+$MESS ['P_ORDER_PAYED'] = "Платена";
+$MESS ['P_ORDER_DATE_PAYED'] = "платена";
+$MESS ['P_ORDER_DELIVERY'] = "Служба за доставка";
+$MESS ['P_ORDER_COMMENTS'] = "Коментар";
+$MESS ['P_ORDER_USER_COMMENT'] = "Коментар от клиента";
+$MESS ['P_ORDER_BASKET'] = "Съдържание на поръчката";
+$MESS ['SALE_SAVE'] = "Запиши";
+$MESS ['SALE_APPLY'] = "Постави";
+$MESS ['SALE_RESET'] = "Отмени";
+$MESS ['P_ORDER_ALLOW_DELIVERY'] = "Доставката е разрешена";
+$MESS ['P_ORDER_DATE_ALLOW_DELIVERY'] = "разрешена";
+$MESS ['SALE_ORDER_CODE'] = "ID на поръчката";
+$MESS ['SALE_YES'] = "Да";
+$MESS ['SALE_NO'] = "Не";
+$MESS ['SALE_CANCEL_ORDER'] = "Отмени";
+$MESS ['SALE_REPEAT_PAY'] = "Повтори плащането";
+$MESS ['SALE_CONTENT_NAME'] = "Име";
+$MESS ['SALE_CONTENT_QUANTITY'] = "Количество";
+$MESS ['SALE_NO_ORDER_F'] = "Поръчката не е намерена";
+?>

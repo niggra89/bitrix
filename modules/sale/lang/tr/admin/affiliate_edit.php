@@ -1,0 +1,32 @@
+<?
+$MESS ['SAE_NO_SITE_PLAN'] = "Plan sitesi belirtilmemiştir";
+$MESS ['SAE_NO_USER'] = "Kullanıcı belirtilmemiştir";
+$MESS ['SAE_NO_PLAN'] = "Plan belirtilmemiştir";
+$MESS ['SAE_NO_DATE_CREATE'] = "Oluşturma tarihi belirtilmemiştir";
+$MESS ['SAE_AFFILIATE_ALREADY_EXISTS'] = "#USER_ID#  No'lu kullanıcı için katılımcı #SITE_ID# sitesinde zaaten mevcuttur";
+$MESS ['SAE_ERROR_SAVE_AFF'] = "Katılımcının kaydında hata";
+$MESS ['SAE_TITLE_UPDATE_AFF'] = "#ID# No'lu katılımcı değişikliği";
+$MESS ['SAE_TITLE_ADD_AFF'] = "Yeni başlı şirketin eklenmesi";
+$MESS ['SAE_AFF_LIST'] = "Katılımcılar listesi";
+$MESS ['SAE_AFF_ADD'] = "Katılımcı ekle";
+$MESS ['SAE_AFF_DELETE'] = "Katılımcıyı sil";
+$MESS ['SAE_AFF_DELETE_CONF'] = "Bu katılımcıyı silmek istediğinizden eminmisiniz?";
+$MESS ['SAE_AFF_TAB'] = "Katılımcı";
+$MESS ['SAE_AFF_TAB_TITLE'] = "Katılımcı parametreleri";
+$MESS ['SAE_DATE_UPDATE'] = "Son değişiklik tarihi:";
+$MESS ['SAE_SITE'] = "Site:";
+$MESS ['SAE_USER'] = "Kullanıcı:";
+$MESS ['SAE_PROFILE'] = "Kullanıcı profiline geç";
+$MESS ['SAE_AFFILIATE_REG'] = "Üzerinden kaydını yaptıran katılımcı:";
+$MESS ['SAE_NO_AFFILIATE'] = "Katılımcı bıulunamadı";
+$MESS ['SAE_WAIT'] = "bekleyiniz";
+$MESS ['SAE_PLAN'] = "Plan:";
+$MESS ['SAE_ACTIVE'] = "Etkinlik";
+$MESS ['SAE_DATE_REG'] = "Kayıt tarihi (";
+$MESS ['SAE_PAYED_SUM'] = "Ödenen miktar:";
+$MESS ['SAE_PENDING_SUM'] = "Değerlendirilen miktar:";
+$MESS ['SAE_LAST_CALC'] = "Son hesaplama tarihi (";
+$MESS ['SAE_FIX_PLAN'] = "Planı düzelt";
+$MESS ['SAE_AFF_SITE'] = "Katılımcı sitesi";
+$MESS ['SAE_AFF_DESCRIPTION'] = "Katılımcı tanımı";
+?>

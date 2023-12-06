@@ -1,0 +1,35 @@
+<?
+$MESS ['EDIT_TASK_TITLE'] = "Erişim düzeyin düzenlenmesi";
+$MESS ['NEW_TASK_TITLE'] = "Erişim düzeyin eklenmesi";
+$MESS ['RECORD_LIST'] = "Erişim düzeylerin listesi";
+$MESS ['STRING_ID'] = "Karakter tanımlayıcısı:";
+$MESS ['NAME'] = "Ad:";
+$MESS ['DESCRIPTION'] = "Tanımı:";
+$MESS ['MODULE_ID'] = "Modül:";
+$MESS ['SYS_TITLE'] = "Sistematik";
+$MESS ['LETTER'] = "Harf";
+$MESS ['KERNEL'] = "Ana modül";
+$MESS ['SAVE'] = "Değiklikleri kaydet";
+$MESS ['ADD'] = "Ekle";
+$MESS ['RESET'] = "Sıfırla";
+$MESS ['DEFAULT'] = "<varsayılan>";
+$MESS ['TBL_GROUP_DATE'] = "Etkinlik dönemi";
+$MESS ['MAIN_NEW_RECORD'] = "Ekle";
+$MESS ['MAIN_DELETE_RECORD'] = "Sil";
+$MESS ['MAIN_DELETE_RECORD_CONF'] = "Erişim düzeyini silmek istediğinizden eminmisiniz?";
+$MESS ['TAB_1'] = "Parametreler";
+$MESS ['TAB_1_TITLE'] = "Erişim düzeyin parametreleri";
+$MESS ['TAB_2'] = "Dahil edilen seçenekler";
+$MESS ['TAB_2_TITLE'] = "Bu erişim düzeyini içeren işlemler";
+$MESS ['RECORD_LIST_TITLE'] = "Erişim düzey listesine geç";
+$MESS ['MAIN_NEW_RECORD_TITLE'] = "Yeni erişim düzeyini ekle";
+$MESS ['MAIN_COPY_RECORD'] = "Kopyala";
+$MESS ['MAIN_COPY_RECORD_TITLE'] = "Mevcut erişim düzeyini kopyala";
+$MESS ['MAIN_DELETE_RECORD_TITLE'] = "Mevctu erişim düzeyini sil";
+$MESS ['TASK_BINDING'] = "Ciltleme";
+$MESS ['TASK_BINDING_MODULE'] = "Modül";
+$MESS ['TASK_BINDING_FILE'] = "Dosya/Klasör";
+$MESS ['TASK_NAME_WARNING'] = "Karakter tanımlayıcısı girilmedi veya sistem içerisinde zaaten kullanılmaktadır";
+$MESS ['TASK_SAVE_ERROR'] = "Erişim düzeyin kaydedilmesinde hata";
+$MESS ['TASK_NONE_OPERATIONS'] = "#MODULE_ID# modülü, \"#BINDING#\" bağlılığına sahip işlemleri içermemektedir";
+?>

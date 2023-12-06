@@ -1,0 +1,37 @@
+<?
+$MESS ['SPCR1_ON_LOGIN'] = "Error al autorizar un usario registrado: ingrese el login";
+$MESS ['SPCR1_ERR_REG'] = "Error al autorizar un usario registrado";
+$MESS ['SPCR1_NO_NAME'] = "Error al registrar un nuevo usario:ingrese su primer nombre";
+$MESS ['SPCR1_NO_LASTNAME'] = "Error al registrar un nuevo usuario:ingrese su Apellido";
+$MESS ['SPCR1_NO_EMAIL'] = "Error al registrar un nuevo usuario:ingrese su dirección de e-mail";
+$MESS ['SPCR1_BAD_EMAIL'] = "Error al registrar un nuevo usuario:revise su dirección de e-mail";
+$MESS ['SPCR1_NO_LOGIN'] = "Error al registrar un nuevo usuario:ingrese su dirección de e-mail";
+$MESS ['SPCR1_NO_PASSWORD'] = "Error registring un nuevo usuario: elegir la contraseña deseada ";
+$MESS ['SPCR1_NO_PASSWORD_CONF'] = "Error registrando un nuevo usuario:  Confirmar contraseña";
+$MESS ['SPCR1_NO_CONF'] = "Error registrando un nuevo usuario:la confirmación de contraseña no coincide con la contraseña";
+$MESS ['SPCR1_ERR_REGISTER'] = "Error al registrar un nuevo usuario";
+$MESS ['SPCR1_REGISTER_AFF'] = "Registro del afiliado";
+$MESS ['SPCR1_NO_SITE'] = "Su sitio";
+$MESS ['SPCR1_NO_DESCR'] = "Decripción de su sitio";
+$MESS ['SPCR1_IF_REG'] = "Ya registrado";
+$MESS ['SPCR1_IF_NOT_REG'] = "No registrado";
+$MESS ['SPCR1_LOGIN'] = "Login";
+$MESS ['SPCR1_PASSWORD'] = "Contraseña";
+$MESS ['SPCR1_FORG_PASSWORD'] = "¿Olvidó su contraseña?";
+$MESS ['SPCR1_NEXT'] = "Continue";
+$MESS ['SPCR1_NAME'] = "Nombre";
+$MESS ['SPCR1_LASTNAME'] = "Apellido";
+$MESS ['SPCR1_PASS_CONF'] = "Confirmación de Contraseña";
+$MESS ['SPCR1_UNACTIVE_AFF'] = "Usted es un afiliado registrado pero su cuenta está inactiva. Por favor contácte al administrador para más información.";
+$MESS ['SPCR1_NO_AGREE'] = "Usted tiene que aceptar el contrato para continuar con el registro";
+$MESS ['SPCR1_ERR_AFF'] = "Error al registrar a un afiliado";
+$MESS ['SPCR1_IF_REMEMBER'] = "Por favor ingrese su login y contraseña:";
+$MESS ['SPCR1_CAPTCHA'] = "Prevención automatizada del registro ";
+$MESS ['SPCR1_CAPTCHA_WRD'] = "Ingrese la palabar en la pintutra:";
+$MESS ['SPCR1_SITE_URL'] = "El URL del sitio:";
+$MESS ['SPCR1_SITE_DESCR'] = "Descricpicón de su sitio:";
+$MESS ['SPCR1_I_AGREE'] = "Estoy de acuerdo con los términos del contrato de afiliación";
+$MESS ['SPCR1_REGISTER'] = "Registrar";
+$MESS ['SPCR1_NO_SHOP'] = "El módulo del e-Store no está instalado";
+$MESS ['SPCR1_NO_PLANS'] = "No hay planes de comisión de afiliado activos. Entre en contacto con la administración por favor ";
+?>

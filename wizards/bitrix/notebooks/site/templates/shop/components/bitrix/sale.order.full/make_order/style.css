@@ -1,0 +1,133 @@
+.make_order .content
+{
+	border-left:1px solid #e0e0e0;
+	border-right:1px solid #e0e0e0;
+	float:left;
+	width: 918px;*width: 980px;
+	overflow:hidden;
+	padding:20px 30px;
+}
+.make_order .content table 
+{
+	font-size:12px;
+	color:#555555;
+	line-height: 1.8;
+}
+.make_order .top_left
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/top_left.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+.make_order .top_center
+{
+	float:left;
+	height:9px;
+	width: 960px;
+	border-top:1px solid #e0e0e0;
+	overflow:hidden;
+}
+.make_order .top_right
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/top_right.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+
+.make_order .bottom_left
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/bottom_left.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+.make_order .bottom_center
+{
+	float:left;
+	height:9px;*height:10px;
+	width: 960px;
+	border-bottom:1px solid #e0e0e0;
+	overflow:hidden;
+}
+.make_order .bottom_right
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/bottom_right.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+
+.type_right_block
+{
+	float:right;
+	width:735px;
+}
+.type_left_block
+{
+	float:left;
+	width:165px;
+}
+.contButton
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	border:0;	
+	color:transparent;
+	width:111px;
+	height:24px;
+	overflow:hidden;
+	float:left;
+	*padding-top:23px;
+	*font-size:0;
+}
+.backButton
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	border:0;	
+	color:transparent;
+	width:62px;
+	height:24px;
+	float:left;
+	margin-right:100px;
+	*padding-top:23px;
+	*font-size:0;
+}
+.right_block2
+{
+	float:right;
+	width:470px;
+}
+.left_block2
+{
+	float:left;
+	width:415px;
+}
+.PropertiesName
+{
+	float:left; 
+	margin-right: 5px; 
+	margin-top: 3px;width: 135px;
+}
+.line_prop
+{
+	float:left;width:100%;margin:3px 0;
+}
+table.product_table
+{
+	width:100%;
+}
+table.product_table td,table.product_table th
+{
+	border-top:1px solid #e0e0e0;
+	margin:0;
+	padding: 2px 10px; 
+}
+.calc a
+{
+	font-size:11px;
+}

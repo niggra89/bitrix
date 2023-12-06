@@ -1,0 +1,30 @@
+<?
+$MESS ['SS_TITLE'] = "Dükkan ayarları";
+$MESS ['SS_DELIVERY'] = "Teslimat";
+$MESS ['SS_DELIVERY_DESCR'] = "<b>Teslimat servisi</b> formu, dükkandan müşteriye hizmet ve ürün teslim hizmeti ayarları için kullanılmaktadır.  ";
+$MESS ['SS_PAY_SYS'] = "Ödeme sistemleri";
+$MESS ['SS_PAY_SYS_DESCR'] = "<b>Ödeme sistemi formu,</b>  dükkan müşterisinin kendi siparişlerini ödeyebilen ödeme sistemi ayarları için kullanılmaktadır.";
+$MESS ['SS_PERSON_TYPE'] = "Ödeyen türleri";
+$MESS ['SS_PERSON_TYPE_DESCR'] = "<b>Ödeyen türü</b> formu, sitedeki siparişleri gerçekleştirebilecek ödeyen türler için liste ayarları için kullanılmaktadır. Ödeyenin siparişi ödeyebilecek ödeme sistemi işleyicileri ve aynı zamanda siparişin düzenlenmesinde ödeyen tarafından doldurulması gereken özel alanları(özellikleri) oluşturmaktadır.   ";
+$MESS ['SS_ORDER_PROPS'] = "Sipariş özellikleri";
+$MESS ['SS_ORDER_PROPS_DESCR'] = "<b>Sipariş özellikleri?</b> formu, siparişin düzenlenmesinde müşteri tarafından doldurulması gerekicek sipariş alanın(özellikler) liste ayarları için kullanılmaktadır. Sipariş özellikleri, sipariş düzenlenmesinde müşteri tarafından seçilen ödeyen türüne bağlıdır.";
+$MESS ['SS_ORDER_PROPS_GR'] = "Özellik grupları";
+$MESS ['SS_ORDER_PROPS_GR_DESCR'] = "<b>Özellik grubu</b> formu, sipariş özelliklerin grup ayarları için kullanılmaktadır. Özellik gruplaması, sipariş özelliklerini belirtme formun görsel olarak daha iyi algılanması için kullanılmaktadır. Her bir ödeyen türü için bağımsız özellik grubu oluşturulmaktadır. ";
+$MESS ['SS_LOCATION'] = "Konumlar";
+$MESS ['SS_LOCATION_DESCR'] = "<b>Konum</b> formu, sipariş teslimatı için dükkan müşerisi tarafından seçileceği yer için konum listesininn ayarları için kullanılmaktadır. Seçilen konum, erişilen teslimat servisi listesinin görüntülenmesi, teslimat tutarın hesaplanması ve aynı zamanda gerçek teslimat adresin bir kısmı olarak kullanılacaktır.   ";
+$MESS ['SS_LOCATION_GROUPS'] = "Konum grupları";
+$MESS ['SS_LOCATION_GROUPS_DESCR'] = "<b>Konum grupları</b> formu, grup içerisine konumların birleştirilmesi için kullanılmaktadır. Bu işlem teslimat servisi ayarları ile çalışmaları kolaylaştırmaktadır.  ";
+$MESS ['SS_STATUS'] = "Durumlar";
+$MESS ['SS_STATUS_DESCR'] = "<b>Sipariş durumları</b> formu, siparişlerin bilgi durumların ayarları için kullanılmaktadır. Sipariş durumları, mevcut sipariş durumu hakkında dükkan çalışanları ve müşterilere belirtmek için kullanılmaktadır.";
+$MESS ['SS_TAX'] = "Vergiler";
+$MESS ['SS_TAX_DESCR'] = "<b>Vergiler</b> formu, sipariş tutarını hesaplamak için vergi ayarları için kullanılmaktadır.";
+$MESS ['SS_TAX_RATE'] = "Vergi oranları";
+$MESS ['SS_TAX_RATE_DESCR'] = "<b>Vergi oranı</b> formu, ödeyen türü ve alıcı konumuna bağlı olarak vergi oranını belirtmek için kullanılmaktadır.";
+$MESS ['SS_TAX_EX'] = "Vergi muafiyeti";
+$MESS ['SS_TAX_EX_DESCR'] = "<b>Vergi muafiyeti</b>  formu, vergi kısmı ödemesinden muaf kılınan alıcıların tespiti için kullanılmaktadır.";
+$MESS ['sale_settings_hide'] = "Tanımını gizle";
+$MESS ['sale_settings_how'] = "Tanımını görüntüle";
+$MESS ['sale_settings_title'] = "Bölümün ayrıntılı açıklaması";
+$MESS ['sale_settings_disc'] = "Sipariş indirimleri";
+$MESS ['sale_settings_disc_text'] = "<b>Sipariş indirimi</b> formu, tüm sipariş için sunulan indirim ayarları için kullanılmaktadır. İndirim oranı siparişin toplam tutarına bağlıdır. ";
+?>

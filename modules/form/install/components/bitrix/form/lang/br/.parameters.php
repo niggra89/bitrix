@@ -1,0 +1,30 @@
+<?
+$MESS["COMP_FORM_PARAMS_ACTION_ALIAS"] = "Pseudônimo para a variável de ação GET";
+$MESS["COMP_FORM_PARAMS_EDIT_ADDITIONAL"] = "Permitir a edição dos campos auxiliares";
+$MESS["COMP_FORM_PARAMS_NOT_SHOW_FILTER_LIST"] = "Códigos de campos que não são permitidos para mostrar no filtro";
+$MESS["COMP_FORM_PARAMS_NOT_SHOW_FILTER"] = "Códigos de campos que não são permitidos para mostrar no filtro (separados por vírgula)";
+$MESS["COMP_FORM_PARAMS_NOT_SHOW_TABLE_LIST"] = "Códigos de campos que não são permitidos para mostrar na tabela";
+$MESS["COMP_FORM_PARAMS_NOT_SHOW_TABLE"] = "Códigos de campos que não são permitidos para mostrar na tabela (separados por vírgula)";
+$MESS["COMP_FORM_PARAMS_IGNORE_CUSTOM_TEMPLATE"] = "Ignorar modelo personalizado";
+$MESS["COMP_FORM_PARAMS_CHAIN_ITEM_LINK"] = "Link para item de cadeia de navegação em cadeia adicional";
+$MESS["COMP_FORM_PARAMS_CHAIN_ITEM_TEXT"] = "Nome do item adicional de navegação em cadeia";
+$MESS["COMP_FORM_SEF_RESULT_NEW_PAGE"] = "Adicionar nova página de resultado";
+$MESS["COMP_FORM_VALUES_NEW"] = "Adicionar nova página de resultado";
+$MESS["COMP_FORM_SEF_RESULT_EDIT_PAGE"] = "Página de edição de resultado";
+$MESS["COMP_FORM_PARAMS_RESULT_ID"] = "ID do resultado";
+$MESS["COMP_FORM_VALUES_LIST"] = "lista de resultados";
+$MESS["COMP_FORM_SEF_RESULT_LIST_PAGE"] = "Página da lista de resultado";
+$MESS["COMP_FORM_SEF_RESULT_VIEW_PAGE"] = "Página de visualização de resultados";
+$MESS["COMP_FORM_PARAMS_SHOW_ADDITIONAL"] = "Mostrar os campos do formulário web auxiliares em uma tabela de resultados";
+$MESS["COMP_FORM_PARAMS_SHOW_EDIT_PAGE"] = "Mostrar página de edição de resultado";
+$MESS["COMP_FORM_PARAMS_SHOW_VIEW_PAGE"] = "Mostrar página de edição de resultado";
+$MESS["COMP_FORM_PARAMS_SHOW_LIST_PAGE"] = "Mostrar página de lista de resultados";
+$MESS["COMP_FORM_PARAMS_EDIT_STATUS"] = "Mostrar formulário de alteração de status";
+$MESS["COMP_FORM_PARAMS_SHOW_STATUS"] = "Mostrar status para cada resultado em uma tabela de resultados";
+$MESS["COMP_FORM_PARAMS_SHOW_ANSWER_VALUE"] = "Mostrar o valor ANSWER_VALUE em uma tabela de resultados";
+$MESS["COMP_FORM_PARAMS_START_PAGE"] = "Página Inicial";
+$MESS["COMP_FORM_PARAMS_SUCCESS_URL"] = "URL da página de sucesso";
+$MESS["COMP_FORM_PARAMS_USE_EXTENDED_ERRORS"] = "Usar saída de mensagens de erro estendidas";
+$MESS["COMP_FORM_PARAMS_WEB_FORM_ID"] = "ID do formulário web";
+$MESS["COMP_FORM_PARAMS_NAME_TEMPLATE"] = "Formato de nome";
+?>

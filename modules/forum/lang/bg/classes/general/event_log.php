@@ -1,0 +1,35 @@
+<?
+$MESS["FORUM_MESSAGE_APPROVE"] = "Одобрете Съобщението";
+$MESS["FORUM_MESSAGE_UNAPPROVE"] = "Скрити съобщения";
+$MESS["FORUM_MESSAGE_MOVE"] = "Преместване на съобщението";
+$MESS["FORUM_MESSAGE_EDIT"] = "Редактиране на съобщението";
+$MESS["FORUM_MESSAGE_DELETE"] = "Премахване на съобщението";
+$MESS["FORUM_TOPIC_APPROVE"] = "Одобрете темата";
+$MESS["FORUM_TOPIC_UNAPPROVE"] = "Скрити теми";
+$MESS["FORUM_TOPIC_STICK"] = "Поставете темата";
+$MESS["FORUM_TOPIC_UNSTICK"] = "Изведете темата";
+$MESS["FORUM_TOPIC_OPEN"] = "Отворени теми";
+$MESS["FORUM_TOPIC_CLOSE"] = "Затворени теми";
+$MESS["FORUM_TOPIC_MOVE"] = "Преместване на темата";
+$MESS["FORUM_TOPIC_EDIT"] = "Редактиране на темата";
+$MESS["FORUM_TOPIC_DELETE"] = "Премахване на темата";
+$MESS["FORUM_FORUM_EDIT"] = "Редактиране на форума";
+$MESS["FORUM_FORUM_DELETE"] = "Премахване на форума";
+$MESS["FORUM_MESSAGE_SPAM"] = "Съобщението е изтрито като спам";
+$MESS["FORUM_TOPIC_SPAM"] = "Темата е изтрита като спам";
+$MESS["LOG_FORUM"] = "Форум";
+$MESS["LOG_FORUM_MESSAGE_APPROVE"] = "Съобщението е било одобрено от #NAME#";
+$MESS["LOG_FORUM_MESSAGE_UNAPPROVE"] = "Съобщението е било скрито от #NAME#";
+$MESS["LOG_FORUM_MESSAGE_MOVE"] = "Съобщението е било преместено от #NAME#";
+$MESS["LOG_FORUM_MESSAGE_EDIT"] = "Съобщението е било променено от #NAME#";
+$MESS["LOG_FORUM_MESSAGE_DELETE"] = "Съобщението е било изтрито от #NAME#";
+$MESS["LOG_FORUM_TOPIC_APPROVE"] = "Темата #NAME# е одобрена";
+$MESS["LOG_FORUM_TOPIC_UNAPPROVE"] = "Темата #NAME# е скрита";
+$MESS["LOG_FORUM_TOPIC_STICK"] = "Темата #NAME# е закована";
+$MESS["LOG_FORUM_TOPIC_UNSTICK"] = "Темата #NAME# е откована";
+$MESS["LOG_FORUM_TOPIC_OPEN"] = "Темата #NAME# е отворена";
+$MESS["LOG_FORUM_TOPIC_CLOSE"] = "Темата #NAME# е затворена";
+$MESS["LOG_FORUM_TOPIC_DELETE"] = "Темата #NAME# е изтрита";
+$MESS["LOG_FORUM_TOPIC_MOVE"] = "Темата #NAME# е преместена във форума \"#FORUM#\"";
+$MESS["LOG_FORUM_TOPIC_EDIT"] = "Темата #NAME# е променена";
+?>

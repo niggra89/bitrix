@@ -1,0 +1,30 @@
+<?
+$MESS ['BLOG_TITLE'] = "Nombre del blog:";
+$MESS ['BLOG_TITLE_DESCR'] = "Especificar un nombre`´unico con el cual pueda describir su blog";
+$MESS ['BLOG_DESCR'] = "Descripción del blog:";
+$MESS ['BLOG_DESCR_TITLE'] = "Descripción arbitraria del blog";
+$MESS ['BLOG_URL'] = "Pseudo nombre (Letras latinas):";
+$MESS ['BLOG_GRP'] = "Grupo de blog:";
+$MESS ['BLOG_GRP_TITLE'] = "Grupo de blog con el cual se relaciona su blog";
+$MESS ['BLOG_AUTO_MSG'] = "Auto mensajes:";
+$MESS ['BLOG_AUTO_MSG_TITLE'] = "Usar mensaje automático de protección de sumisión";
+$MESS ['BLOG_CAPTHA'] = "Requiere código especial para ser tipeado si el comentario es agregado por unn usuario no autorizado";
+$MESS ['BLOG_OPENED_GRPS'] = "Abrir grupos:";
+$MESS ['BLOG_OPENED_TITLE'] = "Especifica grupos con los cuales cualquier persona puede agregar sin su aprobación";
+$MESS ['BLOG_DEF_PERMS'] = "Acceso de defecto:";
+$MESS ['BLOG_GROUPS'] = "grupos";
+$MESS ['BLOG_MESSAGES'] = "mensajes";
+$MESS ['BLOG_COMMENTS'] = "comentarios";
+$MESS ['BLOG_ALL_USERS'] = "todos los usuarios";
+$MESS ['BLOG_REGISTERED'] = "usuarios registrados";
+$MESS ['BLOG_PERMS_TITLE'] = "Asignar permisos de acceso a grupos de usuario para su blog. Si lo requiere, usted puede especificar permisos para cada mensaje individualmente.";
+$MESS ['BLOG_SAVE'] = "Guardar";
+$MESS ['BLOG_CREATE'] = "Crear blog";
+$MESS ['BLOG_URL_TITLE'] = "Especificar pseudo nombre para su blog (con letras latin). El pseudo nombre podría ser usado para construir un URL para su blog en el formulario<nobr>http://this-site.ru/blog/[blog name]</nobr>";
+$MESS ['BLOG_APPLY'] = "Aplicar";
+$MESS ['BLOG_CANCEL'] = "Cancelar";
+$MESS ['BLOG_EMAIL_NOTIFY'] = "Notificaciones";
+$MESS ['BLOG_EMAIL_NOTIFY_TITLE'] = "Enviar notificaciones por mail";
+$MESS ['BLOG_EMAIL_NOTIFY_HELP'] = "Volver esta opción significa que usted podría recibir notificaciones acerca de comentarios y nuevos envíos en su blog.";
+$MESS ['STOF_REQUIED_FIELDS_NOTE'] = "Campos requeridos están marcados con asterisco (<font color=\"#FF0000\">*</font>).";
+?>

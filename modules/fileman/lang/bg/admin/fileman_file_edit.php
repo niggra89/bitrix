@@ -1,0 +1,34 @@
+<?
+$MESS["FILEMAN_FILEEDIT_FILE_EXISTS"] = "Файл с това име вече съществува!";
+$MESS["FILEMAN_FILEEDIT_FOLDER_EXISTS"] = "С това име е определена папка!";
+$MESS["FILEMAN_FILEEDIT_FILENAME_EMPTY"] = "Името на файла не е зададено";
+$MESS["FILEMAN_FILEEDIT_AS_MENU"] = "Редактиране като меню";
+$MESS["FILEMAN_FILEEDIT_AS_HTML"] = "Редактиране като HTML";
+$MESS["FILEMAN_FILEEDIT_AS_TXT"] = "Редактиране като текст";
+$MESS["FILEMAN_FILEEDIT_AS_PHP"] = "Редактиране като  PHP";
+$MESS["FILEMAN_FILEEDIT_RENAME"] = "Промени името";
+$MESS["FILEMAN_FILEEDIT_DOWNLOAD"] = "Качете файл";
+$MESS["FILEMAN_FILEEDIT_NAME"] = "Име на файла:";
+$MESS["FILEMAN_FILEEDIT_SAVE"] = "Запиши";
+$MESS["FILEMAN_FILEEDIT_APPLY"] = "Постави";
+$MESS["FILEMAN_FILEEDIT_RESET"] = "Отмени";
+$MESS["FILEMAN_FILEEDIT_TEMPLATE"] = "Шаблон:";
+$MESS["FILEMAN_FILEEDIT_CHANGE"] = "Нямате  достатъчно права, за да вмъкнете PHP кода.";
+$MESS["FILEMAN_FILEEDIT_CHANGE_ACCESS"] = "Нямате  достатъчно права за редактиране на страници с PHP код";
+$MESS["FILEMAN_FILEEDIT_TITLE"] = "Заглавие на  страницата:";
+$MESS["FILEMAN_FILEEDIT_BAD_FNAME"] = "Името файла не трябва да  започва с точки!";
+$MESS["FILEMAN_EDIT_FILEPROPS"] = "Свойства на страниците:";
+$MESS["FILEMAN_EDIT_PROPSCODE"] = "Код";
+$MESS["FILEMAN_EDIT_PROPSVAL"] = "Значение";
+$MESS["FILEMAN_EDIT_PROPSDEL"] = "Премахни";
+$MESS["FILEMAN_EDIT_PROPSMORE"] = "Още...";
+$MESS["FILEMAN_FILE_EDIT_FOLDER_PROP"] = "Текущо значение за свойството на страниците:";
+$MESS["FILEMAN_FILE_VIEW"] = "Преглед на файла";
+$MESS["FILEMAN_SESSION_EXPIRED"] = "Вашата сесия е изтекла. Моля, запазете документа още един път.";
+$MESS["FILEMAN_TAGS"] = "Таги (въведете думи или изречения, разделени със запетая)";
+$MESS["FILEMAN_FILE_DELETE"] = "Премахни файла";
+$MESS["FILEMAN_FILE_DELETE_CONFIRM"] = "Вие действително ли искате да премахнете този файл?";
+$MESS["FILEMAN_FILE_EDIT"] = "Редактирай";
+$MESS["FILEMAN_FILE_TRANS_LINKED"] = "Генериране на името на файла от заглавието: Включено";
+$MESS["FILEMAN_FILE_TRANS_UNLINKED"] = "Генериране на името на файла от заглавието: Изключено";
+?>

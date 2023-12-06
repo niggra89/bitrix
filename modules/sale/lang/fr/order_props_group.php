@@ -1,0 +1,29 @@
+<?
+$MESS ['PROPS_TYPE_TITLE'] = "Groupes de propriété";
+$MESS ['PT_FILTER_NAME'] = "Type de payeur";
+$MESS ['SALE_ALL'] = "tous";
+$MESS ['SALE_F_FILTER'] = "Filtre Mis";
+$MESS ['SALE_F_DEL'] = "Enlevez le Filtre";
+$MESS ['LANG_FILTER_BTN'] = "Filtre Mis";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Toutes les propriétés dans ce groupe seront effacées. Êtes-vous sûrs que vous voulez continuer ?";
+$MESS ['PERS_TYPE_NAV'] = "Groupes de propriété";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_NAME'] = "Nom";
+$MESS ['PERS_TYPE_TYPE'] = "Type de payeur";
+$MESS ['PERS_TYPE_SORT'] = "Sorte.";
+$MESS ['PERS_TYPE_DEL'] = "Effacer";
+$MESS ['PERS_TYPE_UPD'] = "Sauver";
+$MESS ['PERS_TYPE_RESET'] = "Remise";
+$MESS ['ERROR_ADD_REC'] = "Erreur ajoutant un record";
+$MESS ['ERROR_NAME_REC'] = "Le champ \"de Nom\" est exigé";
+$MESS ['ERROR_PERSON_TYPE_ID_REC'] = "Le \"champ\" de type de Payeur est exigé";
+$MESS ['ERROR_UPDATE_REC'] = "Erreur actualisant un record";
+$MESS ['SALE_PROPS'] = "Propriétés";
+$MESS ['SOPGAN_DELETE_ERROR'] = "Erreur en effaçant un record";
+$MESS ['SOPGAN_PROPS'] = "Propriétés";
+$MESS ['SOPGAN_EDIT_PROMT'] = "Modifiez le groupe";
+$MESS ['SOPGAN_DELETE_PROMT'] = "Effacez le groupe";
+$MESS ['SOPGAN_DELETE_PROMT_CONF'] = "Êtes-vous sûrs que vous voulez effacer ce groupe de propriété ?";
+$MESS ['SOPGAN_ADD_NEW'] = "Nouveau groupe";
+$MESS ['SOPGAN_ADD_NEW_ALT'] = "Faites un déclic pour ajouter un nouveau groupe de propriété";
+?>

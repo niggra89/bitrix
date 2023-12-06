@@ -1,0 +1,9 @@
+/* Main admin menus */
+#webdebug_callme_icon_17 {background-image:url("icons/webdebug.callme/icon_17.png");}
+.webdebug_callme_icon_17 {background:url("icons/webdebug.callme/icon_17.png") 10px 6px no-repeat !important;}
+
+/* Admin pages */
+#webdebug_callme_icon_34 {background-image:url("icons/webdebug.callme/icon_34.png");}
+
+.webdebug-callme-status-Y {background:url("images/lamp/green.gif") 0 0 no-repeat; display:inline-block; height:14px; line-height:14px; padding-left:18px;}
+.webdebug-callme-status-N {background:url("images/lamp/red.gif") 0 0 no-repeat; display:inline-block; height:14px; line-height:14px; padding-left:18px;}

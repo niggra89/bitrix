@@ -1,0 +1,12 @@
+.section_list {
+	float:left;
+}
+.section_list .section_list_item{
+	width:375px;
+	float:left;
+}
+.section_list .section_list_item .preview_picture{
+	width:170px;
+	float:left;
+	margin-right:
+}

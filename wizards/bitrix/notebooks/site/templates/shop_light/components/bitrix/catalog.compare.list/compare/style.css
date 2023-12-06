@@ -1,0 +1,21 @@
+
+.catalog-compare-list .compare_item
+{
+	text-decoration:none;display:inline;
+	line-height:1;margin:0 3px 5px 0;
+	color:#656565;
+}
+.catalog-compare-list .clear_item div
+{
+	background: url("images/close.png") no-repeat scroll right top transparent;
+    display: inline-block;
+    height: 8px;
+	*display:inline;
+    overflow: hidden;
+    width: 8px;
+}
+a.action_compare
+{
+	margin:10px 0 20px;
+	display:inline-block;
+}

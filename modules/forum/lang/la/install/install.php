@@ -1,0 +1,31 @@
+<?
+$MESS ['FORUM_MODULE_NAME'] = "Foro";
+$MESS ['FORUM_MODULE_DESCRIPTION'] = "Mòdulo del foro";
+$MESS ['FORUM_INSTALL1'] = "Instalaciòn del mòdulo del foro";
+$MESS ['FORUM_INSTALL2'] = "Instalaciòn del mòdulo del foro";
+$MESS ['FORUM_DELETE'] = "Desinstalar mòdulo del foro";
+$MESS ['FORUM_NEEDHELP'] = "Instalaciòn completa. Por favor Referir a la sección de la ayuda para más información. ";
+$MESS ['FORUM_BACK'] = "Regresar a la gerencia del módulo";
+$MESS ['FORUM_ERRORS_INSTALLATION'] = "Errores de instalaciòn:";
+$MESS ['FORUM_ERRORS_DELETING_MESS'] = "Advertencia! El mòdulo podrìa ser removido desde el sistema.";
+$MESS ['FORUM_ERRORS_SAVETABLE_MESS'] = "Para guardar los datos almacenados en las tablas de la base de datos, comprobar el &quot; Excepto tables&quot; casilla. Las plantillas del mensaje del E-mail también serán guardadas. Tener por favor esto presente al reinstalar este módulo.";
+$MESS ['FORUM_ERRORS_SAVETABLE'] = "Guardar tablas";
+$MESS ['FORUM_DEL'] = "Desinstalar";
+$MESS ['FORUM_ERRORS_DELETING'] = "Errores de desinstalaciòn:";
+$MESS ['FORUM_DELETED'] = "Desinstalaciòn completada.";
+$MESS ['FORUM_INSTALL_DEFAULT'] = "Ajustes para el mòdulo de instalaciòn del foro";
+$MESS ['FORUM_INSTALL_PUBLIC'] = "Instalar la parte pùblica del foro";
+$MESS ['FORUM_STEP_INSTALL'] = "Instalar";
+$MESS ['FORUM_INST_PUB_VAR'] = "Elegir el aspecto público de la sección del foro ";
+$MESS ['FORUM_INST_PUB_VAR_TITLE'] = "Agrandar";
+$MESS ['FORUM_INST_PUB_VAR_DEF'] = "Recomendado";
+$MESS ['FORUM_COPY_PUBLIC_FILES'] = "Instalar secciòn pùblico";
+$MESS ['FORUM_COPY_FOLDER'] = "Para la carpeta (relativo a la raìz del sitio de la carpeta)";
+$MESS ['FORUM_AUTH_FORM'] = "Para la carpeta (relativo a la raìz del sitio de la carpeta) (relativo a la raìz del sitio de la carpeta)";
+$MESS ['FORUM_MODE_SEF'] = "Instalar los archivos públicos que utilizan modo de SEF ";
+$MESS ['FORUM_REWRITE_PUBLIC'] = "Sobreescribir los archivos existentes";
+$MESS ['RESULT_OK'] = "Ok";
+$MESS ['FORUM_INSTALL_PUBLIC_DIR'] = "Para la carpeta (relativo a la raìz del sitio de la carpeta)";
+$MESS ['FORUM_INSTALL_PUBLIC_REW'] = "Sobreescribir los archivos existentes";
+$MESS ['RESULT_ERR'] = " ";
+?>

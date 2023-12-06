@@ -1,0 +1,29 @@
+<?
+$MESS ['FORUM_EDIT'] = "Modifier ";
+$MESS ['GROUP_ID'] = "ID";
+$MESS ['FORUM_ACTIONS'] = "Actions";
+$MESS ['FORUM_ADD_GROUP'] = "Ajouter un nouveau groupe";
+$MESS ['GROUP_DEL_CONF'] = "Sur de supprimer ce groupe&nbsp;?  Si des forum en font partie, le groupe ne peut être suprimé&nbsp;!";
+$MESS ['GROUP_RESET'] = "Annuler";
+$MESS ['FGAN_ADD_NEW_ALT'] = "Cliquer pour ajouter un nouveau groupe de forums";
+$MESS ['GROUP_DEL'] = "Supprimer";
+$MESS ['FORUM_DELETE_DESCR'] = "Supprimer le groupe";
+$MESS ['GROUP_F_DESCR'] = "Description&nbsp;:";
+$MESS ['ERROR_ADD_NEW_REC'] = "Erreur à l'ajout d'un groupe nouveau";
+$MESS ['ERROR_ADD_REC'] = "Erreur à l'ajout du groupe";
+$MESS ['ERROR_DELETE'] = "Erreur à la suppression du groupe";
+$MESS ['ERROR_DEL_GROUP'] = "Erreur à la suppression du groupe.";
+$MESS ['ERROR_UPDATE_REC'] = "Erreur lors de la mise à jour du groupe";
+$MESS ['ERROR_EMPTY_NAME2'] = "pour langue";
+$MESS ['FG_SUCCESS_DEL'] = "Groupe de forum supprimé avec succès";
+$MESS ['GROUP_TITLE'] = "Groupes de forum";
+$MESS ['GROUP_NAV'] = "Groupes";
+$MESS ['FORUM_EDIT_DESCR'] = "Modifier les options de groupe";
+$MESS ['FORUM_NAME'] = "Nom";
+$MESS ['GROUP_F_NAME'] = "Nom&nbsp;:";
+$MESS ['FGAN_ADD_NEW'] = "Nouveau groupe de forum";
+$MESS ['ERROR_EMPTY_NAME1'] = "Prière de spécifier le nom du groupe";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "Prière de spécifier pour la langue un nom au nouveau groupe";
+$MESS ['GROUP_UPD'] = "Enregistrer";
+$MESS ['GROUP_SORT'] = "Tri";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS ['FORUM_EDIT'] = "Modifier ";
+$MESS ['FORUM_SMILE_ICON'] = "Image";
+$MESS ['SMILE_ID'] = "ID";
+$MESS ['FORUM_ACTIONS'] = "Actions";
+$MESS ['FORUM_ADD_SMILE'] = "Ajouter un nouvel émoticon";
+$MESS ['SMILE_DEL_CONF'] = "Sur de supprimer  cette émoticône&nbsp;?";
+$MESS ['SMILE_RESET'] = "Annuler";
+$MESS ['FSAN_ADD_NEW_ALT'] = "Cliquer pour ajouter une nouvelle émoticône";
+$MESS ['SMILE_DEL'] = "Supprimer";
+$MESS ['FORUM_DELETE_DESCR'] = "Supprimer l'émoticône";
+$MESS ['SMILE_F_DESCR'] = "Description&nbsp;:";
+$MESS ['ERROR_ADD_NEW_REC'] = "Erreur à l'ajout d'une émoticône nouvelle";
+$MESS ['ERROR_ADD_REC'] = "Erreur à l'ajout d'une émoticône nouvelle";
+$MESS ['ERROR_DELETE'] = "Erreur à la suppression de l'émoticône";
+$MESS ['ERROR_DEL_SMILE'] = "Erreur à la suppression de l'émoticône.";
+$MESS ['ERROR_UPDATE_REC'] = "Erreur lors de la mise à jour d'une émoticône";
+$MESS ['FORUM_IMAGE_FILE'] = "Fichier";
+$MESS ['ERROR_EMPTY_NAME2'] = "pour langue";
+$MESS ['SMILE_TITLE'] = "Émoticônes de forum";
+$MESS ['SMILE_TYPE_ICON'] = "Icône";
+$MESS ['FORUM_EDIT_DESCR'] = "Modifier le options pour émoticône";
+$MESS ['FORUM_NAME'] = "Nom";
+$MESS ['SMILE_F_NAME'] = "Nom&nbsp;:";
+$MESS ['FSAN_ADD_NEW'] = "Nouvelle émoticône";
+$MESS ['ERROR_EMPTY_NAME1'] = "Prière de donner un nom à l'émoticône";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "Prière de donner dans la langue un nom à l'émoticône";
+$MESS ['SMILE_UPD'] = "Enregistrer";
+$MESS ['SMILE_TYPE_SMILE'] = "Sourire";
+$MESS ['SMILE_NAV'] = "Émoticônes";
+$MESS ['SMILE_SORT'] = "Tri";
+$MESS ['FS_SUCCESS_DEL'] = "L'émoticône a été supprimée avec succès";
+$MESS ['SMILE_TYPE'] = "Type";
+$MESS ['FORUM_TYPING'] = "En saisie";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS ['MAIN_ADM_CAPTCHA_PARAM1'] = "Прозрачност на текста в проценти от 0 до 100";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM2'] = "Долна граница на случаен цвят на фона";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM3'] = "Горна граница на случаен цвят на фона";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM4'] = "Брой на кръговете";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM5'] = "Долна граница на случаен цвят на кръга";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM6'] = "Горна граница на случаен цвят на кръга";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM7'] = "Линии над текста";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM8'] = "Брой линии";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM9'] = "Долна граница на случаен цвят на линиите";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM10'] = "Горна граница на случаен цвят на линиите";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM11'] = "Отстъп на текста от ляво";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM12'] = "Размер на шрифта";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM13'] = "Долна граница на случаен цвят на шрифта";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM14'] = "Горна граница на случаен цвят на шрифта";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM15'] = "Минималният ъгъл на отклоняване от вертикала";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM16'] = "Максималният ъгъл на отклоняване от вертикала";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM17'] = "Минимално разстояние между началото на символите (отрицателна стойност означава максимално разстояние от припокриващите се символи)";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM18'] = "Максимално разстояние между началото на символите (отрицателна стойност означава максимално разстояние от припокриващите се символи)";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM19'] = "Нелинейно изкривяване";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM20'] = "Граничен цвят";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM21'] = "Използвани шрифтове";
+$MESS ['MAIN_ADM_CAPTCHA_PARAM22'] = "Позволени символи (препоръчително е да зададете: ABCDEFGHJKLMNPQRSTWXYZ23456789)";
+$MESS ['MAIN_ADM_CAPTCHA_TAB'] = "Параметри";
+$MESS ['MAIN_ADM_CAPTCHA_TAB_TITLE'] = "Редактиране на настройките на CAPTCHA";
+$MESS ['MAIN_ADM_CAPTCHA_PAGE_TITLE'] = "CAPTCHA настройки";
+$MESS ['MAIN_ADM_CAPTCHA_PRESETS'] = "Профил";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_0'] = "Потребителски";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_1'] = "Ретро";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_2'] = "Вълни";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_3'] = "Линии";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_4'] = "Негатив";
+$MESS ['MAIN_ADM_CAPTCHA_PRESET_5'] = "Зелен";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS ['SAPE1_NO_SITE'] = "Plan sitesi belirtilmemiştir";
+$MESS ['SAPE1_NO_NAME'] = "Plan adı belirtilmemiştir";
+$MESS ['SAPE1_NO_RATE_CURRENCY'] = "Planın döviz oranı belirtilmemiştir";
+$MESS ['SAPE1_NO_SECTION'] = "Ürün grubu belirtilmemiştir";
+$MESS ['SAPE1_NO_MODULE'] = "Ürün grubun modülü belirtilmemiştir";
+$MESS ['SAPE1_ERROR_SAVE'] = "Plan kaydında hata";
+$MESS ['SAPE1_ERROR_SAVE_SECTION'] = "Plan ürünlerin grup kaydında hata";
+$MESS ['SAPE1_TITLE_UPDATE'] = "#ID# No'lu planın değişikliği";
+$MESS ['SAPE1_TITLE_ADD'] = "Yeni planın eklenmesi";
+$MESS ['SAPE1_LIST'] = "Plan listesi";
+$MESS ['SAPE1_ADD'] = "Plan ekle";
+$MESS ['SAPE1_DELETE'] = "Planı sil";
+$MESS ['SAPE1_DELETE_CONF'] = "Bu planı silmek istediğinizden eminmisiniz?";
+$MESS ['SAPE1_PLAN'] = "Plan";
+$MESS ['SAPE1_PLAN_PARAM'] = "Plan parametreleri";
+$MESS ['SAPE1_SECTIONS'] = "Ürün grupları";
+$MESS ['SAPE1_SECTIONS_ALT'] = "Katılımcının özel komisyonlu ürün grupları";
+$MESS ['SAPE1_TIMESTAMP_X'] = "Son değişiklik tarihi:";
+$MESS ['SAPE1_SITE'] = "Site:";
+$MESS ['SAPE1_NAME'] = "Plan adı:";
+$MESS ['SAPE1_DESCR'] = "Plan tanımı:";
+$MESS ['SAPE1_ACTIVE'] = "Etkinlik";
+$MESS ['SAPE1_RATE'] = "Katılımcı komisyonu:";
+$MESS ['SAPE1_LIMIT'] = "Plan, en az (adet.) satışında etkinliğini göstermektedir";
+$MESS ['SAPE1_LIMIT_HINT'] = "Plan, en az <br><small> miktarın satışında etkinliğini göstermektedir</small> sitenin veritabanında";
+$MESS ['SAPE1_NO'] = "(Hayır)";
+$MESS ['SAPE1_DELETE1'] = "Sil";
+$MESS ['SAPE1_MODULE'] = "Modül";
+$MESS ['SAPE1_SECTION'] = "Grup";
+$MESS ['SAPE1_RATE1'] = "Katılımcı komisyonu";
+$MESS ['SAPE1_ADD1'] = "Ekle";
+$MESS ['SAPE1_DELETE1_CONF'] = "Bu kaydı silmek istediğinizden eminmisiniz?";
+?>

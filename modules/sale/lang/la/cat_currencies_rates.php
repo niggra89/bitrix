@@ -1,0 +1,30 @@
+<?
+$MESS ['curr_rates_flt_date'] = "Fecha:";
+$MESS ['curr_rates_flt_btn'] = "Fijar filtro:";
+$MESS ['curr_rates_nav'] = "Tarifas";
+$MESS ['curr_rates_rate'] = "tarifa";
+$MESS ['curr_rates_rate_cnt'] = "Monto";
+$MESS ['curr_rates_del'] = "Eliminar";
+$MESS ['curr_rates_query'] = "Consulta";
+$MESS ['curr_rates_reset'] = "Resetear";
+$MESS ['curr_rates_title'] = "Tipos de cambio";
+$MESS ['curr_rates_list'] = "Monedas";
+$MESS ['curr_rates_err1'] = "Formato incorrecto en la fecha del inicio del periodo.";
+$MESS ['curr_rates_err2'] = "Formato incorrecto en la fecha final del periodo.";
+$MESS ['curr_rates_curr'] = "Moneda:";
+$MESS ['curr_rates_all'] = "(todo)";
+$MESS ['curr_rates_date1'] = "Fecha";
+$MESS ['curr_rates_curr1'] = "Moneda";
+$MESS ['curr_rates_upd'] = "Guardar";
+$MESS ['CURRENCY_TITLE'] = "Tipos de cambio";
+$MESS ['ERROR_ADD_REC'] = "Error al agregar un registro";
+$MESS ['ERROR_ADD_REC2'] = "Probablemente la tarifa ya se fijo para esta fecha. ";
+$MESS ['ERROR_UPDATE_REC'] = "Error al actualizar el registro";
+$MESS ['ERROR_QUERY_RATE'] = "Error consultando la tarifa";
+$MESS ['ERROR_EMPTY_ANSWER'] = "Respuesta del servidor vacia.";
+$MESS ['ERROR_SAVING_RATE'] = "Error al guardar tarifa";
+$MESS ['ERROR_SAVING_RATE1'] = "La tarifa no fue fijada.";
+$MESS ['ERROR_SAVING_RATE2'] = "El monto no fue fijado.";
+$MESS ['ERROR_DATE_RATE'] = "La fecha de la tarifa no fue fijada ";
+$MESS ['SALE_F_DEL'] = "Remover filtro";
+?>

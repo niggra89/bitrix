@@ -1,0 +1,29 @@
+<?
+$MESS ['B_B_MS_FROM'] = "de";
+$MESS ['B_B_MS_COMENT_DEL'] = "Borrar comentario";
+$MESS ['B_B_MS_REPLY'] = "Responder";
+$MESS ['B_B_MS_PARENT'] = "Superior";
+$MESS ['B_B_MS_LINK'] = "Link";
+$MESS ['B_B_MS_AUTHOR'] = "Autor:";
+$MESS ['B_B_MS_NAME'] = "Nombre:";
+$MESS ['B_B_MS_SUBJECT'] = "Asunto:";
+$MESS ['B_B_MS_M_BODY'] = "Enmvío:";
+$MESS ['B_B_MS_CAPTCHA_SYM'] = "Símbolos en el cuadro:";
+$MESS ['B_B_MS_SEND'] = "Enviar";
+$MESS ['B_B_MS_ADD_COMMENT'] = "Agregar comentario";
+$MESS ['B_B_MS_NO_MODULE'] = "Módulo del blog no está instalado";
+$MESS ['BLOG_P_INSERT_IMAGE_LINK'] = "Insertar link para la imagen";
+$MESS ['FPF_BOLD'] = "Negrilla";
+$MESS ['FPF_ITALIC'] = "Itálico";
+$MESS ['FPF_UNDER'] = "Subrayado";
+$MESS ['FPF_FONT'] = "Fuente";
+$MESS ['FPF_CLOSE_OPENED_TAGS'] = "Cerrar todas las etiquetas abiertas";
+$MESS ['FPF_CLOSE_ALL_TAGS'] = "Cerrar todas etiquetas";
+$MESS ['FPF_HYPERLINK'] = "Hipervínculo";
+$MESS ['FPF_IMAGE'] = "Color";
+$MESS ['FPF_CODE'] = "Código";
+$MESS ['FPF_CUT'] = "Crear previo (cortar)";
+$MESS ['FPF_LIST'] = "Crear lista";
+$MESS ['FPF_OPENED_TAGS'] = "Abrir etiquetas:&nbsp;";
+$MESS ['FPF_QUOTE'] = "Citar";
+?>

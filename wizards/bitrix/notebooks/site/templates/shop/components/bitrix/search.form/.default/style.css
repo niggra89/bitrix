@@ -1,0 +1,38 @@
+.search_input
+{
+	width:285px;
+	float:right;
+	height:33px;
+	margin-right:20px;
+	margin-top:5px;
+}
+.s_i_content
+{
+	width:275px;
+	float:left;
+	border-top:1px solid #949494;
+	border-bottom:1px solid #949494;
+	padding:5px 0 0 0;
+	height:26px;*height:33px;
+}
+.s_i_content input
+{
+	border:0;margin:0;padding:0;
+	width:270px;
+	color:#B6B6B6;
+	font-size:16px;
+}
+.s_i_left
+{
+	width:5px;
+	height:33px;
+	float:left;
+	background:url('images/search_left.png') no-repeat 0px 0px transparent;
+}
+.s_i_right
+{
+	width:5px;
+	height:33px;
+	float:right;
+	background:url('images/search_right.png') no-repeat 0px 0px transparent;
+}

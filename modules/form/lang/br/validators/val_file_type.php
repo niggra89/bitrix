@@ -1,0 +1,10 @@
+<?
+$MESS["FORM_VALIDATOR_FILE_TYPE_ERROR"] = "#FIELD_NAME#: tipo de arquivo inválido";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_ARCH"] = "arquivos";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_TYPE_EXT_NONE"] = "não validar";
+$MESS["FORM_VALIDATOR_FILE_TYPE_DESCRIPTION"] = "Tipo do arquivo";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT"] = "Tipo do arquivo (com base na extensão)";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_IMG"] = "imagens";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_CUSTOM"] = "Outras extensões permitidas (separado por vírgula)";
+$MESS["FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_DOCS"] = "arquivos de texto";
+?>

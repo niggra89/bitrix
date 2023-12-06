@@ -1,0 +1,30 @@
+<?
+$MESS["FORUMS"] = "Forumai";
+$MESS["FORUM_LIST"] = "Forumų sąrašas";
+$MESS["FORUM_NAME"] = "Forumo pavadinimas";
+$MESS["FORUM_TOPICS"] = "Temos";
+$MESS["FORUM_POSTS"] = "Įrašai";
+$MESS["FORUM_POST"] = "Pranešimai";
+$MESS["LAST_POST"] = "Paskutinis įrašas";
+$MESS["IS_NEW_MESS"] = "Yra naujų pranešimų!";
+$MESS["NO_NEW_MESS"] = "Naujų pranešimų nėra";
+$MESS["TOPIC"] = "tema";
+$MESS["AUTHOR"] = "autorius";
+$MESS["FDATE_LAST_MESSAGE"] = "paskutinio pranešimo data";
+$MESS["FMESSAGE_TOPIC"] = "pranešimo tema";
+$MESS["FNUM_ANSWERS"] = "atsakymų skaičius";
+$MESS["FNUM_VIEWS"] = "peržiūrų skaičius";
+$MESS["FSTART_DATE"] = "temos sukūrimo data";
+$MESS["FAUTHOR_TOPIC"] = "temos autorius";
+$MESS["FASC"] = "didėjimo tvarka";
+$MESS["FDESC"] = "mažėjimo tvarka";
+$MESS["FNO_ACCESS"] = "nėra prieigos";
+$MESS["FREAD_ACCESS"] = "skaityti";
+$MESS["FANSWER_ACCESS"] = "atsakyti";
+$MESS["FNEW_MESSAGE_ACCESS"] = "kurti naują temą ";
+$MESS["FMODERATE_ACCESS"] = "pritaikyti";
+$MESS["FEDIT_ACCESS"] = "redaguoti";
+$MESS["FFULL_ACCESS"] = "pilnas";
+$MESS["FORUM_SUB_ERR_AUTH"] = "Prenumeruoti gali tik registruoti vartotojai.";
+$MESS["FORUM_SUB_ERR_PERMS"] = "Prieigai prie šio forumo nepakanka teisių.";
+?>

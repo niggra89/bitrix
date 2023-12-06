@@ -1,0 +1,32 @@
+<?
+$MESS ['SAE_NO_SITE_PLAN'] = "Не е посочен сайт за плана";
+$MESS ['SAE_NO_USER'] = "Не е посочен потребител";
+$MESS ['SAE_NO_PLAN'] = "Не е посочен план";
+$MESS ['SAE_NO_DATE_CREATE'] = "Не е посочена датата на създаване";
+$MESS ['SAE_AFFILIATE_ALREADY_EXISTS'] = "Филиала за потребителя №#USER_ID# вече съществува на сайта #SITE_ID#";
+$MESS ['SAE_ERROR_SAVE_AFF'] = "Грешка при записа на филиала";
+$MESS ['SAE_TITLE_UPDATE_AFF'] = "Редактиране на филиала №#ID#";
+$MESS ['SAE_TITLE_ADD_AFF'] = "Нов филиал";
+$MESS ['SAE_AFF_LIST'] = "Списък на филиалите";
+$MESS ['SAE_AFF_ADD'] = "Добави филиал";
+$MESS ['SAE_AFF_DELETE'] = "Премахни филиала";
+$MESS ['SAE_AFF_DELETE_CONF'] = "Сигурни ли сте, че искате да изтриете този филиал?";
+$MESS ['SAE_AFF_TAB'] = "Филиал";
+$MESS ['SAE_AFF_TAB_TITLE'] = "Параметри на филиала";
+$MESS ['SAE_DATE_UPDATE'] = "Дата на последна промяна:";
+$MESS ['SAE_SITE'] = "Сайт:";
+$MESS ['SAE_USER'] = "Потребител:";
+$MESS ['SAE_PROFILE'] = "Профил на потребетеля";
+$MESS ['SAE_AFFILIATE_REG'] = "Филиал, през който се е  регистрирал:";
+$MESS ['SAE_NO_AFFILIATE'] = "Филиала не е намерен";
+$MESS ['SAE_WAIT'] = "почакайте";
+$MESS ['SAE_PLAN'] = "План:";
+$MESS ['SAE_ACTIVE'] = "Активни:";
+$MESS ['SAE_DATE_REG'] = "Дата на регистрация (";
+$MESS ['SAE_PAYED_SUM'] = "Изплатена сума:";
+$MESS ['SAE_PENDING_SUM'] = "Начислена сума:";
+$MESS ['SAE_LAST_CALC'] = "Дата на последното изчисляване (";
+$MESS ['SAE_FIX_PLAN'] = "Фиксиране на плана";
+$MESS ['SAE_AFF_SITE'] = "Сайт на фириала";
+$MESS ['SAE_AFF_DESCRIPTION'] = "Описание на филиала";
+?>

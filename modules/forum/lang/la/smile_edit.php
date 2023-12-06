@@ -1,0 +1,37 @@
+<?
+$MESS ['FORUM_EDIT_RECORD'] = "Editar smiley N#ID#";
+$MESS ['FORUM_NEW_RECORD'] = "Nuevo smiley";
+$MESS ['FORUM_RECORDS_LIST'] = "A la lista de smileys";
+$MESS ['FORUM_SAVE'] = "Guardar";
+$MESS ['FORUM_ADD'] = "Agregar";
+$MESS ['FORUM_APPLY'] = "Aplicar";
+$MESS ['FORUM_RESET'] = "Cancelar";
+$MESS ['ERROR_NO_NAME'] = "Especifique el nombre del smiley para el idioma";
+$MESS ['ERROR_EDIT_SMILE'] = "Error al actualizar el smiley";
+$MESS ['ERROR_ADD_SMILE'] = "Error al crear un nuevo smiley";
+$MESS ['FORUM_SORT'] = "Ordenando";
+$MESS ['FORUM_CODE'] = "ID";
+$MESS ['FORUM_NAME'] = "Nombre";
+$MESS ['FORUM_DESCR'] = "Descripción";
+$MESS ['FORUM_PT_PROPS'] = "Configuración";
+$MESS ['ERROR_NO_TYPE'] = "Especifique el tipo de smiley por favor";
+$MESS ['ERROR_NO_IMAGE'] = "Especifique la imagen del smiley por favor";
+$MESS ['ERROR_COPY_IMAGE'] = "Error al cargar la imagen del smiley.";
+$MESS ['ERROR_EXISTS_IMAGE'] = "La imagen ya exxiste";
+$MESS ['FORUM_TYPE'] = "Tipo de smiley";
+$MESS ['FORUM_TYPING'] = "Tipee Smiley";
+$MESS ['FORUM_TYPING_NOTE'] = "(todo lo tipeado debe estar separado por espacios)";
+$MESS ['FORUM_IMAGE'] = "Imagen del Smiley";
+$MESS ['FORUM_IMAGE_NOTE'] = "(dimensiones recomendadas para Smileys: 16x16, íconos: 15x15)";
+$MESS ['FSE_ERROR_EXT'] = "Extención inaceptable para el archivod e imagen";
+$MESS ['FSE_SMILE'] = "Smiley";
+$MESS ['FSE_ICON'] = "Ícono";
+$MESS ['ERROR_NO_MIN_NUM_POSTS'] = "Fije la cuota de mensaje para este rango por favor.";
+$MESS ['FORUM_CODE_LEN'] = "carta";
+$MESS ['FSN_2FLIST'] = "Smileys";
+$MESS ['FSN_NEW_SMILE'] = "Nuevo Smileys";
+$MESS ['FSN_DELETE_SMILE'] = "Eliminar Smileys";
+$MESS ['FSN_DELETE_SMILE_CONFIRM'] = " ¿Está seguro que desea eliminar este Smiley?";
+$MESS ['FSN_TAB_SMILE'] = "Smiley del foro";
+$MESS ['FSN_TAB_SMILE_DESCR'] = " Smiley Foro";
+?>

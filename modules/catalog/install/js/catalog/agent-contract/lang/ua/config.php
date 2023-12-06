@@ -1,0 +1,5 @@
+<?php
+$MESS["CATALOG_AGENT_CONTRACT_BUTTON_CANCEL"] = "Відмінити";
+$MESS["CATALOG_AGENT_CONTRACT_BUTTON_CONTINUE"] = "Продовжити";
+$MESS["CATALOG_AGENT_CONTRACT_TITLE_DELETE_CONTENT"] = "Справді видалити цю агентську схему?";
+$MESS["CATALOG_AGENT_CONTRACT_TITLE_DELETE_TITLE"] = "Видалення агентської схеми";

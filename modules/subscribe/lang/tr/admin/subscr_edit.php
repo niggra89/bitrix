@@ -1,0 +1,30 @@
+<?
+$MESS ['subscr_title_edit'] = "Adresin düzenlenmesi #";
+$MESS ['subscr_title_add'] = "Adresin eklenmesi";
+$MESS ['subscr_list'] = "Adres listesi";
+$MESS ['subscr_conf'] = "Abonelik doğrulandı:";
+$MESS ['subscr_conf_code'] = "Abonelik onay kodu:";
+$MESS ['subscr_date_conf'] = "Onay kodu oluşturma tarihi:";
+$MESS ['subscr_user'] = "Kullanıcı (ID):";
+$MESS ['subscr_active'] = "Abonelik etkin:";
+$MESS ['subscr_send_conf'] = "Adresin değiştirilmesinde (eklenmesinde) onay kodunu abonelik sahibine gönderiniz:";
+$MESS ['subscr_rub'] = "Abonelik konuları:";
+$MESS ['subscr_fmt'] = "Format:";
+$MESS ['subscr_fmt_text'] = "Metin";
+$MESS ['subscr_date_add'] = "Ekleme tarihi:";
+$MESS ['subscr_date_upd'] = "Değiştirme tarihi:";
+$MESS ['subscr_anonym'] = "Anonim aboneliği:";
+$MESS ['subscr_mnu_add'] = "Yeni katılımcı ekle";
+$MESS ['subscr_mnu_del'] = "Bu aboneliği sil";
+$MESS ['subscr_mnu_del_conf'] = "Abonelik adresi silinsin mi?";
+$MESS ['subscr_templ'] = "Site şablonuna dayanarak iletiyi gönder:";
+$MESS ['subscr_tab_subscriber'] = "Katılımcılar";
+$MESS ['subscr_tab_subscriber_title'] = "Abonelik parametreleri";
+$MESS ['subscr_tab_subscription'] = "Abonelikler";
+$MESS ['subscr_tab_subscription_title'] = "Abonelik kategorileri";
+$MESS ['subs_save_error'] = "Abonelik adresin kaydında hata.";
+$MESS ['subscr_list_text'] = "Liste";
+$MESS ['subscr_add_text'] = "Ekle";
+$MESS ['subscr_del_text'] = "Sil";
+$MESS ['subs_saved'] = "Abonelik adresi başarı ile kaydedildi.";
+?>

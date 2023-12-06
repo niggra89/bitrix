@@ -1,0 +1,21 @@
+.catalog_section .item .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_section .item .buttons input.add
+{
+	background:url('images/addToBasket.png') no-repeat 0px 0px transparent;
+	width: 88px;
+}
+.catalog_section .item .buttons input.buy
+{
+	background:url('images/buy.png') no-repeat 0px 0px transparent;
+	width: 58px;
+}
+.buttons input.buy
+{
+	background-image:url('images/buy.jpg');	cursor:pointer;
+}

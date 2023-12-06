@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Error al eliminar propiedad";
+$MESS ['SALE_SECTION_TITLE'] = "Propiedades de la orden";
+$MESS ['SALE_F_FILTER'] = "Filtro";
+$MESS ['SALE_F_PERS_TYPE'] = "Tipo de pago";
+$MESS ['SALE_ALL'] = "todo";
+$MESS ['SALE_F_TYPE'] = "Tipo de propiedad";
+$MESS ['SALE_F_USER'] = "Incluido en perfil";
+$MESS ['SALE_F_GROUP'] = "Propiedades del grupo";
+$MESS ['SALE_F_SUBMIT'] = "Fijar filtro";
+$MESS ['SALE_F_DEL'] = "Remover filtro";
+$MESS ['SALE_ADD'] = "Agregar";
+$MESS ['SALE_PERSON_TYPE'] = "Tipo de pago";
+$MESS ['SALE_FIELD_NAME'] = "Nombre";
+$MESS ['SALE_FIELD_TYPE'] = "Tipo";
+$MESS ['SALE_REQUIED'] = "Requerido";
+$MESS ['SALE_GROUP'] = "Grupo";
+$MESS ['SALE_USER'] = "Perfil";
+$MESS ['SALE_ACTION'] = "Acciones";
+$MESS ['SALE_EDIT'] = "Modificar";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "¿Está seguro que desea eliminar esta propiedad?";
+$MESS ['SALE_DELETE'] = "Eliminar";
+$MESS ['SALE_PRLIST'] = "Propiedades";
+$MESS ['SALE_VIEW'] = "Previo";
+$MESS ['SALE_YES'] = "Si";
+$MESS ['SALE_NO'] = "No";
+$MESS ['SOP_YES'] = "si";
+$MESS ['SOP_NO'] = "no";
+$MESS ['SALE_EDIT_DESCR'] = "Modificar parámetros de propiedades";
+$MESS ['SALE_DELETE_DESCR'] = "Eliminar propiedad";
+$MESS ['SOPAN_ERROR_DELETE'] = "Error al eliminar propiedad";
+$MESS ['SOPAN_ADD_NEW'] = "Nuea propiedad";
+$MESS ['SOPAN_ADD_NEW_ALT'] = "Click para agregar una nueva propiedad";
+$MESS ['SOPAN_4NEW_PROMT'] = "Seleccione un tipo de pago:";
+?>

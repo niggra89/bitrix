@@ -1,0 +1,29 @@
+<?
+$MESS ['STE_EMPTY_USER'] = "Не е попълнено полето \"Потребител\"";
+$MESS ['STE_EMPTY_CURRENCY'] = "Не е попълнено полето \"Валута\"";
+$MESS ['STE_EMPTY_SUM'] = "Не е попълнено полето \"Сума\"";
+$MESS ['STE_EMPTY_DATE'] = "Не е попълнено полето \"Дата на транзакция\"";
+$MESS ['STE_ERROR_SAVE_ACCOUNT'] = "Грешка при записа на сумата";
+$MESS ['STE_TITLE'] = "Нова транзакция";
+$MESS ['STE_TO_LIST'] = "Списък на транзакциите";
+$MESS ['STE_USER'] = "Потребител:";
+$MESS ['STE_DATE'] = "Дата на транзакцията (";
+$MESS ['STE_SUM'] = "Сума:";
+$MESS ['STE_CURRENCY'] = "Валута:";
+$MESS ['STE_TYPE'] = "Тип на записа:";
+$MESS ['STE_DEBET'] = "Преведени суми в сметката на потребителя";
+$MESS ['STE_KREDIT'] = "Изтеглени суми от сметката на потребителя";
+$MESS ['STE_ORDER_ID'] = "Номер на поръчката (ако транзакцията е към нея):";
+$MESS ['STE_DESCR'] = "Описание:";
+$MESS ['STE_NOTES'] = "Бележки:";
+$MESS ['STE_SAVE'] = "Запиши";
+$MESS ['STE_APPLY'] = "Постави";
+$MESS ['STE_CANCEL'] = "Отмени";
+$MESS ['STE_USER_PROFILE'] = "Профил на потребителя";
+$MESS ['STEN_2FLIST'] = "Списък на транзакциите";
+$MESS ['STEN_2FLIST_TITLE'] = "Преглед на транзакциите";
+$MESS ['STEN_TAB_TRANSACT'] = "Транзакция";
+$MESS ['STEN_TAB_TRANSACT_DESCR'] = "Транзакция";
+$MESS ['STE_CANCEL1'] = "Отмени";
+$MESS ['STE_ERROR'] = "Грешка при записа!";
+?>

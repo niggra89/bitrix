@@ -1,0 +1,75 @@
+.catalog_sections_top .item
+{
+/*
+	margin:0 0 15px 0; 
+*/
+}
+.catalog_sections_top .item .element_item
+{
+	width:245px;float:left;
+	margin-right:10px;
+}
+.catalog_sections_top .item h2
+{
+	padding:0 0 10px 35px;
+	margin-top:10px;
+}
+.catalog_sections_top .item .item_content
+{
+	margin:0 0 0 35px;
+}
+.catalog_sections_top .item .section_description
+{
+	color:#999999;margin:0 0 20px 0;
+}
+.catalog_sections_top .item .element_item .preview_picture
+{
+	float: right;
+    margin: 10px 0 0 10px;
+    overflow: hidden;
+    width: 100px;
+}
+.catalog_sections_top .item .element_item .elem
+{
+	float:left;width:135px;
+	overflow:hidden;
+}
+.catalog_sections_top .item .element_item .elem .property
+{
+	float:left;width:100%;
+	margin:10px 0 0px;
+	color:#454545;
+	font-size:10px;
+    line-height: 1.35;
+
+}
+.catalog_sections_top .item .element_item .elem .catalog-price
+{
+    float: left;
+    font-size: 20px;
+    width: auto;
+	margin:0 0 5px 0;
+	clear:both;*clear:none;
+}
+
+.catalog_sections_top .item .buttons .buy_nonactive
+{
+	text-decoration:underline;color:#aaaaaa;
+}
+.catalog_sections_top .item .buttons .buy
+{
+	font-size:13px;
+}
+.elem_descr
+{
+	float:left;
+}
+.price_m
+{
+	display:inline-block;
+	width:100%;
+}
+.price_m span
+{
+	font-size:11px;
+}

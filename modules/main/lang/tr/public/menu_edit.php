@@ -1,0 +1,35 @@
+<?
+$MESS ['MENU_EDIT_TITLE'] = "Menünün düzenlenmesi";
+$MESS ['MENU_EDIT_TITLE_EDIT'] = "Menü öğelerin düzenlenmesi";
+$MESS ['MENU_EDIT_TITLE_ADD'] = "Menü üğelerin eklenmesi";
+$MESS ['MENU_EDIT_DESCRIPTION_EDIT'] = "#DIR# günlük içerisinde #TYPE#\" tipi menü öğelerin düzenlenmesi";
+$MESS ['MENU_EDIT_DESCRIPTION_ADD'] = "#DIR# günlük içerisinde \"#TYPE#\" tipi menü öğelerin eklenmesi";
+$MESS ['MENU_EDIT_CLOSE'] = "Pencereyi kapat";
+$MESS ['MENU_EDIT_ADD_ITEM'] = "Öğe ekle";
+$MESS ['MENU_EDIT_EXT'] = "Gelişmiş ayarlar";
+$MESS ['MENU_EDIT_NAME'] = "Ad";
+$MESS ['MENU_EDIT_LINK'] = "Link";
+$MESS ['MENU_EDIT_SORT'] = "Sıralama";
+$MESS ['MENU_EDIT_DEL'] = "Sil";
+$MESS ['MENU_EDIT_ADDITIONAL_LINK'] = "Aydınlatma için ek linkler:";
+$MESS ['MENU_EDIT_CONDITION'] = "Koşul:";
+$MESS ['MENU_EDIT_CONDITION_TYPE'] = "Koşul tipi:";
+$MESS ['MENU_EDIT_PARAMS'] = "Parametreler:";
+$MESS ['MENU_EDIT_PARAM_NAME'] = "Ad";
+$MESS ['MENU_EDIT_PARAM_VALUE'] = "Değer";
+$MESS ['MENU_EDIT_SAVE'] = "Kaydet";
+$MESS ['MENU_EDIT_SAVE_TITLE'] = "Menü değişikliklerini kaydet";
+$MESS ['MENU_EDIT_CANCEL'] = "İptal et";
+$MESS ['MENU_EDIT_CANCEL_TITLE'] = "Menü değişikliklerini iptal et";
+$MESS ['MENU_EDIT_JS_NONAME'] = "??????:508";
+$MESS ['MENU_EDIT_TOOLTIP_EXPAND'] = "Menü öğesi gelişmiş ayarları gizle/görüntüle";
+$MESS ['MENU_EDIT_TOOLTIP_TEXT_EDIT'] = "Menü öğe metnin düzenlenmesi için tıklatınız";
+$MESS ['MENU_EDIT_TOOLTIP_LINK_EDIT'] = "Menü öğe linkin düzenlenmesi için tıklatınız";
+$MESS ['MENU_EDIT_TOOLTIP_FD'] = "Dosya seçim iletişimini aç";
+$MESS ['MENU_EDIT_TOOLTIP_UP'] = "Öğeyi yukarı taşı";
+$MESS ['MENU_EDIT_TOOLTIP_DOWN'] = "Öğeyi aşağıya taşı";
+$MESS ['MENU_EDIT_TOOLTIP_DELETE'] = "Menü öğesini sil";
+$MESS ['MENU_EDIT_TOOLTIP_DRAG'] = "Fare ile menü öğesini taşı";
+$MESS ['MENU_EDIT_OLD_STYLE'] = "Denetim panelinda öğenin düzenlenmesi";
+$MESS ['MENU_EDIT_SESSION_EXPIRED'] = "Oturumunuzun süresi doldu. Belgeyi yeniden tekrar kaydediniz.";
+?>

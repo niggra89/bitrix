@@ -1,0 +1,29 @@
+<?
+$MESS ['FORUMS'] = "Списък на форумите";
+$MESS ['NAV'] = "Форуми";
+$MESS ['ACTIVE'] = "Активни";
+$MESS ['LAND'] = "Сайт";
+$MESS ['SORT'] = "Сорт.";
+$MESS ['NAME'] = "Име";
+$MESS ['FORUM_GROUP_ID'] = "Група";
+$MESS ['MODERATION'] = "Premoderation";
+$MESS ['INDEXATION'] = "Индексирания";
+$MESS ['ORDER_BY'] = "Сорт. темите";
+$MESS ['ORDER_DIRECTION'] = "Сорт. темите (ред)";
+$MESS ['FORUM_EDIT'] = "Редактиране настройките на форума";
+$MESS ['FORUM_DELETE'] = "Премахни форума";
+$MESS ['DELETE_CONFIRM'] = "Форума ще бъде необратимо изтрит. Искате ли да продължите?";
+$MESS ['FA_NO_PERMS2UPDATE'] = "Недостатъчни права за редактиране на форума с код";
+$MESS ['FA_ERROR_UPDATE'] = "Грешка при обновяването на форума с код";
+$MESS ['FA_DELETE_NO_PERMS'] = "Недостатъчни права за премахване на форума";
+$MESS ['FA_DELETE_ERROR'] = "Грешка при премахването на форума. Възможно е да има свързани с него данни.";
+$MESS ['FFAN_ADD_NEW'] = "Нов форум";
+$MESS ['FFAN_ADD_NEW_ALT'] = "Натиснете за да добавите нов форум";
+$MESS ['FFAN_SITE_ID'] = "Сайт";
+$MESS ['FFAN_ALL'] = "Всички";
+$MESS ['FFAN_YES'] = "Да";
+$MESS ['FFAN_NO'] = "Не";
+$MESS ['FFAN_ACTIVE'] = "Активни";
+$MESS ['FFAN_GROUP_ID'] = "Група форуми";
+$MESS ['MAIN_ADMIN_LIST_CLEAR_HTML'] = "почисти кеша на съобщенията от форума";
+?>

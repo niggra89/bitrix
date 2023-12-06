@@ -1,0 +1,118 @@
+#catalog_element
+{
+	width:695px;
+	float:left;
+	margin-left:40px;
+}
+.menu_item
+{
+	display:none;
+}
+.element_menu
+{
+	position:relative;
+	z-index:1;margin-top: 15px;
+}
+.element_menu a
+{
+	font-size:18px;
+	color:#232323;
+	text-decoration:none;
+	float:left;
+	outline:none;
+	cursor:pointer;
+}
+.element_menu a span
+{
+	float:left;
+	border-top:1px solid #ffffff;
+	background:transpaent;
+	height:42px;
+	padding: 7px 7px 0;
+}
+.element_menu a.selected span
+{
+	border-top:1px solid #e0e0e0;
+	background:#ffffff;
+}
+.element_menu a .left
+{
+	float:left;
+	width:10px;height:37px;
+	background:none;
+}
+.element_menu a.selected .left
+{
+	background:url('images/left.png') no-repeat 0px 0px transparent;
+}
+.element_menu a .right
+{
+	float:left;
+	width:10px;height:37px;
+	background:none;
+}
+.element_menu a.selected .right
+{
+	background:url('images/right.png') no-repeat 0px 0px transparent;
+}
+.menu_content_block
+{
+	float:left;
+	width: 695px;
+	margin-top: -14px;
+	*margin-top: -12px;
+}
+.menu_content_block .content
+{
+	border-left:1px solid #e0e0e0;
+	border-right:1px solid #e0e0e0;
+	float:left;
+	width: 673px;*width: 695px;
+	padding:15px 10px;*padding:10px 10px;
+}
+
+.menu_content_block .top_left
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/top_left.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+.menu_content_block .top_center
+{
+	float:left;
+	height:9px;
+	width: 675px;
+	border-top:1px solid #e0e0e0;
+	overflow:hidden;
+}
+.menu_content_block .top_right
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/top_right.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+
+.menu_content_block .bottom_left
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/bottom_left.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}
+.menu_content_block .bottom_center
+{
+	float:left;
+	height:9px;*height:10px;
+	width: 675px;
+	border-bottom:1px solid #e0e0e0;
+	overflow:hidden;
+}
+.menu_content_block .bottom_right
+{
+	float:left;
+	width: 10px;height:10px;
+	background:url('images/bottom_right.png') no-repeat 0px 0px transparent;
+	overflow:hidden;
+}

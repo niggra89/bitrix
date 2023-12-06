@@ -1,0 +1,22 @@
+.system-nav-orange
+{
+	color: #333;
+	font-size:14px;
+	margin-top: 15px;
+}
+
+.nav-title_b
+{
+font-weight: bold;
+}
+.system-nav-orange .nav-current-page
+{
+	color:white;
+	background-color: rgb(255, 153, 0);
+	font-weight: bold;
+	padding:1px 0px;
+}
+.nav-title{width:170px; float:left;}
+.nav-pages{margin-left:265px; width:510px; text-align: right;}
+.nav-pages a {color:#333;}
+.nav-pages img {margin-bottom: -3px;}

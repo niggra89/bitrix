@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Özelliklerin silme hata";
+$MESS ['SALE_SECTION_TITLE'] = "Sipariş özellikleri";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_PERS_TYPE'] = "Ödeyen türü";
+$MESS ['SALE_ALL'] = "tümü";
+$MESS ['SALE_F_TYPE'] = "Özellik türü";
+$MESS ['SALE_F_USER'] = "Profile dahil edilmektedir";
+$MESS ['SALE_F_GROUP'] = "Özellik grubu";
+$MESS ['SALE_F_SUBMIT'] = "Ayarla";
+$MESS ['SALE_F_DEL'] = "Sıfırla";
+$MESS ['SALE_ADD'] = "Ekle";
+$MESS ['SALE_PERSON_TYPE'] = "Ödeyen türü";
+$MESS ['SALE_FIELD_NAME'] = "Ad";
+$MESS ['SALE_FIELD_TYPE'] = "Tür";
+$MESS ['SALE_REQUIED'] = "Gerekli";
+$MESS ['SALE_GROUP'] = "Grup";
+$MESS ['SALE_USER'] = "Profil";
+$MESS ['SALE_ACTION'] = "Etkinlikler";
+$MESS ['SALE_EDIT'] = "Değiştir";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Bu özelliği silmek istediğinizden eminmisiniz?";
+$MESS ['SALE_DELETE'] = "Sil";
+$MESS ['SALE_PRLIST'] = "Özellikleri";
+$MESS ['SALE_VIEW'] = "Önizleme";
+$MESS ['SALE_YES'] = "Evet";
+$MESS ['SALE_NO'] = "Hayır";
+$MESS ['SALE_EDIT_DESCR'] = "Özellik parametrelerini değiştir";
+$MESS ['SALE_DELETE_DESCR'] = "Özelliği sil";
+$MESS ['SOP_YES'] = "evet";
+$MESS ['SOP_NO'] = "hayır";
+$MESS ['SOPAN_ERROR_DELETE'] = "Özelliğin silme hata";
+$MESS ['SOPAN_ADD_NEW'] = "Yeni özellik";
+$MESS ['SOPAN_ADD_NEW_ALT'] = "Yeni özelliğin eklenmesi için tıklatınız";
+$MESS ['SOPAN_4NEW_PROMT'] = "Ödeyen türü seçiniz:";
+$MESS ['F_IS_FILTERED'] = "Özellikler siparişlere göre filtre içerisinde erişilmektedir:";
+?>

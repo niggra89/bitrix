@@ -1,0 +1,1 @@
+Öffnungszeiten: Mo - So, von 10.00 bis 21.00 Uhr 

@@ -1,0 +1,30 @@
+<?
+$MESS ['curr_rates_flt_date'] = "Date:";
+$MESS ['curr_rates_flt_btn'] = "Filtre Mis";
+$MESS ['curr_rates_nav'] = "Taux";
+$MESS ['curr_rates_rate'] = "Taux";
+$MESS ['curr_rates_rate_cnt'] = "La valeur";
+$MESS ['curr_rates_del'] = "Effacer";
+$MESS ['curr_rates_query'] = "Question";
+$MESS ['curr_rates_reset'] = "Remise";
+$MESS ['curr_rates_title'] = "Taux de devise";
+$MESS ['curr_rates_list'] = "Devises";
+$MESS ['curr_rates_err1'] = "format de date du debut de periode est faux";
+$MESS ['curr_rates_err2'] = " format de date de la fin de periode est faux.";
+$MESS ['curr_rates_curr'] = "Devise:";
+$MESS ['curr_rates_all'] = "(tous)";
+$MESS ['curr_rates_date1'] = "Date";
+$MESS ['curr_rates_curr1'] = "Devise";
+$MESS ['curr_rates_upd'] = "Sauvegarder";
+$MESS ['CURRENCY_TITLE'] = "Taux de devise";
+$MESS ['ERROR_ADD_REC'] = "erreur en ajoutant un nouveau enregistrement";
+$MESS ['ERROR_ADD_REC2'] = "Le taux a été peut-être déjà assigné pour cette date.";
+$MESS ['ERROR_UPDATE_REC'] = "erreur d'enregeistrement";
+$MESS ['ERROR_QUERY_RATE'] = "erreur de demande du taux";
+$MESS ['ERROR_EMPTY_ANSWER'] = "Réponse vide du serveur.";
+$MESS ['ERROR_SAVING_RATE'] = "erreur en sauvegardant le taux";
+$MESS ['ERROR_SAVING_RATE1'] = "Le taux n'est pas mis.";
+$MESS ['ERROR_SAVING_RATE2'] = "La quantité n'est pas mise.";
+$MESS ['ERROR_DATE_RATE'] = "La quantité n'est pas mise.";
+$MESS ['CATALOG_F_DEL'] = "Enlevez le Filtre";
+?>

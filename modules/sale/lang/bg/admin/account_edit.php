@@ -1,0 +1,35 @@
+<?
+$MESS ['SAE_NO_PERMS2ADD'] = "Вие нямате достатъчни права за добавяне на нов акаунт";
+$MESS ['SAE_EMPTY_USER'] = "Не е попълнено полето \"Потребител\"";
+$MESS ['SAE_EMPTY_CURRENCY'] = "Не е попълнено полето \"Валута\"";
+$MESS ['SAE_ALREADY_EXISTS'] = "Акаунта на потребителя ##USER# за валутата #CURRENCY# вече съществува";
+$MESS ['SAE_NO_ACCOUNT'] = "Акаунта ##ID# не е намерен";
+$MESS ['SAE_ERROR_SAVING'] = "Грешка при записа на акаунта";
+$MESS ['SAE_ERROR_SAVING_SUM'] = "Грешка при записа на акаунта. Моля, проверете записана ли е правилно сумата в акаунта";
+$MESS ['SAE_ERROR_SAVING_COMMENT'] = "Грешка при записа на коментара към акаунта";
+$MESS ['SAE_UPDATING'] = "Редактиране на параметрите на акаунта";
+$MESS ['SAE_ADDING'] = "Добавяне на нов акаунт";
+$MESS ['SAE_TO_LIST'] = "Списък на акаунтите";
+$MESS ['SAE_TIMESTAMP'] = "Дата на последната промяна:";
+$MESS ['SAE_USER1'] = "Потребител:";
+$MESS ['SAE_USER_PROFILE'] = "Профил на потребителя";
+$MESS ['SAE_SUM'] = "Сума в акаунта:";
+$MESS ['SAE_UNLOCK'] = "Отключване на акаунта:";
+$MESS ['SAE_LOCKED'] = "Заключен";
+$MESS ['SAE_NOTES'] = "Бележки:";
+$MESS ['SAE_OSN'] = "Основание за промяна на сумата в сметката:";
+$MESS ['SAE_OSN_NOTE'] = "(попълва се в случай на промени)";
+$MESS ['SAE_SAVE'] = "Запиши";
+$MESS ['SAE_SAVE_ADD'] = "Добави";
+$MESS ['SAE_APPLY'] = "Постави";
+$MESS ['SAE_CANCEL'] = "Отмени";
+$MESS ['SAEN_2FLIST'] = "Списък на акаунтите";
+$MESS ['SAEN_2FLIST_TITLE'] = "Виж списъка на акаунтите";
+$MESS ['SAEN_NEW_ACCOUNT'] = "Нов акаунт";
+$MESS ['SAEN_NEW_ACCOUNT_TITLE'] = "Създай нов акаунт";
+$MESS ['SAEN_DELETE_ACCOUNT'] = "Премахни акаунта";
+$MESS ['SAEN_DELETE_ACCOUNT_CONFIRM'] = "Сигурни ли сте, че искате да изтриете този акаунт?";
+$MESS ['SAEN_TAB_ACCOUNT'] = "Акаунт на потребителя";
+$MESS ['SAEN_TAB_ACCOUNT_DESCR'] = "Акаунт на потребителя";
+$MESS ['SAE_ERROR'] = "Грешка при записа!";
+?>

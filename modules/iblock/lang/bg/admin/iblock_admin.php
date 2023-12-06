@@ -1,0 +1,33 @@
+<?
+$MESS ['IBLOCK_ADM_UPD_ERROR'] = "Грешка при промяната на записа:";
+$MESS ['IBLOCK_ADM_HEADER_EL'] = "Елементи";
+$MESS ['IBLOCK_ADM_HEADER_SECT'] = "Раздели";
+$MESS ['IBLOCK_ADM_HEADER_LIST_URL'] = "URL на страницата в информационният блока";
+$MESS ['IBLOCK_ADM_HEADER_DETAIL_URL'] = "URL на страницата елемента";
+$MESS ['IBLOCK_ADM_HEADER_TOINDEX'] = "Индексиране на елементите";
+$MESS ['IBLOCK_ADM_TO_EL_LIST'] = "Премини към списъка на елементите";
+$MESS ['IBLOCK_ADM_TO_EDIT'] = "Премини за редактиране на информационният блок";
+$MESS ['IBLOCK_ADM_TO_ELLIST'] = "Премини в списъка на елементите";
+$MESS ['IBLOCK_ADM_TO_SECTLIST'] = "Премини в списъка на разделите";
+$MESS ['IBLOCK_ADM_TO_ADDIBLOCK'] = "Добави информационен блок";
+$MESS ['IBLOCK_ADM_TO_ADDIBLOCK_TITLE'] = "Добави нов информационен блок";
+$MESS ['IBLOCK_ADM_FILT_SITE'] = "Сайт";
+$MESS ['IBLOCK_ADM_FILT_ACT'] = "Активност";
+$MESS ['IBLOCK_ADM_FILT_NAME'] = "Име:";
+$MESS ['IBLOCK_ADM_HEADER_WORKFLOW'] = "Документооборот";
+$MESS ['IBLOCK_ADM_SECTIONS'] = "Раздели";
+$MESS ['IBLOCK_ADM_ELEMENTS'] = "Елементи";
+$MESS ['IBLOCK_ADM_MANAGE_HINT'] = "За да управлявате настройките на информационните блокове Вие можете в раздела";
+$MESS ['IBLOCK_ADM_MANAGE_HINT_HREF'] = "Информационни блокове - Типове информ. блокове";
+$MESS ['IBLOCK_ADM_ACTIVE'] = "Акт.";
+$MESS ['IBLOCK_ADM_LANG'] = "Сайт";
+$MESS ['IBLOCK_ADM_NAME'] = "Име";
+$MESS ['IBLOCK_ADM_SORT'] = "Сорт.";
+$MESS ['IBLOCK_ADM_TIMESTAMP'] = "Дата редак.";
+$MESS ['IBLOCK_ADM_TITLE'] = "#IBLOCK_TYPE#: Информационни блокове";
+$MESS ['IBLOCK_ADM_DELETE_ERROR'] = "Грешка при премахването. Възможно е да има свързани обекти.";
+$MESS ['IBLOCK_ADM_CONFIRM_DEL_MESSAGE'] = "Цялата информация, свързана с този запис ще бъде изтрита! Искате ли да продължите?";
+$MESS ['IBLOCK_ADM_SAVE_ERROR'] = "Грешка при записа ##ID#: #ERROR_TEXT#";
+$MESS ['IBLOCK_ADM_HEADER_BIZPROC'] = "Шаблон за бизнес процесите";
+$MESS ['IBLOCK_ADM_MENU_BIZPROC'] = "Бизнес процеси";
+?>

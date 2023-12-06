@@ -1,0 +1,37 @@
+<?
+$MESS ['BLOG_DESCR_SECTION'] = "Blogs";
+$MESS ['BLOG_DESCR_SEP_NAME'] = "Página del índice de Blog";
+$MESS ['BLOG_DESCR_SEP_DESCR'] = "Componentes del módulo de Blog para la página del índice del blog ";
+$MESS ['BLOG_DESCR_SEARCH_NAME'] = "Formulario de búsqueda ";
+$MESS ['BLOG_DESCR_SEARCH_DESCR'] = "Formulario de búsqueda y resultados de la búsqueda";
+$MESS ['BLOG_DESCR_SEARCH_PAGE'] = "Página de la búsqueda ";
+$MESS ['BLOG_DESCR_SEARCH_RESULT'] = "Resultados por la página ";
+$MESS ['BLOG_DESCR_MES_NAME'] = "Ultimos envíos";
+$MESS ['BLOG_DESCR_MES_DESCR'] = "Ultimos envíos de todos los blogs del sitio agrupado por la fecha ";
+$MESS ['BLOG_DESCR_MES_COUNT'] = "Número de envíos para mostrar";
+$MESS ['BLOG_DESCR_SORT_1'] = "Campo para el primer pase de clasificación";
+$MESS ['BLOG_DESCR_SORT_2'] = "Campo para el segundo pase de clasificación";
+$MESS ['BLOG_DESCR_SORT_DATE_PUBLISH'] = "Publicar la fecha ";
+$MESS ['BLOG_DESCR_SORT_MES_TITLE'] = "Título del envío";
+$MESS ['BLOG_DESCR_SORT_BLOG_ID'] = "ID del blog";
+$MESS ['BLOG_DESCR_SORT_MES_CREATE'] = "Crear fecha de envío";
+$MESS ['BLOG_DESCR_SORT_ORDER'] = "Dirección para el primer pase de clasificación";
+$MESS ['BLOG_DESCR_SORT_ASC'] = "Ascendente";
+$MESS ['BLOG_DESCR_SORT_DESC'] = "Descendente";
+$MESS ['BLOG_DESCR_CACHE_TIME'] = "Tiempo para mantener el resultado cached (0 - no es cache)";
+$MESS ['BLOG_DESCR_NB_NAME'] = "Nuevos blogs";
+$MESS ['BLOG_DESCR_NB_DESCR'] = "Ultimos blogs agregados en el sitio";
+$MESS ['BLOG_DESCR_NB_COUNT'] = "Número de blogs para mostrar";
+$MESS ['BLOG_DESCR_NB_S_DESCR'] = "Muestra blog de descripción";
+$MESS ['BLOG_DESCR_Y'] = "Si";
+$MESS ['BLOG_DESCR_N'] = "No";
+$MESS ['BLOG_DESCR_DATE_CREATE'] = "Crear fecha";
+$MESS ['BLOG_DESCR_BLOG_NAME'] = "Nombre del blog";
+$MESS ['BLOG_DESCR_BLOG_ID'] = "ID del blog";
+$MESS ['BLOG_DESCR_LAST_MES'] = "Fecha del último envío";
+$MESS ['BLOG_DESCR_GR_DESCR'] = "Lista no-vacía del grupos del blog";
+$MESS ['BLOG_DESCR_GR_COUNT'] = "Número de grupos para mostrar";
+$MESS ['BLOG_DESCR_GR_COL_COUNT'] = "Número de columnas";
+$MESS ['BLOG_DESCR_GR_SORT_NAME'] = "Nombre del grupo";
+$MESS ['BLOG_DESCR_GR_NAME'] = "Grupos de blog";
+?>

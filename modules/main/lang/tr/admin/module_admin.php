@@ -1,0 +1,33 @@
+<?
+$MESS ['TITLE'] = "Modüllerin yönetimi";
+$MESS ['MOD_SETUP'] = "Durum";
+$MESS ['MOD_ACTION'] = "Etkinlik";
+$MESS ['MOD_NAME'] = "Ad";
+$MESS ['MOD_VERSION'] = "Sürüm";
+$MESS ['SAVE'] = "Değiklikleri kaydet";
+$MESS ['RESET'] = "Sıfırla";
+$MESS ['MOD_INSTALL'] = "Modül yükle";
+$MESS ['MOD_INSTALL_BUTTON'] = "Yükle";
+$MESS ['MOD_DELETE'] = "Sil";
+$MESS ['MOD_INSTALLED'] = "Yüklendi";
+$MESS ['MOD_NOT_INSTALLED'] = "Yüklenmedi";
+$MESS ['MOD_MAIN_MODULE'] = "Ana modül";
+$MESS ['MOD_MAIN_DESCRIPTION'] = "#A1#\"SiteUpdate\"#A2# teknoloji ile ürün çekirdeği.";
+$MESS ['MOD_DATE_UPDATE'] = "Güncelleme tarihi";
+$MESS ['MOD_UNINST_WARN'] = "Dikkat!<br>Modül sistem içerisinden silinecektir";
+$MESS ['MOD_UNINST_SAVE'] = "Veritabanı tabloları içerisinde verileri kaydedebilirsiniz:";
+$MESS ['MOD_UNINST_SAVE_TABLES'] = "Tabloları kaydet";
+$MESS ['MOD_UNINST_SAVE_EVENTS'] = "İleti şablonlarını ve tiplerini kaydet";
+$MESS ['MOD_UNINST_DEL'] = "Modülü sil";
+$MESS ['MOD_UNINST_OK'] = "Modül silinmesi başarı ile tamamlanmıştır";
+$MESS ['MOD_BACK'] = "Listeye dön";
+$MESS ['MOD_UNINST_ERR'] = "Silme hatası:";
+$MESS ['MOD_INST_ERR'] = "Yükleme hatası:";
+$MESS ['MOD_INST_OK'] = "Modül yüklemesi başarı ile tamamlanmıştır";
+$MESS ['COPY_PUBLIC_FILES'] = "Ortak klasörleri kopyala";
+$MESS ['COPY_FOLDER'] = "Dosyaların kopyalanacağı klasör:";
+$MESS ['INSTALL_PUBLIC_REW'] = "Mevcut dosyaları üzerine yaz";
+$MESS ['MOD_DEMO_DIR'] = "Aşağıda belirtilen linkler üzerinden ortak kısmında bileşen çalışmaları görüntüleyebilirsiniz:";
+$MESS ['MOD_DEMO_SITE'] = "Site";
+$MESS ['MOD_DEMO_LINK'] = "Link";
+?>

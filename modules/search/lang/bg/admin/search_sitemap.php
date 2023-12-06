@@ -1,0 +1,30 @@
+<?
+$MESS["SEARCH_SITEMAP_STEP"] = "Стъпка:";
+$MESS["SEARCH_SITEMAP_STEP_sec"] = "секунди";
+$MESS["SEARCH_SITEMAP_DOC_COUNT"] = "Обработени документи";
+$MESS["SEARCH_SITEMAP_ERR_COUNT"] = "От тях с грешки";
+$MESS["SEARCH_SITEMAP_CONTINUE"] = "Продължи";
+$MESS["SEARCH_SITEMAP_CREATED"] = "Файла с индекса за Google Sitemap е създаден и достъпен по адреса";
+$MESS["SEARCH_SITEMAP_CREATE"] = "Създай";
+$MESS["SEARCH_SITEMAP_SITE"] = "Сайт:";
+$MESS["SEARCH_SITEMAP_ERR"] = "При създаване на Sitemap стана грешка";
+$MESS["SEARCH_SITEMAP_NOTE"] = "Внимание! При създаване на файлове Google Sitemap всички файлове от вида \"sitemap_*.xml\", разположени в основната папка на избраният сайт, ще се перезапишат";
+$MESS["SEARCH_SITEMAP_WARN"] = "Внимание!При създаването на файловете Sitemap бяха намерени несъвместими URL, който за записани в отделен файл";
+$MESS["SEARCH_SITEMAP_WARN1"] = "Несъвместими се считат URL с дължина повече от 2048 символи или съдържащи разширение с ASCII символи";
+$MESS["SEARCH_SITEMAP_INSTR5"] = "Въведете в полето <strong>\"URL\"</strong> адреса на файла с индекса на Sitemap и натисните бутона <strong>\"Предай URL\"</strong>";
+$MESS["SEARCH_SITEMAP_INSTR1"] = "Ако Вие още не сте регистриран в програмата Google Sitemaps, е необходимо да изпълните следващите стъпки";
+$MESS["SEARCH_SITEMAP_INSTR2"] = "Регистрирайте се в";
+$MESS["SEARCH_SITEMAP_INSTR3"] = "с използване на вашите";
+$MESS["SEARCH_SITEMAP_INSTR4"] = "Преминете по линка";
+$MESS["SEARCH_SITEMAP_INSTR6"] = "Ако Вие вече сте добавили файл с индекса, то можете да обновите линка на файла в интерфейса на Google Sitemaps";
+$MESS["SEARCH_SITEMAP_INSTR7"] = "отчетни записи на Google";
+$MESS["SEARCH_SITEMAP_INSTR8"] = "Добавете първата карта на сайта";
+$MESS["SEARCH_SITEMAP_TITLE"] = "Създаване на Google Sitemap";
+$MESS["SEARCH_SITEMAP_TAB_TITLE"] = "Параметри за създаване";
+$MESS["SEARCH_SITEMAP_STOP"] = "Прекрати";
+$MESS["SEARCH_SITEMAP_RECORD_LIMIT"] = "Максимален брой документи за обработка на една стъпка:";
+$MESS["SEARCH_SITEMAP_FORUM_TOPICS_ONLY"] = "Включване в Google Sitemap само темите от форумите, но не и съобщенията";
+$MESS["SEARCH_SITEMAP_SESSION_ERR"] = "Грешка при създаването на Sitemap, проверката на сесията не се получи.Възможно тя да е изтекла.Създайте Sitemap отново.";
+$MESS["SEARCH_SITEMAP_BLOG_NO_COMMENTS"] = "Не включвай в Google Sitemap коментарите по съобщенията от блоговете ";
+$MESS["SEARCH_SITEMAP_USE_HTTPS"] = "Използвай HTTPS";
+?>

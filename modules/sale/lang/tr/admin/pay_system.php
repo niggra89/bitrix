@@ -1,0 +1,33 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Ödeme sistemi silme hata. Bu ödeme sisteminde siparişler gerçekleşmiş olabilir.<br>";
+$MESS ['SALE_SECTION_TITLE'] = "Ödeme sistemleri";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_LANG'] = "Site";
+$MESS ['SALE_ALL'] = "tümü";
+$MESS ['SALE_F_CURRENCY'] = "Döviz";
+$MESS ['SALE_F_ACTIVE'] = "Etkinlik";
+$MESS ['SALE_F_SUBMIT'] = "Ayarla";
+$MESS ['SALE_F_DEL'] = "Sıfırla";
+$MESS ['SALE_ADD'] = "Ekle";
+$MESS ['SALE_NAME'] = "Ad";
+$MESS ['SALE_LID'] = "Site";
+$MESS ['SALE_H_CURRENCY'] = "Döviz";
+$MESS ['SALE_ACTIVE'] = "Etkinlik";
+$MESS ['SALE_SORT'] = "Sıralama";
+$MESS ['SALE_ACTION'] = "Etkinlikler";
+$MESS ['SALE_EDIT'] = "Değiştir";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Ödeme sistemini silmek istediğinizden eminmisiniz? Siparişlerin bağlı olduğu ödeme sistemler silinemez. ";
+$MESS ['SALE_DELETE'] = "Sil";
+$MESS ['SALE_PRLIST'] = "Ödeme sistemleri";
+$MESS ['SALE_YES'] = "Evet";
+$MESS ['SALE_NO'] = "Hayır";
+$MESS ['SALE_EDIT_DESCR'] = "Ödeme sistemi parametrelerini değiştir";
+$MESS ['SALE_DELETE_DESCR'] = "Ödeme sistemni sil";
+$MESS ['SPS_ADD_NEW'] = "&gt";
+$MESS ['SPS_YES'] = "evet";
+$MESS ['SPS_NO'] = "hayır";
+$MESS ['SPSAN_ERROR_DELETE'] = "Kayıt silme hata";
+$MESS ['SPSAN_ERROR_UPDATE'] = "Kayıt değişikliğinde hata";
+$MESS ['SPSAN_ADD_NEW'] = "Ödeme sistemini ekle";
+$MESS ['SPSAN_ADD_NEW_ALT'] = "Yeni ödeme sistemin eklenmesi için tıklatınız";
+?>

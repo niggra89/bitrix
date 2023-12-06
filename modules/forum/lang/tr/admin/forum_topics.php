@@ -1,0 +1,30 @@
+<?
+$MESS ['FM_WRONG_DATE_CREATE_FROM'] = "Filtre'de doğru \"den itibaren\" \"Oluşturma tarihi\" girin";
+$MESS ['FM_WRONG_FORUM'] = "Forum seçin";
+$MESS ['FM_WRONG_DATE_OP'] = "Dönem belirtin";
+$MESS ['FM_FILTER_ERROR'] = "Error:";
+$MESS ['FM_TOPICS'] = "Mesajler";
+$MESS ['FM_NEW_TOPIC'] = "Yeni konu";
+$MESS ['FM_NEW_TOPIC_ALT'] = "Yeni konu oluşturmak için tıklayın";
+$MESS ['FORUM_TOPICS'] = "Konu yönetimi";
+$MESS ['FM_ACT_DELETE'] = "Sil";
+$MESS ['FM_ACT_MOVE'] = "Taşı";
+$MESS ['FM_ACT_EDIT'] = "Değiştir";
+$MESS ['FM_ACT_DELETE_ALT'] = "Konuyu sil";
+$MESS ['FM_ACT_EDIT_ALT'] = "Konuyu değiştir (çalışmıyor)";
+$MESS ['FM_ACT_TOPIC_EDIT'] = "Konuyu düzenle";
+$MESS ['FM_DELETE_TOPIC_CONF'] = "Hitabı silmek istediğinizden emin misiniz?";
+$MESS ['FM_WRONG_NOT_RIGHT'] = "Yeterli izin yok";
+$MESS ['FM_WRONG_FORUM_ID'] = "Alıcı forumun adı belirtilmemiş";
+$MESS ['FM_WRONG_ID'] = "Öğeler seçilmedi";
+$MESS ['FM_WRONG_UPDATE'] = "Değişiklikler kaydedilmedi";
+$MESS ['FM_TITLE_PERIOD'] = "Süre";
+$MESS ['FM_TITLE_FORUM'] = "Forum";
+$MESS ['FM_TITLE_NAME'] = "Adı";
+$MESS ['FM_TITLE_AUTHOR'] = "Yazan";
+$MESS ['FM_TITLE_MESSAGES'] = "Mesaj";
+$MESS ['FM_TITLE_VIEWS'] = "Görüntüleme";
+$MESS ['FM_TITLE_LAST_MESSAGE'] = "Son mesaj";
+$MESS ['FM_TITLE_DATE_CREATE'] = "Oluşturma";
+$MESS ['FM_TITLE_DATE_LAST_POST'] = "Son mesaj";
+?>

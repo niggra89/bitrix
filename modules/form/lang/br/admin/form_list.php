@@ -1,0 +1,37 @@
+<?
+$MESS["FORM_ADD_FIELD"] = "Adicionar campo adicional";
+$MESS["FORM_ADD_QUESTION"] = "Adicionar pergunta";
+$MESS["FORM_CONFIRM_DELETE_RESULTS"] = "Tem certeza de que deseja excluir todos os preencimentos em resultados para o formulário?";
+$MESS["FORM_CONFIRM_DELETE"] = "Tem certeza de que deseja excluir o campo e todos os resultados relacionados?";
+$MESS["FORM_COPY"] = "Copiar";
+$MESS["FORM_CREATE_TITLE"] = "Criar um novo formulário";
+$MESS["FORM_DELETE"] = "Excluir";
+$MESS["FORM_DELETE_RESULTS_ALT"] = "Excluir todos os resultados preenchidos para o formulário";
+$MESS["FORM_DELETE_ALT"] = "Excluir o formulário e todos seus resultados";
+$MESS["FORM_FL_DESCRIPTION"] = "Descrição";
+$MESS["FORM_F_DESCRIPTION"] = "Descrição:";
+$MESS["FORM_EDIT_ALT"] = "Editar configurações de formulário";
+$MESS["FORM_DELETE_RESULTS"] = "Apagar";
+$MESS["FORM_SAVE_ERROR"] = "Erro ao gravar ao banco de dados";
+$MESS["FORM_FIELDS"] = "Campos";
+$MESS["FORM_FL_ID"] = "ID do formulário";
+$MESS["FORM_PAGES"] = "Formulários";
+$MESS["FORM_FL_SID"] = "Identificador";
+$MESS["FORM_FIELDS_ALT"] = "Lista de campos adicionais para o formulário";
+$MESS["FORM_PAGE_TITLE"] = "Lista de formulários";
+$MESS["FORM_QUESTIONS_ALT"] = "Lista de perguntas para o formulário";
+$MESS["FORM_RESULTS_ALT"] = "Lista de resultados do formulário";
+$MESS["FORM_TIMESTAMP"] = "Modificado";
+$MESS["FORM_PREVIEW"] = "Visualização";
+$MESS["FORM_QUESTIONS"] = "Perguntas";
+$MESS["FORM_RESULTS"] = "Resultados";
+$MESS["FORM_FL_SITE"] = "Sites";
+$MESS["FORM_SITE"] = "Sites";
+$MESS["FORM_F_SITE"] = "Sites:";
+$MESS["FORM_C_SORT"] = "Ordenar.";
+$MESS["FORM_SID"] = "Identificador simbólico";
+$MESS["FORM_F_SID"] = "Identificador simbólico:";
+$MESS["FORM_NAME"] = "Título";
+$MESS["FORM_F_NAME"] = "Título:";
+$MESS["FORM_COPY_ALT"] = "Cópia do fomrulário web";
+?>

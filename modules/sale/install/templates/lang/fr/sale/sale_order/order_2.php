@@ -1,0 +1,38 @@
+<?
+$MESS ['STO_EMPTY_BASKET'] = "Votre chariot est vide";
+$MESS ['STO_EMPTY_FIELD'] = "Le champ \"#FIELD#\" doit être rempli";
+$MESS ['STO_SELECT_PS'] = "Choisissez s'il vous plaît la méthode de paiement d'ordre.<br>";
+$MESS ['STO_WRONG_PS'] = "Méthode de paiement incorrecte.<br>";
+$MESS ['STO_AUTH'] = "Authorisation";
+$MESS ['STO_CUR_USER'] = "Utilisateur actuel:";
+$MESS ['STO_LOGOUT'] = "Rondin";
+$MESS ['STO_LOGIN'] = "Ouverture de session:";
+$MESS ['STO_PASSWORD'] = "Mot de passe:";
+$MESS ['STO_LOG_IN'] = "Se connecter";
+$MESS ['STO_FORGOT_PAS'] = "A oublié le mot de passe?";
+$MESS ['STO_ORDER_PARAMS'] = "Paramètres d'ordre";
+$MESS ['STO_NEW_BUYER'] = "Nouvel acheteur";
+$MESS ['STO_PAYMENT'] = "Paiement";
+$MESS ['STO_PAY_FROM_ACCOUNT'] = "Paie du compte";
+$MESS ['STO_YOU_HAVE1'] = "Vous avez";
+$MESS ['STO_YOU_HAVE2'] = "sur votre compte d'utilisateur qui peut être utilisé pour payer l'ordre, complètement ou partiellement. Si vous ne voulez pas épuiser des fonds de votre compte d'utilisateur, non vérifiez l'option correspondante.";
+$MESS ['STO_PAYMENT_WAY'] = "Méthode de paiement:";
+$MESS ['STO_PLEASE_SELECT'] = " --&gtChoisissez s'il vous plaît";
+$MESS ['STO_NEXT_STEP'] = "Continuez à ordonner  &gt;&gt;";
+$MESS ['STO_PAYMENT1'] = "Paiement:";
+$MESS ['STO_MAKE_ORDER'] = "La commande  complete";
+$MESS ['STO_PRIOR_STEP'] = "&lt;&lt; Pas précédent";
+$MESS ['STO_ORDER_CREATED'] = "La commande créé";
+$MESS ['STO_ORDER_CREATED_DESCR'] = "Votre commande  <b>no. #ORDER_ID# </b> de #ORDER_DATE# a été avec succès créé.";
+$MESS ['STO_ORDER_HINT'] = "Vous pouvez garder la trace de traiter votre commande sur la page de détails d'ordre de <a href = \"#LINE#\"> votre section personnelle</a>. Notez s'il vous plaît que vous devrez entrer dans l'ouverture de session et le mot de passe pour accéder à votre section personnelle.";
+$MESS ['STO_ORDER_HINT_ANN'] = "Si vous voulez annuler votre ordre, vous pouvez le tuer <a href = \"#LINK#\"> votre section personnelle</a>.";
+$MESS ['STO_ORDER_HINT2'] = "Notez s'il vous plaît que vous devez fournir le nombre de votre  commande  (#ORDER_ID#) en contactant le personnel de magasin électronique.";
+$MESS ['STO_ERROR_CREATING'] = "Erreur de creation de la commande ";
+$MESS ['STO_NO_ORDER'] = "La commande no. #ORDER_ID# n'a pas été trouvé.";
+$MESS ['STO_CONTACT_ADMIN'] = "Contactez s'il vous plaît les administrateurs de magasin électronique ou essayez de soumettre votre ordre de nouveau.";
+$MESS ['STO_TITLE'] = "Nouvell? commande";
+$MESS ['STO_ERROR_REG_USER'] = "Erreur enregistrant un nouvel utilisateur";
+$MESS ['STO_ERROR_SAVING_ORDER'] = "Erreur sauvant l'ordre";
+$MESS ['STO_PROFILE_TITLE'] = "Profil #DATE#";
+$MESS ['STO_SHT'] = "La pièce";
+?>

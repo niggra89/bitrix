@@ -1,0 +1,68 @@
+#header,
+#footer,
+.ui-widget-header
+{
+	background-color: #777777 !important;
+}
+.top_menu a,
+.breadcrumb-navigation li a,
+.breadcrumb-navigation li,
+form.filter  .prop_name,
+form.filter  #selected_props span,
+span.modern-page-current,
+.personal_title,
+.sale_basket_basket tr.items td.cost,
+.allSum_FORMATED,
+.order_menu,.order_menu a,
+.calc a,
+.catalog-compare-list a.blue,
+h1,
+h2,
+h3,
+.color_theme
+{
+	color:#212121;
+}
+.catalog_sections_top .item .buttons input.add,
+.catalog_sections_top .item .buttons input.buy,
+.catalog_section .item .buttons input.add,
+.catalog_section .item .buttons input.buy,
+.catalog_element .buttons input.add,.catalog_element  .buttons input.buy,
+.catalog_analog .item .buttons input.buy,.catalog_analog .item .buttons input.add,
+.catalog_link_table .item .buttons input.add,
+.catalog_analog_table .item .buttons input.add,.catalog_analog_table .item .buttons input.buy
+{
+	background-image:url('images/buy.jpg');	cursor:pointer;
+}
+form.filter .clear_all
+{
+	background-image:url('images/clear.jpg');	cursor:pointer;
+}
+a.show
+{
+	background-image:url('images/show.jpg');	cursor:pointer;
+}
+#basketOrderButton2
+{
+	background-image:url('images/order.jpg');	cursor:pointer;
+}
+.contButton
+{
+	background-image:url('images/continue.jpg');	cursor:pointer;
+}
+p.prop_name span.arrow
+{
+	background-image:url('images/arrow.jpg');
+}
+.backButton
+{
+	background-image:url('images/back.jpg');	cursor:pointer;
+}
+a.action_compare
+{
+	background-image:url('images/compare.jpg');	cursor:pointer;
+}
+#slider-range  a.ui-slider-handle
+{
+	background-image:url('images/slider_h.png');
+}

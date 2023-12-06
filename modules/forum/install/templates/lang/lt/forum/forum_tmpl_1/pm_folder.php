@@ -1,0 +1,29 @@
+<?
+$MESS["PM_NO_MODULE"] = "Modulis neįdiegtas";
+$MESS["PM_POST_FULLY"] = "Panaudota vieta:";
+$MESS["PM_SUCC_CREATE"] = "Aplankas sėkmingai sukurtas";
+$MESS["PM_SUCC_DELETE"] = "Aplankas sėkmingai ištrintas";
+$MESS["PM_SUCC_REMOVE"] = "Aplankas sėkmingai išvalytas";
+$MESS["PM_SUCC_SAVED"] = "Pakeitimai išsaugoti";
+$MESS["PM_NOT_RIGHT"] = "Nepakanka teisių.";
+$MESS["PM_NOT_FOLDER"] = "Aplanko nėra.";
+$MESS["PM_NOT_FOLDER_TITLE"] = "Nenurodytas aplankas.";
+$MESS["PM_NOT_DELETE"] = "Aplanko ištrinti neįmanoma.";
+$MESS["PM_HEAD_FOLDER"] = "Aplankas";
+$MESS["PM_HEAD_NEW_FOLDER"] = "Naujas aplankas";
+$MESS["PM_HEAD_TITLE"] = "Vardas:";
+$MESS["PM_HEAD_MESSAGE"] = "Pranešimai:";
+$MESS["PM_HEAD_ACTION"] = "Veiksmai";
+$MESS["PM_ACT_ADD"] = "Pridėti";
+$MESS["PM_ACT_SAVE"] = "Įrašyti";
+$MESS["PM_ACT_REMOVE"] = "Valyti";
+$MESS["PM_ACT_EDIT"] = "Redaguoti";
+$MESS["PM_ACT_DELETE"] = "Trinti";
+$MESS["PM_TITLE_CREATE"] = "Naujas aplankas";
+$MESS["PM_TITLE_EDIT"] = "Aplanko &laquo;##&raquo; nustatymai";
+$MESS["PM_TITLE_LIST"] = "Vartotojo aplankai";
+$MESS["PM_FOLDER_ID_1"] = "Gauto pašto dėžutė";
+$MESS["PM_FOLDER_ID_2"] = "Siunčiamo pašto dėžutė";
+$MESS["PM_FOLDER_ID_3"] = "Siunčiamo pašto dėžutė";
+$MESS["PM_FOLDER_ID_4"] = "Ištrinta";
+?>

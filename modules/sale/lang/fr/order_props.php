@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Erreur en effaçant la propriété";
+$MESS ['SALE_SECTION_TITLE'] = "Propriétés d'ordre";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_PERS_TYPE'] = "Type de payeur";
+$MESS ['SALE_ALL'] = "tous";
+$MESS ['SALE_F_TYPE'] = "Type de propriété";
+$MESS ['SALE_F_USER'] = "Inclus dans le profil";
+$MESS ['SALE_F_GROUP'] = "Groupe de propriétés";
+$MESS ['SALE_F_SUBMIT'] = "Filtre Mis";
+$MESS ['SALE_F_DEL'] = "Enlevez le Filtre";
+$MESS ['SALE_ADD'] = "Ajouter";
+$MESS ['SALE_PERSON_TYPE'] = "Type de payeur";
+$MESS ['SALE_FIELD_NAME'] = "Nom";
+$MESS ['SALE_FIELD_TYPE'] = "Taper";
+$MESS ['SALE_REQUIED'] = "Exigé";
+$MESS ['SALE_GROUP'] = "Groupe";
+$MESS ['SALE_USER'] = "Profil";
+$MESS ['SALE_ACTION'] = "Actions";
+$MESS ['SALE_EDIT'] = "Modifier";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Êtes-vous sûrs que vous voulez effacer cette propriété ?";
+$MESS ['SALE_DELETE'] = "Effacer";
+$MESS ['SALE_PRLIST'] = "Propriétés";
+$MESS ['SALE_VIEW'] = "Avant-première";
+$MESS ['SALE_YES'] = "Oui";
+$MESS ['SALE_NO'] = "Non";
+$MESS ['SALE_EDIT_DESCR'] = "Modifiez des paramètres de propriété";
+$MESS ['SALE_DELETE_DESCR'] = "Effacez la propriété";
+$MESS ['SOP_YES'] = "oui";
+$MESS ['SOP_NO'] = "non";
+$MESS ['SOPAN_ERROR_DELETE'] = "Erreur en effaçant la propriété";
+$MESS ['SOPAN_ADD_NEW'] = "Nouvelle propriété";
+$MESS ['SOPAN_ADD_NEW_ALT'] = "Faites un déclic pour ajouter une nouvelle propriété";
+$MESS ['SOPAN_4NEW_PROMT'] = "Choisissez un type de payeur :";
+?>

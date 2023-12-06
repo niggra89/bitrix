@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_SECTION_TITLE'] = "Местоположения";
+$MESS ['SALE_F_FILTER'] = "Филтър";
+$MESS ['SALE_F_COUNTRY'] = "Държава";
+$MESS ['SALE_ALL'] = "(всички)";
+$MESS ['SALE_F_CITY'] = "Град";
+$MESS ['SALE_F_SUBMIT'] = "Задайте филтър";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+$MESS ['SALE_ADD'] = "Добави";
+$MESS ['SALE_COUNTRY'] = "Държава";
+$MESS ['SALE_CITY'] = "Град";
+$MESS ['SALE_SORT'] = "Сорт.";
+$MESS ['SALE_ACTION'] = "Действия";
+$MESS ['SALE_EDIT'] = "Промени";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Сигурни ли сте, че искате да изтриете това местоположение?";
+$MESS ['SALE_DELETE'] = "Премахни";
+$MESS ['SALE_PRLIST'] = "Местоположения";
+$MESS ['ERROR_DELETING'] = "Грешка при премахването";
+$MESS ['SALE_EDIT_DESCR'] = "Промяна на параметрите на местоположенията";
+$MESS ['SALE_DELETE_DESCR'] = "Премахни местоположението";
+$MESS ['NO_LOC_FILE'] = "Файла с местоположенията не е зареден";
+$MESS ['ERROR_LOC_FORMAT'] = "Формата на файла с местоположенията не е верен: не е зададен основният език";
+$MESS ['NO_MAIN_LANG'] = "Основният език  не е зададен на сайта";
+$MESS ['OMLOADED1'] = "Заредени";
+$MESS ['OMLOADED2'] = "държави";
+$MESS ['OMLOADED3'] = "градове";
+$MESS ['OMLOADED4'] = "Създадени местоположения";
+$MESS ['LOCA_LOADING'] = "Зареждане на местоположения";
+$MESS ['LOCA_FILE'] = "Файл";
+$MESS ['LOCA_DEL_OLD'] = "Премахнете местоположението преди зареждането";
+$MESS ['LOCA_DO_LOAD'] = "Зареждане";
+$MESS ['LA_NOTES'] = "Вие можете да изтеглете файлове с местоположения от сайта <a href=\"http://www.bitrixsoft.ru\" target=\"_blank\">http://www.bitrixsoft.ru</a>";
+$MESS ['SLAN_ADD_NEW'] = "Добави местоположение";
+$MESS ['SLAN_ADD_NEW_ALT'] = "Натиснете за да добавите местоположение";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Konumun değiştirilmesi # #ID#";
+$MESS ['SALE_NEW_RECORD'] = "Yeni konum";
+$MESS ['SALE_RECORDS_LIST'] = "Konumlar";
+$MESS ['F_COUNTRY'] = "Ülke";
+$MESS ['NEW_COUNTRY'] = "<Yeni ülke>";
+$MESS ['F_OR'] = "VEYA";
+$MESS ['SALE_SAVE'] = "Kaydet";
+$MESS ['SALE_ADD'] = "Ekle";
+$MESS ['SALE_APPLY'] = "Uygula";
+$MESS ['SALE_RESET'] = "Sıfırla";
+$MESS ['ERROR_SELECT_COUNTRY'] = "Değiştirmek istediğiniz ülkeyi seçiniz veya \"Mevcut ülkeyi değiştir\" bayrağını işaretlemeksizin yeni ülke giriniz.";
+$MESS ['ERROR_COUNTRY_NAME'] = "Ülke: ülkenin tam adı belirtilmemiştir.";
+$MESS ['ERROR_COUNTRY_NAME_LANG'] = "Ülke: dil seçeneğinde ülkenin tam adı belirtilmemiştir";
+$MESS ['ERROR_CITY_NAME'] = "Şehir: şehrin tam adı belirtilmemiştir.";
+$MESS ['ERROR_CITY_NAME_LANG'] = "Şehir: dil seçeneğinde şehrin tam adı belirtilmemiştir";
+$MESS ['ERROR_EDIT_LOCAT'] = "Konum değişikliğinde hata.";
+$MESS ['ERROR_ADD_LOCAT'] = "Konum eklemesinde hata.";
+$MESS ['SALE_NEW'] = "yeni";
+$MESS ['SALE_SORT'] = "Sıralama";
+$MESS ['SALE_NEW_CNTR'] = "Yeni ülke";
+$MESS ['SALE_CHANGE_CNTR'] = "Mevcut ülkeyi değiştir";
+$MESS ['SALE_FULL_NAME'] = "Tam adı";
+$MESS ['SALE_SHORT_NAME'] = "Kısaltılmış adı";
+$MESS ['SALE_CITY'] = "Şehir";
+$MESS ['SALE_WITHOUT_CITY'] = "Şehir yok";
+$MESS ['SALE_PT_PROPS'] = "Parametreler";
+$MESS ['SLN_2FLIST'] = "Konum listesi";
+$MESS ['SLN_NEW_LOCATION'] = "Yeni konum yükle";
+$MESS ['SLN_DELETE_LOCATION'] = "Konumu sil";
+$MESS ['SLN_DELETE_LOCATION_CONFIRM'] = "Bu konumu silmek istediğinizden eminmisiniz?";
+$MESS ['SLN_TAB_LOCATION'] = "Konum";
+$MESS ['SLN_TAB_LOCATION_DESCR'] = "Konum parametreleri";
+?>

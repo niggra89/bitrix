@@ -1,0 +1,30 @@
+<?
+$MESS ['SS_TITLE'] = "cadres de Magasin électronique";
+$MESS ['SS_DELIVERY'] = "Services de livraison";
+$MESS ['SS_DELIVERY_DESCR'] = "Le <b> les Services de livraison </b> la forme est utilisé pour diriger des services de livraison.";
+$MESS ['SS_PAY_SYS'] = "Systèmes de paiement";
+$MESS ['SS_PAY_SYS_DESCR'] = "Le <b> les systèmes de Paiement </b> la forme est utilisé pour ajouter des systèmes de paiement et réviser leurs paramètres.";
+$MESS ['SS_PERSON_TYPE'] = "Le payeur tape";
+$MESS ['SS_PERSON_TYPE_DESCR'] = "Le <b> le Payeur tape </b> la forme est utilisée pour ajouter, réviser ou effacer de différents types de payeurs qui peuvent ordonner des produits et des services sur le site. Chaque type de payeur a le propre ensemble des propriétés (les champs) qu'un payeur doit remplir en plaçant un ordre. Supplémentairement, un type de payeur a un ensemble privé des processeurs de système de paiement qui sont utilisés pour payer des ordres.";
+$MESS ['SS_ORDER_PROPS'] = "Propriétés d'ordre";
+$MESS ['SS_ORDER_PROPS_DESCR'] = "Le <b> les propriétés d'Ordre </b> la forme est utilisée pour définir des propriétés d'ordre (les champs) qu'un client doit remplir en plaçant des ordres. Le jeu de propriété dépend du type de payeur choisi par un client.";
+$MESS ['SS_ORDER_PROPS_GR'] = "Groupes de propriété";
+$MESS ['SS_ORDER_PROPS_GR_DESCR'] = "Le <b> les groupes de Propriété </b> la forme est utilisé pour diriger des groupes de propriétés d'ordre. Le groupement est seulement utilisé pour définir la disposition du bon de commande, pour la meilleure utilité. Les groupes de propriété dépendent du type de payeur choisi par un client.";
+$MESS ['SS_LOCATION'] = "Endroits";
+$MESS ['SS_LOCATION_DESCR'] = "Le <b> les Endroits </b> la forme est utilisée pour diriger la liste d'endroits qui seront plus loin utilisés par les clients pour choisir un endroit pour livrer les produits ordonnés. L'endroit choisi sera utilisé comme un point de référence pour afficher des services de livraison disponibles et calculer le prix de livraison. Un endroit est une partie d'une adresse de chargement réelle.";
+$MESS ['SS_LOCATION_GROUPS'] = "groupes d'endroit";
+$MESS ['SS_LOCATION_GROUPS_DESCR'] = "Le <b> les groupes d'Endroit </b> est utilisé pour classifier des endroits. Il facilite des services de livraison gérants.";
+$MESS ['SS_STATUS'] = "Statuts";
+$MESS ['SS_STATUS_DESCR'] = "<b>les statuts d'Ordre</b> la forme est utilisée pour définir des statuts d'ordre. Les statuts d'ordre servent pour informer des clients et le personnel de magasin électronique de l'état d'ordre actuel.";
+$MESS ['SS_TAX'] = "Taxes";
+$MESS ['SS_TAX_DESCR'] = "Le <b> les Taxes </b> forment des services pour définir des taxes utilisées pour les calculs.";
+$MESS ['SS_TAX_RATE'] = "Taux fiscaux";
+$MESS ['SS_TAX_RATE_DESCR'] = "Le <b> les taux Fiscaux </b> la forme est utilisé pour définir des taux fiscaux, selon l'endroit de client et le type de payeur.";
+$MESS ['SS_TAX_EX'] = "Exemption fiscale";
+$MESS ['SS_TAX_EX_DESCR'] = "Le <b> l'exemption Fiscale </b> la forme est utilisé pour définir des clients libres d'impôt.";
+$MESS ['sale_settings_hide'] = "Cachez la description";
+$MESS ['sale_settings_how'] = "Description de spectacle";
+$MESS ['sale_settings_title'] = "Description de section détaillée";
+$MESS ['sale_settings_disc'] = "Escomptes";
+$MESS ['sale_settings_disc_text'] = "Le <b> les Escomptes </b> la forme est utilisé aux escomptes d'ordre d'organisation. Les valeurs d'escompte dépendent de la quantité d'ordre totale.";
+?>

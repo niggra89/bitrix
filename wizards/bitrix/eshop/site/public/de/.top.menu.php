@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Über den Shop", 
+		"about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Wie kaufe ich online ein", 
+		"about/howto/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Lieferung", 
+		"about/delivery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Impressum", 
+		"imprint.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),	
+	Array(
+		"Kontakte", 
+		"about/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Feedback",
+		"about/idea/",
+		Array(),
+		Array(),
+		"IsModuleInstalled('idea') && COption::GetOptionString('eshop', 'useIdea', 'Y','".SITE_ID."') == 'Y'" 
+	),
+	Array(
+		"Suche", 
+		"search/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+		Array(
+		"Nutzerkonto",
+		"personal/",
+		Array(),
+		Array(),
+		"CUser::IsAuthorized()"
+	)
+);
+?>

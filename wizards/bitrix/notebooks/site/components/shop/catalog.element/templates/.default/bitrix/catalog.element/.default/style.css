@@ -1,0 +1,115 @@
+.catalog_element .name h1 {
+	color:#232323;
+	font-size:18px;
+	margin-bottom:5px;
+}
+.catalog_element .detail_picture{
+	float:left;
+	width:300px;
+	overflow:hidden;
+	margin:0 10px 0px 0;
+	text-align: center;
+}
+.catalog_element  .description{
+	float:right;
+	width:380px;
+	overflow:hidden;
+
+}
+.catalog_element  .description .preview_text{
+	color:#999999;
+	font-size:12px;
+}
+.catalog_element  .buttons
+{
+	margin:20px 0 0 0;
+}
+.catalog_element  .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_element .buttons input.add,.catalog_element  .buttons input.buy
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+	cursor:pointer;
+}
+.catalog_element .buttons .buy_nonactive
+{
+	background:url('images/nonactive_buy.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.catalog_element .catalog-price {
+	color: #212121;
+    float: left;
+    font-size: 30px;
+    width: auto;
+	margin:0 0 10px 0;
+	clear:both;
+}
+.catalog_element .vote {
+	
+	margin:0px 0 7px 0;
+}
+.catalog_element .vote span {
+	float:left;
+	margin-top:3px;
+}
+
+.catalog_element .more_photo {
+	padding-left:45px;
+	margin:20px 0 0 0;
+}
+.catalog_element .more_photo  a.preview{
+	background:url('images/preview.png') no-repeat 0px 0px transparent;
+	text-decoration:none;
+	float:left;
+	margin:0 10px 0 0;
+	width:62px;height:62px;
+}
+.catalog_element .more_photo  a.preview:hover{
+	background:url('images/preview_hover.png') no-repeat 0px 0px transparent;
+
+}
+.catalog_element .more_photo  a.preview img{
+	margin:10px;
+}
+/*------------------------------------------------------------------------------------------*/
+div.star-active
+{
+	cursor: pointer;
+}
+
+div.star-empty
+{
+	background-image: url(images/empty.png);
+	width:19px;
+	height:19px;
+	overflow:hidden;
+	margin: 0 2px;
+}
+
+div.star-voted
+{
+	background-image: url(images/voted.png);
+	width:19px;
+	height:19px;
+	overflow:hidden;
+	margin: 0 2px;
+}
+
+div.star-over
+{
+	background-image: url(images/over.png);
+	width:19px;
+	height:19px;
+	overflow:hidden;
+	margin: 0 2px;
+}

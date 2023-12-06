@@ -1,0 +1,34 @@
+<?
+$MESS ['SALE_WRONG_TIMESTAMP_FROM'] = "Въведете във филтъра правилно датата на промените \"от\"";
+$MESS ['SALE_WRONG_TIMESTAMP_TILL'] = "Въведете във филтъра правилно датата на промените \"до\"";
+$MESS ['SALE_FROM_TILL_TIMESTAMP'] = "Датата на промените \"до\" трябва да бъде по голяма от датата \"от\"";
+$MESS ['SALE_WRONG_LAST_LOGIN_FROM'] = "Въведете във филтъра правилно датата на последното авторизиране \"от\"";
+$MESS ['SALE_WRONG_LAST_LOGIN_TILL'] = "Въведете във филтъра правилно датата на последното авторизиране \"до\"";
+$MESS ['SALE_FROM_TILL_LAST_LOGIN'] = "Датата на последното авторизиране \"до\" трябва да бъде по голяма от датата \"от\"";
+$MESS ['SALE_F_ID'] = "ID:";
+$MESS ['SALE_F_LAST_LOGIN'] = "Последно авторизиране";
+$MESS ['SALE_F_TIMESTAMP'] = "Променено";
+$MESS ['SALE_F_EMAIL'] = "E-Mail:";
+$MESS ['SALE_F_KEYWORDS'] = "Полета за профила";
+$MESS ['SALE_PAGE_TITLE'] = "Търси потребител";
+$MESS ['SALE_F_LOGIN'] = "Потребителско име:";
+$MESS ['SALE_F_ACTIVE'] = "Активни:";
+$MESS ['SALE_YES'] = "Да";
+$MESS ['SALE_NO'] = "Не";
+$MESS ['SALE_ALL'] = "(всичко)";
+$MESS ['SALE_F_NAME'] = "Име:";
+$MESS ['SALE_F_GROUP'] = "Групи потребители:";
+$MESS ['SALE_F_SET_FILTER'] = "Постави филтър";
+$MESS ['SALE_F_DEL_FILTER'] = "Изчисти филтъра";
+$MESS ['SALE_PAGES'] = "Потребители";
+$MESS ['SALE_TIMESTAMP'] = "Променено";
+$MESS ['SALE_ACTIVE'] = "Активни";
+$MESS ['SALE_LOGIN'] = "Потребителско име";
+$MESS ['SALE_NAME'] = "Име";
+$MESS ['SALE_LAST_NAME'] = "Фамилия";
+$MESS ['SALE_EMAIL'] = "E-Mail";
+$MESS ['SALE_ACTION'] = "Действия";
+$MESS ['SALE_SELECT'] = "Избери";
+$MESS ['SALE_TOTAL'] = "Общо";
+$MESS ['SALE_CLOSE'] = "Затвори";
+?>

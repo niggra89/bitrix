@@ -1,0 +1,29 @@
+<?
+$MESS ['PROPS_TYPE_TITLE'] = "Групи свойства";
+$MESS ['PT_FILTER_NAME'] = "Тип клиент";
+$MESS ['SALE_ALL'] = "всички";
+$MESS ['SALE_F_FILTER'] = "Филтър";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+$MESS ['LANG_FILTER_BTN'] = "Задаване на филтър";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Свойствата от тази група ще бъдат премахнати. Сигурни ли сте, че искате да продължите?";
+$MESS ['PERS_TYPE_NAV'] = "Групи свойства";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_NAME'] = "Име";
+$MESS ['PERS_TYPE_TYPE'] = "Тип клиент";
+$MESS ['PERS_TYPE_SORT'] = "Сорт.";
+$MESS ['PERS_TYPE_DEL'] = "Премахни";
+$MESS ['PERS_TYPE_UPD'] = "Запиши";
+$MESS ['PERS_TYPE_RESET'] = "Отмени";
+$MESS ['ERROR_ADD_REC'] = "Грешка при добавянето на записа";
+$MESS ['ERROR_NAME_REC'] = "Полето \"Име\" не е попълнено";
+$MESS ['ERROR_PERSON_TYPE_ID_REC'] = "Полето \"Начин на плащане\" не е попълнено";
+$MESS ['ERROR_UPDATE_REC'] = "Грешка при актуализирането на записа";
+$MESS ['SALE_PROPS'] = "Свойства";
+$MESS ['SOPGAN_DELETE_ERROR'] = "Грешка при изтриването на записа";
+$MESS ['SOPGAN_PROPS'] = "Свойства";
+$MESS ['SOPGAN_EDIT_PROMT'] = "Промяна на групата";
+$MESS ['SOPGAN_DELETE_PROMT'] = "Изтриване на групата";
+$MESS ['SOPGAN_DELETE_PROMT_CONF'] = "Сигурни ли сте, че искате да изтриете тази група свойства?";
+$MESS ['SOPGAN_ADD_NEW'] = "Нова група";
+$MESS ['SOPGAN_ADD_NEW_ALT'] = "Натиснете за да добавите нова група свойства";
+?>

@@ -1,0 +1,5 @@
+<?
+$MESS ['FH_FTITLE'] = "Forum yardımı";
+$MESS ['FH_NO_MODULE'] = "Forum modülü ayarlı değil";
+$MESS ['FH_HELP_CONT'] = "<P><B>Forumda nasıl konu oluşturabilirim?</B><BR>Forum konu listesi penceresinde veya herhangi bir konunun ilgili butonuna veya bağlantısına tıklayın. Mesaj göndermeden önce kayıt yaptırmanız gerekebilir.</P><P><B>HTML Kullanabilir miyim?</B><BR>Yöneticinin izin verip vermediğine bağlı. Kullanılmasına izin verilmiş ise, büyük olasılıkla, sadece bir kaç etiket çalışabilir. Bu işlem güvenlik amacıyla sorun oluşturabilecek etiketlerin kullanılmasını engellemek içindir. Şayet HTML açık ise mesajda HTML kullanabilirsiniz.</P><P><B>HTML'ye izin verilmemişse mesajı nasıl düzenleyebilirim?</B><BR>Yönetici tarafından şu kodların kullanılmasına izin verilebilir:<br><table width=\"100%\" border=\"0\" bgcolor=\"#000000\" cellspacing=\"0\" cellpadding=\"0\"><tr><td><table width=\"100%\" border=\"0\" cellspacing=\"1\" cellpadding=\"2\"><tr bgcolor=\"#FFFFFF\"><td class=text><b>???</b></td><td class=text><b>Açıklama</b></td><td class=text><b>Eş Anlamlılar</b></td><td class=text><b>Notlar</b></td></tr><tr bgcolor=\"#FFFFFF\"><td class=text>&lt";
+?>

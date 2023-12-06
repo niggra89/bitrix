@@ -1,0 +1,31 @@
+<?
+$MESS ['SALE_DH_TITLE'] = "Otomatikleştirilmiş teslimat servisleri";
+$MESS ['SALE_DH_NAV_TITLE'] = "Teslimat servisleri";
+$MESS ['SALE_DH_TABLE_ACTIVE'] = "Etkinlik";
+$MESS ['SALE_DH_TABLE_ISCONFIG'] = "Yükle";
+$MESS ['SALE_DH_TABLE_NAME'] = "Ad";
+$MESS ['SALE_DH_TABLE_PATH'] = "İşleyici";
+$MESS ['SALE_DH_EDIT_DESCR'] = "Düzenle";
+$MESS ['SALE_DH_INSTALL_DESCR'] = "Yüklemek";
+$MESS ['SALE_DH_DELETE_DESCR'] = "Ayarları sil";
+$MESS ['SALE_DH_RESET_DESCR'] = "?yarları sil";
+$MESS ['SALE_DH_ACTIVATE_DESCR'] = "etkinleştirmek";
+$MESS ['SALE_DH_DEACTIVATE_DESCR'] = "devre dışı bırakmak";
+$MESS ['SALE_DH_TABLE_SORT'] = "Sıralama";
+$MESS ['SALE_DH_CONFIRM_UNINSTALL'] = "Teslimat servisi işleyicisini gererçekten kaldırmak istediğinizden eminmisiniz? \\n Bunun tüma yarları silinecektir.";
+$MESS ['SALE_DH_HINT_ADD'] = "Kendi işleyicini eklemek için kataloğu kullanınız lütfen";
+$MESS ['SALE_DH_ORDINARY'] = "Ayarlanabilen servisler";
+$MESS ['SALE_DH_ORDINARY_ALT'] = "Ayarlanabilen teslimat servisleri düzenlemesine geç";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS'] = "Dükkan adresi";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ERROR'] = "Belirtilmemiştir!";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ZIP'] = "Dükkan posta adresi";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ZIP_ERROR'] = "Belirtilmemiştir!";
+$MESS ['SALE_DH_SHOP_ADDRESS_CHANGE'] = "değiştir";
+$MESS ['SALE_DH_LOCATIONS_STATS'] = "Konumun baz istatistiği";
+$MESS ['SALE_DH_LOCATIONS_COUNTRY_STATS'] = "ülkeler";
+$MESS ['SALE_DH_LOCATIONS_CITY_STATS'] = "şehirler";
+$MESS ['SALE_DH_LOCATIONS_LOC_STATS'] = "toplam konum";
+$MESS ['SALE_DH_LOCATIONS_GROUP_STATS'] = "konumlar gurbu";
+$MESS ['SALE_DH_LOCATIONS_LINK'] = "konumları düzenle";
+$MESS ['SALE_DH_LOCATIONS_IMPORT_LINK'] = "konumların içeri aktarımı";
+?>

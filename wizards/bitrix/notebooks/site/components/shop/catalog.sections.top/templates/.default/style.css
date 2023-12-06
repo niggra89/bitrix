@@ -1,0 +1,84 @@
+.catalog_sections_top .item
+{
+	margin:0 0 15px 0; 
+}
+.catalog_sections_top .item .element_item
+{
+	width:375px;float:left;
+}
+.catalog_sections_top .item h3
+{
+	margin:0 0 5px 0;
+}
+.catalog_sections_top .item .section_description
+{
+	color:#999999;margin:0 0 20px 0;
+}
+.catalog_sections_top .item .element_item .preview_picture
+{
+	float:left;margin-right:10px;width:170px;
+	overflow:hidden;text-align:center;
+}
+.catalog_sections_top .item .element_item .elem
+{
+	float:left;width:195px;
+	overflow:hidden;
+}
+.catalog_sections_top .item .element_item .elem .property
+{
+	float:left;width:100%;
+	margin:10px 0 15px;
+	color:#777777;
+	font-size:10px;
+    line-height: 1.35;
+
+}
+.catalog_sections_top .item .element_item .elem .catalog-price
+{
+	color: #212121;
+    float: left;
+    font-size: 18px;
+    width: auto;
+	margin:0 0 5px 0;
+	clear:both;*clear:none;
+}
+.catalog_sections_top .item .element_item .elem .buttons img
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+}
+.catalog_sections_top .item .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_sections_top .item .buttons input.add
+{
+	background-repeat:no-repeat;
+	background-color:transparent;
+	width: 58px;
+}
+.catalog_sections_top .item .buttons .buy_nonactive
+{
+	background:url('images/buy_nonactive.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.catalog_sections_top .item .buttons input.buy
+{
+	background-repeat:no-repeat;
+	background-color:transparent;
+	width: 58px;
+}
+.elem_descr
+{
+	float:left;
+}
+.price_m
+{
+	display:inline-block;
+	width:100%;
+}

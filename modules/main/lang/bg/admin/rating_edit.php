@@ -1,0 +1,37 @@
+<?
+$MESS["MAIN_RATING_EDIT_RECORD"] = "Редактиране на рейтинга # #ID#";
+$MESS["MAIN_RATING_NEW_RECORD"] = "Нов рейтинг";
+$MESS["RATING_LIST"] = "Списък на рейтингите";
+$MESS["RATING_LIST_TITLE"] = "Виж списъка на рейтингите ";
+$MESS["RATING_EDIT_ADD"] = "Добави";
+$MESS["RATING_EDIT_ADD_TITLE"] = "Добави нов рейтинг";
+$MESS["RATING_EDIT_DEL"] = "Премахни";
+$MESS["RATING_EDIT_DEL_TITLE"] = "Премахни този запис";
+$MESS["RATING_EDIT_DEL_CONF"] = "Наистина ли искате да изтриете този рейтинг?";
+$MESS["RATING_EDIT_TAB_MAIN"] = "Основни параметри";
+$MESS["RATING_EDIT_FRM_ACTIVE"] = "Активен:";
+$MESS["RATING_EDIT_FRM_NAME"] = "Име:";
+$MESS["RATING_EDIT_FRM_TYPE_ID"] = "Оценяван обект:";
+$MESS["RATING_EDIT_FRM_CUR_VAL"] = "Допълнителни условия за текущата стойност:";
+$MESS["RATING_EDIT_FRM_PREV_VAL"] = "Допълнителни условия за предишната стойност:";
+$MESS["RATING_EDIT_FRM_CALC_METHOD"] = "Метод на изчисление:";
+$MESS["RATING_EDIT_CALC_METHOD_SUM"] = "Общо";
+$MESS["RATING_EDIT_CALC_METHOD_AVG"] = "Средно";
+$MESS["RATING_EDIT_SUCCESS"] = "Записът е запазен успешно.";
+$MESS["RATING_EDIT_ERROR"] = "Грешка при записването";
+$MESS["RATING_DEF_NAME"] = "Рейтинг на потребителя";
+$MESS["RATING_FIELDS_DEF_NAME"] = "Коефициент:";
+$MESS["RATING_FIELDS_DEF_DESC"] = "Оценката зависи от резултатите на гласуването.";
+$MESS["RATING_FIELDS_DEF_FORMULA"] = "Total * K";
+$MESS["RATING_FIELDS_DEF_FORMULA_DESC"] = "Total - резултати от гласуването; K - коефициент дефиниран от потребителя ";
+$MESS["RATING_EDIT_TAB_MAIN_TITLE"] = "Име на оценявания обект и потребителски стойности";
+$MESS["RATING_EDIT_FRM_NEW_CALC"] = "След записване на параметрите, да се изтрият резултатите от рейтинга ";
+$MESS["RATING_EDIT_CAT_RATING_COMPONENT"] = "Критерии за рейтинги";
+$MESS["RATING_EDIT_CAT_WHAT_NEW_CALC"] = "Резултати от рейтинга";
+$MESS["RATING_EDIT_FRM_POSITION"] = "Пресмятане на позиция в рейтингите";
+$MESS["RATING_EDIT_FRM_AUTHORITY"] = "Използвай този рейтинг за пресмятане на авторитета";
+$MESS["RATING_EDIT_TAB_CALC"] = "Изчисляване";
+$MESS["RATING_EDIT_TAB_CALC_TITLE"] = "База за изчисляване и методология";
+$MESS["RATING_EDIT_CAT_HOW_CALC"] = "Метод на изчисление";
+$MESS["RATING_EDIT_CAT_WHAT_CNT"] = "База за изчисление";
+?>

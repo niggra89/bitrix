@@ -1,0 +1,30 @@
+<?
+$MESS ['FM_WRONG_DATE_CREATE_FROM'] = "Въведете във филтъра правилно \"Дата на създаване\" \"от\"";
+$MESS ['FM_WRONG_FORUM_ID'] = "Не е посочен форум ";
+$MESS ['FM_WRONG_UPDATE'] = "Обновленията не се записаха";
+$MESS ['FM_TOPICS'] = "Cъобщения";
+$MESS ['FORUM_TOPICS'] = "Управление на темите";
+$MESS ['FM_ACT_DELETE'] = "Премахни";
+$MESS ['FM_ACT_MOVE'] = "Премести";
+$MESS ['FM_TITLE_NAME'] = "Име";
+$MESS ['FM_TITLE_DESCRIPTION'] = "Описание";
+$MESS ['FM_TITLE_STATE'] = "Статус";
+$MESS ['FM_TITLE_APPROVED'] = "Модер.";
+$MESS ['FM_TITLE_SORT'] = "Сортиране";
+$MESS ['FM_TITLE_AUTHOR'] = "Автор";
+$MESS ['FM_TITLE_MESSAGES'] = "Съобщения";
+$MESS ['FM_TITLE_VIEWS'] = "Прегледали";
+$MESS ['FM_TITLE_FORUM'] = "Форум";
+$MESS ['FM_TITLE_LAST_MESSAGE'] = "Последно съобщение";
+$MESS ['FM_TITLE_DATE_CREATE'] = "Създадено";
+$MESS ['FM_TITLE_DATE_LAST_POST'] = "Последно съобщение";
+$MESS ['FM_TITLE_USER_START_ID'] = "ID на автора";
+$MESS ['F_OPEN'] = "Отворено";
+$MESS ['F_CLOSE'] = "Затворено";
+$MESS ['F_SHOW'] = "Одобрено";
+$MESS ['F_HIDE'] = "Скрито";
+$MESS ['F_PINN'] = "Важно";
+$MESS ['F_UNPINN'] = "Нормално";
+$MESS ['F_LINK'] = "Линк";
+$MESS ['F_ALL'] = "Всички";
+?>

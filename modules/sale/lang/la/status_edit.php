@@ -1,0 +1,29 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Editar estatus #ID#";
+$MESS ['SALE_NEW_RECORD'] = "Nuevo estatus";
+$MESS ['SALE_RECORDS_LIST'] = "Estatus";
+$MESS ['SALE_SAVE'] = "Guardar";
+$MESS ['SALE_ADD'] = "Agregar";
+$MESS ['SALE_APPLY'] = "Aplicar";
+$MESS ['SALE_RESET'] = "Resetear";
+$MESS ['ERROR_NO_CODE'] = "Fije el código para el nuevo estatus.";
+$MESS ['ERROR_CODE_EXISTS1'] = "El estatus con el código";
+$MESS ['ERROR_CODE_EXISTS2'] = "ya existe.";
+$MESS ['ERROR_NO_NAME'] = "El nombre del estatus no fue proporcionado para el idioma";
+$MESS ['ERROR_EDIT_STATUS'] = "Error al modificar el estatus.";
+$MESS ['ERROR_ADD_STATUS'] = "Error al adicionar un estatus.";
+$MESS ['SALE_CODE'] = "Código";
+$MESS ['SALE_CODE_LEN'] = "carta";
+$MESS ['SALE_SORT'] = "Clasificando índice";
+$MESS ['SALE_NAME'] = "Nombre";
+$MESS ['SALE_DESCR'] = "Descripción";
+$MESS ['SALE_PT_PROPS'] = "Parámetros";
+$MESS ['SSE_CAN_SET'] = "Puede mover órdenes a este estatus:";
+$MESS ['SSE_CAN_UPDATE'] = "Puede editar u guardar órdenes en este estatus:";
+$MESS ['SSEN_2FLIST'] = "Lista de estatus";
+$MESS ['SSEN_NEW_STATUS'] = "Agregar nuevo estatus";
+$MESS ['SSEN_DELETE_STATUS'] = "Eliminar estatus";
+$MESS ['SSEN_TAB_STATUS'] = "Estatus de órdenes";
+$MESS ['SSEN_TAB_STATUS_DESCR'] = "Estatus de órdenes";
+$MESS ['SSEN_DELETE_STATUS_CONFIRM'] = "¿Está seguro que desea eliminar este estatus?. El estatus no se eliminará si existen órdenes con este estatus.";
+?>

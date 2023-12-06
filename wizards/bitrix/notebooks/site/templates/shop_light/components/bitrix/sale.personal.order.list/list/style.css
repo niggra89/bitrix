@@ -1,0 +1,47 @@
+.orders
+{
+	margin-left:35px;
+}
+/*Table*/
+table.sale_personal_order_list
+{
+	border-collapse:collapse;
+	font-size:12px;
+	border:1px solid #e0e0e0;
+	width: 100%;
+}
+
+/*Table head*/
+table.sale_personal_order_list th
+{
+	text-align: left;
+}
+
+/* Table cells and heads*/
+table.sale_personal_order_list th, table.sale_personal_order_list td
+{
+	padding: 3px 5px;
+	vertical-align:top;
+}
+
+table.sale_personal_order_list_table
+{
+	width:100%;
+	font-size:12px;
+}
+.stpol_hint
+{
+    float: right;
+    margin-left: 50px;
+    width: 250px;
+}
+.order_item
+{
+	float:left;
+	width:460px;
+
+}
+h3.black
+{
+	color:#232323;
+}

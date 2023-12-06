@@ -1,0 +1,38 @@
+<?
+$MESS ['STO_EMPTY_BASKET'] = "Su carrito de compras está vacío";
+$MESS ['STO_EMPTY_FIELD'] = "El campo \"#FIELD#\" debe ser rellenado";
+$MESS ['STO_SELECT_PS'] = "Seleccione el método de pago de la orden por favor.<br>";
+$MESS ['STO_WRONG_PS'] = "Método de pago incorrecto.<br>";
+$MESS ['STO_AUTH'] = "Autorización";
+$MESS ['STO_CUR_USER'] = "Actual Usuario:";
+$MESS ['STO_LOGOUT'] = "Log out";
+$MESS ['STO_LOGIN'] = "Login:";
+$MESS ['STO_PASSWORD'] = "Contraseña:";
+$MESS ['STO_LOG_IN'] = "Log in";
+$MESS ['STO_FORGOT_PAS'] = "¿Olvidó su contraseña?";
+$MESS ['STO_ORDER_PARAMS'] = "Parámetros d a orden";
+$MESS ['STO_NEW_BUYER'] = "Nueco comprados";
+$MESS ['STO_PAYMENT'] = "Pago";
+$MESS ['STO_PAY_FROM_ACCOUNT'] = "Pago desde cuenta";
+$MESS ['STO_YOU_HAVE1'] = "Usted tiene";
+$MESS ['STO_YOU_HAVE2'] = "en su cuenta de usuario se puede pagar la orden, completamente o parcialmente. Si no deseas expender los fondos de su cuenta de usuario, quite el check a la opción correspondiente.";
+$MESS ['STO_PAYMENT_WAY'] = "Método de pago:";
+$MESS ['STO_PLEASE_SELECT'] = "--&gt; Selccione por favor";
+$MESS ['STO_NEXT_STEP'] = "Continuar ordenado &gt;&gt;";
+$MESS ['STO_PAYMENT1'] = "Pago:";
+$MESS ['STO_MAKE_ORDER'] = "Orden completa";
+$MESS ['STO_PRIOR_STEP'] = "&lt;&lt; Paso anterior";
+$MESS ['STO_ORDER_CREATED'] = "Orden creada";
+$MESS ['STO_ORDER_CREATED_DESCR'] = "Su orden <b>Nº #ORDER_ID#</b> del #ORDER_DATE# fue creada satisfactoriamente.";
+$MESS ['STO_ORDER_HINT_ANN'] = "Si usted desea cancelar su orden, usted puede hacerlo desde <a href=\"#LINK#\">su sección personal</a>.";
+$MESS ['STO_ORDER_HINT2'] = "Observe por favor que tiene que proveer el número de su orden (#ORDER_ID#) cuando se ponga en contacto con el equipo del e-Store.";
+$MESS ['STO_ERROR_CREATING'] = "Error al crear la orden";
+$MESS ['STO_NO_ORDER'] = "La orden Nº #ORDER_ID# fue creada.";
+$MESS ['STO_TITLE'] = "Nueva orden";
+$MESS ['STO_ERROR_REG_USER'] = "Error al registrar un nuevo usurio";
+$MESS ['STO_ERROR_SAVING_ORDER'] = "Error al guardar la orden";
+$MESS ['STO_PROFILE_TITLE'] = "Perfil #DATE#";
+$MESS ['STO_SHT'] = "pza.";
+$MESS ['STO_ORDER_HINT'] = "Puede hacerle seguimiento al proceso de su orden en la página de detalles de la orden de <a href=\"#LINK#\">su sección personal</a>. Fíjese por favor que debe ingresar su login y contraseña para acceder a su sección personal.";
+$MESS ['STO_CONTACT_ADMIN'] = "Contacte a nuestro equipo de soporte técnico o intente ordenar nuevamente por favor.";
+?>

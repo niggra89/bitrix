@@ -1,0 +1,31 @@
+<?
+$MESS ['PERSON_TYPE_TITLE'] = "Тип клиент";
+$MESS ['ERROR_ADD_REC'] = "Грешка при добавянето на записа";
+$MESS ['ERROR_NAME_REC'] = "Полето \"Име\" не е добавено в записа";
+$MESS ['ERROR_LID_REC'] = "Полето \"Сайт\" не е добавено в записа";
+$MESS ['ERROR_UPDATE_REC'] = "Грешка при актуализирането на записа";
+$MESS ['SALE_F_FILTER'] = "Филтър";
+$MESS ['LANG_FILTER_NAME'] = "Сайт";
+$MESS ['LANG_FILTER_BTN'] = "Задайте филтър";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+$MESS ['LANG_ALL'] = "(Всички)";
+$MESS ['PERS_TYPE_NAV'] = "Типове клиенти";
+$MESS ['PERS_TYPE_NAME'] = "Име";
+$MESS ['PERS_TYPE_LID'] = "Сайт";
+$MESS ['PERS_TYPE_SORT'] = "Сорт.";
+$MESS ['PERS_TYPE_DEL'] = "Премахни";
+$MESS ['PERS_TYPE_UPD'] = "Запиши";
+$MESS ['PERS_TYPE_RESET'] = "Отмени";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Премахването на типа клиент, ще доведе до премахването на всички свързани свойства и настройки. Ако в този тип клиент има поръчки, то той няма да може да се премахне.";
+$MESS ['SALE_PROPS'] = "Свойства";
+$MESS ['SPT_ALL'] = "(всички)";
+$MESS ['SPT_UNSET'] = "Отмени";
+$MESS ['SPTAN_ERROR_UPDATE'] = "Грешка при редактирането на записа";
+$MESS ['SPTAN_ERROR_DELETE'] = "Грешка при премахването на записа";
+$MESS ['PERS_PROPS'] = "Свойства";
+$MESS ['SPTAN_UPDATE_ALT'] = "Редактиране на типа клиент";
+$MESS ['SPTAN_DELETE_ALT1'] = "Премахване на типа клиент";
+$MESS ['SPTAN_ADD_NEW'] = "Нов тип клиент";
+$MESS ['SPTAN_ADD_NEW_ALT'] = "Натиснете за да добавите нов тип клиент";
+?>

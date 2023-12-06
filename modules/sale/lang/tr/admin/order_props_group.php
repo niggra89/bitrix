@@ -1,0 +1,29 @@
+<?
+$MESS ['PROPS_TYPE_TITLE'] = "Özellik grupları";
+$MESS ['PT_FILTER_NAME'] = "Ödeyen türü";
+$MESS ['SALE_ALL'] = "tümü";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_DEL'] = "Sıfırla";
+$MESS ['LANG_FILTER_BTN'] = "Ayarla";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Bu gruba ait özellikler silinecektir. Devam etmek istediğinizden eminmisiniz?";
+$MESS ['PERS_TYPE_NAV'] = "Özellik grupları";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_NAME'] = "Ad";
+$MESS ['PERS_TYPE_TYPE'] = "Ödeyen türü";
+$MESS ['PERS_TYPE_SORT'] = "Sıralama";
+$MESS ['PERS_TYPE_DEL'] = "Sil";
+$MESS ['PERS_TYPE_UPD'] = "Kaydet";
+$MESS ['PERS_TYPE_RESET'] = "Sıfırla";
+$MESS ['ERROR_ADD_REC'] = "Kayıt eklemesinde hata";
+$MESS ['ERROR_NAME_REC'] = "Ad alanı doldurulmamıştır";
+$MESS ['ERROR_PERSON_TYPE_ID_REC'] = "Ödeyen türü alanı doldurulmamıştır";
+$MESS ['ERROR_UPDATE_REC'] = "Kayıt güncelleme hata";
+$MESS ['SALE_PROPS'] = "Özellikleri";
+$MESS ['SOPGAN_DELETE_ERROR'] = "Kayıt silme hata";
+$MESS ['SOPGAN_PROPS'] = "Özellikleri";
+$MESS ['SOPGAN_EDIT_PROMT'] = "Grubu değiştir";
+$MESS ['SOPGAN_DELETE_PROMT'] = "Grup sil";
+$MESS ['SOPGAN_DELETE_PROMT_CONF'] = "Özellik grubunu silmek istediğinizden eminmisiniz?";
+$MESS ['SOPGAN_ADD_NEW'] = "Yeni grup";
+$MESS ['SOPGAN_ADD_NEW_ALT'] = "Yeni grup özelliklerini eklemek için tıklatınız";
+?>

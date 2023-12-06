@@ -1,0 +1,29 @@
+<?
+$MESS ['PM_HEAD_ACTION'] = "Actions";
+$MESS ['PM_ACT_ADD'] = "Ajouter";
+$MESS ['PM_SUCC_SAVED'] = "Les modifications sont enregistrées";
+$MESS ['PM_NOT_DELETE'] = "Ne put supprimer le dossier.";
+$MESS ['PM_ACT_DELETE'] = "Supprimer";
+$MESS ['PM_ACT_EDIT'] = "Éditer";
+$MESS ['PM_HEAD_FOLDER'] = "Dossier";
+$MESS ['PM_FOLDER_ID_1'] = "boîte de réception";
+$MESS ['PM_NOT_RIGHT'] = "Autorisations insuffisantes.";
+$MESS ['PM_HEAD_MESSAGE'] = "Messages&nbsp;:";
+$MESS ['PM_HEAD_TITLE'] = "Nom&nbsp;:";
+$MESS ['PM_HEAD_NEW_FOLDER'] = "Nouveau dossier";
+$MESS ['PM_TITLE_CREATE'] = "Nouveau dossier";
+$MESS ['PM_FOLDER_ID_3'] = "Boîte d'envoi";
+$MESS ['PM_FOLDER_ID_2'] = "Résultats";
+$MESS ['PM_ACT_REMOVE'] = "Purger";
+$MESS ['PM_FOLDER_ID_4'] = "Recyclé";
+$MESS ['PM_ACT_SAVE'] = "Enregistrer";
+$MESS ['PM_TITLE_EDIT'] = "Réglages pour le dossier &laquo;&nbsp;##&nbsp;&raquo;";
+$MESS ['PM_NOT_FOLDER'] = "Le dossier n'existe pas.";
+$MESS ['PM_SUCC_CREATE'] = "Le dossier a été créé avec succès";
+$MESS ['PM_SUCC_DELETE'] = "Le dossier a été créé avec succès";
+$MESS ['PM_SUCC_REMOVE'] = "Le dossier a été purgé avec succès";
+$MESS ['PM_NOT_FOLDER_TITLE'] = "Le nom de dossier n'a pas été spécifié.";
+$MESS ['PM_NO_MODULE'] = "Le module n'est pas installé";
+$MESS ['PM_POST_FULLY'] = "Espace utilisé&nbsp;:";
+$MESS ['PM_TITLE_LIST'] = "Dossiers d'utilisateur";
+?>

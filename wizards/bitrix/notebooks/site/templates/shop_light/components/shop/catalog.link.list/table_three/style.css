@@ -1,0 +1,63 @@
+
+.ar_items
+{
+	margin-bottom:25px;
+}
+.catalog_link_table
+{
+	float:left;
+	margin:0 30px;
+}
+
+.catalog_link_table .item
+{
+
+	float:left;
+	width:160px;
+
+}
+.catalog_link_table .preview_picture
+{
+	margin:7px 0 10px 0;
+
+	/*
+	text-align:center;
+	*/
+}
+.catalog_link_table .catalog-price {
+    float: left;
+    font-size: 18px;
+    width: auto;
+	margin:0 0 10px 0;
+
+}
+.catalog_link_table .item .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+
+.catalog_link_table .item .buttons input.add
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+}
+.catalog_link_table .item .buttons .buy_nonactive
+{
+	background:url('images/nonactive_buy.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.catalog_link_table div.property{
+        float: left;
+        width: 100%;
+        margin: 0px 0 5px;
+        color: #454545;
+        font-size: 10px;
+        line-height: 1.35;
+}

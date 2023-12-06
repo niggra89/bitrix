@@ -1,0 +1,29 @@
+<?
+$MESS ['currency_err1'] = "Döviz silinmesinde hata oluştu.";
+$MESS ['currency_err2'] = "Tüm alanların doldurulması zorunludur!";
+$MESS ['currency_err3_1'] = "Döviz";
+$MESS ['currency_err3_2'] = "zaaten mevcut.";
+$MESS ['currency_list'] = "Döviz kurları";
+$MESS ['currency_sort'] = "Sıralama.";
+$MESS ['currency_actions'] = "Etkinlikler";
+$MESS ['currency_empty'] = "Döviz listesi boş";
+$MESS ['currency_title'] = "Dövizler";
+$MESS ['currency_add'] = "Ekle>>";
+$MESS ['currency_curr'] = "Döviz";
+$MESS ['currency_rate_cnt'] = "Miktar.";
+$MESS ['currency_rate'] = "Temerrüt oranı.";
+$MESS ['currency_del'] = "Sil";
+$MESS ['currency_upd'] = "Kaydet";
+$MESS ['currency_need'] = "*Tüm alanların doldurulması zorunludur.";
+$MESS ['CURRENCY_TITLE'] = "Dövizler";
+$MESS ['CURRENCY_FULL_NAME_DESC'] = "Dövizin tam adı";
+$MESS ['CURRENCY_FULL_NAME'] = "Adı";
+$MESS ['CURRENCY_FORMAT_DESC'] = "Dövizin belirtilmesi için format dizisi ";
+$MESS ['CURRENCY_FORMAT'] = "Format";
+$MESS ['CURRENCY_DEC_POINT_DESC'] = "Belirtilmesi esnasında ondalık noktası";
+$MESS ['CURRENCY_DEC_POINT'] = "Ondalık nokta";
+$MESS ['THOU_SEP_DESC'] = "Belirtilmesi esnasında binlik ayırıcısı  ";
+$MESS ['THOU_SEP'] = "Binlik ayırıcısı";
+$MESS ['DECIMALS_DESC'] = "Ondalık karakter sayısı";
+$MESS ['DECIMALS'] = "Ondalık karakter  ";
+?>

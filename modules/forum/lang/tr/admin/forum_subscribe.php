@@ -1,0 +1,35 @@
+<?
+$MESS ['FM_FLT_SEARCH_TITLE'] = "Arama hanesini doldurun";
+$MESS ['FM_FLT_SEARCH'] = "Bul";
+$MESS ['FM_FLT_LOGIN'] = "Kullanıcı adı";
+$MESS ['FM_FLT_EMAIL'] = "E-Mail";
+$MESS ['FM_FLT_FIO'] = "soyadı, adı";
+$MESS ['FM_FLT_START_DATE'] = "Abonelik başlama tarihi";
+$MESS ['FM_FLT_START_DATE_ALT'] = "Abonelik başlama tarihi";
+$MESS ['FM_FLT_FORUM'] = "Forum";
+$MESS ['FM_FLT_FORUM_ALT'] = "Forum";
+$MESS ['FM_FLT_SUBSCR_TYPE'] = "Abnelik türü";
+$MESS ['FM_FLT_SUBSCR_TYPE_ALT'] = "Abnelik türü";
+$MESS ['FM_Y'] = "evet";
+$MESS ['FM_NO'] = "yok";
+$MESS ['FM_ACT_DELETE'] = "Sil";
+$MESS ['FM_ACT_EDIT'] = "Değiştir";
+$MESS ['FM_TITLE'] = "Abonelik yönetimi";
+$MESS ['FM_TITLE_PAGE'] = "Forum kullanıcıları";
+$MESS ['FM_HEAD_FORUM_USER_ID'] = "FID";
+$MESS ['FM_HEAD_USER_ID'] = "Kimlik";
+$MESS ['FM_HEAD_EMAIL'] = "E-Mail";
+$MESS ['FM_HEAD_LOGIN'] = "Kullanıcı adı";
+$MESS ['FM_HEAD_NAME'] = "İsim";
+$MESS ['FM_HEAD_LAST_NAME'] = "Soyadı";
+$MESS ['FM_HEAD_SUBSC'] = "Abonelik sayısı";
+$MESS ['FM_HEAD_START_DATE'] = "Aboneliğin başlangıcı";
+$MESS ['FM_WRONG_DATE_FROM'] = "Filtre'de doğru \"den itibaren\" \"Oluşturma tarihi\" girin";
+$MESS ['FM_WRONG_DATE_TO'] = "Filtre'de doğru \"-e kadar\" \"Oluşturma tarihi\" girin";
+$MESS ['FM_WRONG_PERIOD'] = "Süre yanlış belirtilmiş";
+$MESS ['FM_NEW_TOPIC_ONLY'] = "Yalnızca yeni konular";
+$MESS ['FM_ALL_MESSAGE'] = "Forumun tüm mesajları";
+$MESS ['FM_TYPICAL'] = "Konunun yeni mesjaları";
+$MESS ['FM_ACT_DEL_CONFIRM'] = "Gerçekten kullanıcının TÜM imzalarını silmek istiyor musunuz?";
+$MESS ['FM_SPACE'] = "seçilmedi";
+?>

@@ -1,0 +1,31 @@
+<?
+$MESS ['PERSON_TYPE_TITLE'] = "Tipo de pagador";
+$MESS ['ERROR_ADD_REC'] = "Error al edicionar un registro";
+$MESS ['ERROR_NAME_REC'] = "El campo \"Nombre\" no se ha fijado en el registro";
+$MESS ['ERROR_LID_REC'] = "El Campo \"Sitio\" no se fijó en el registro";
+$MESS ['ERROR_UPDATE_REC'] = "Error al actualizar el registro";
+$MESS ['SALE_F_FILTER'] = "Filtro";
+$MESS ['LANG_FILTER_NAME'] = "Sitio";
+$MESS ['LANG_FILTER_BTN'] = "Fijar filtro";
+$MESS ['SALE_F_DEL'] = "Remover filtro";
+$MESS ['LANG_ALL'] = "Todos los sitios";
+$MESS ['PERS_TYPE_NAV'] = "Tipos de Pagador";
+$MESS ['PERS_TYPE_NAME'] = "Nombre";
+$MESS ['PERS_TYPE_LID'] = "Sitio";
+$MESS ['PERS_TYPE_SORT'] = "Clasi.";
+$MESS ['PERS_TYPE_DEL'] = "Eliminar";
+$MESS ['PERS_TYPE_UPD'] = "Guarde";
+$MESS ['PERS_TYPE_RESET'] = "Resetear";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['SALE_PROPS'] = "Propiedades";
+$MESS ['SPT_ALL'] = "(todo)";
+$MESS ['SPT_UNSET'] = "resetear";
+$MESS ['SPTAN_ERROR_UPDATE'] = "Error al modificar el registro";
+$MESS ['SPTAN_ERROR_DELETE'] = "Error al eliminar el registro";
+$MESS ['PERS_PROPS'] = "Propiedades";
+$MESS ['SPTAN_UPDATE_ALT'] = "Editar tipo de pagador";
+$MESS ['SPTAN_DELETE_ALT1'] = "Eliminar tipo de pagador";
+$MESS ['SPTAN_ADD_NEW'] = "Nuevo tipo de pagador";
+$MESS ['SPTAN_ADD_NEW_ALT'] = "Click paraagregar un nuevo tipo de pagador";
+$MESS ['PERS_TYPE_DEL_CONF'] = "El remover un tipo de pagador causará que se elimine su configuración y todas sus propiedades.";
+?>

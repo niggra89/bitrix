@@ -1,0 +1,32 @@
+<?
+$MESS ['CATALOG_CONTROL'] = "Търговски каталог";
+$MESS ['CURRENCY'] = "Валута";
+$MESS ['CURRENCY_ALT'] = "Валута";
+$MESS ['CURRENCY_RATES'] = "Курс на валутата";
+$MESS ['CURRENCY_RATES_ALT'] = "Курс на валутата";
+$MESS ['EXTRA'] = "Надценки";
+$MESS ['EXTRA_ALT'] = "Тип надценки";
+$MESS ['GROUP'] = "Тип цени";
+$MESS ['GROUP_ALT'] = "Тип цени";
+$MESS ['VAT'] = "Данък ДДС";
+$MESS ['VAT_ALT'] = "Промени данъка-ДДС";
+$MESS ['LOAD_1C'] = "Внос от XML (CommerceML)";
+$MESS ['LOAD_1C_ALT'] = "Внос на данните във формат CommerceML";
+$MESS ['LOAD_DATA'] = "Внос от файл";
+$MESS ['LOAD_DATA_ALT'] = "Внос на данни от CSV файл";
+$MESS ['UNLOAD_DATA'] = "Експортиране във файл";
+$MESS ['UNLOAD_DATA_ALT'] = "Експорт към CSV файл";
+$MESS ['SETUP_UNLOAD_DATA'] = "Експорт на данни";
+$MESS ['SETUP_UNLOAD_DATA_ALT'] = "Настройка на данните за експорт";
+$MESS ['CAM_EXPORT_DESCR'] = "Експорт на данни от";
+$MESS ['CM_DISCOUNTS'] = "Отстъпки";
+$MESS ['CM_DISCOUNTS_ALT'] = "Отстъпки за продукти и услуги";
+$MESS ['CM_IMPORT_NEW'] = "Внос (нов формат)";
+$MESS ['CM_IMPORT_NEW_ALT'] = "Импортиране на данни в нов CSV формат";
+$MESS ['SETUP_LOAD_DATA'] = "Импортиране на данни";
+$MESS ['SETUP_LOAD_DATA_ALT'] = "Настройка на данните за внос ";
+$MESS ['CAM_IMPORT_DESCR'] = "Данни за внос от";
+$MESS ['CATALOG_MNU_TITLE'] = "Управление на търговския каталог";
+$MESS ['CM_COUPONS'] = "Купони за отстъпки";
+$MESS ['CM_COUPONS_ALT'] = "Купони за отстъпки";
+?>

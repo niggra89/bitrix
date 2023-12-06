@@ -1,0 +1,33 @@
+<?
+$MESS ['IBLOCK_ELEMENT_EDIT_TAGS_TIP'] = "(kelimeleri veya tümcecikleri virgülle ayrılmış olarak girin)";
+$MESS ['IBLOCK_ELEMENT_EDIT_ELEMENTS'] = "Öğeler";
+$MESS ['IBLOCK_ELEMENT_EDIT_LINKED'] = "Bağlı öğeler";
+$MESS ['IBLOCK_ELEMENT_EDIT_NOT_SET'] = "(belirtilmemiş)";
+$MESS ['IBLOCK_ELEMENT_EDIT_PROP_ADD'] = "Ekle";
+$MESS ['IBLOCK_ELEMENT_EDIT_PROP_DESC'] = "özellik değeri tanımı";
+$MESS ['IBLOCK_ELEMENT_EDIT_PROP_DESC_1'] = "Tanım:";
+$MESS ['IBLOCK_ELEMENT_LIST'] = "Öğe listesi";
+$MESS ['IBLOCK_ELEMENT_NEW'] = "Yeni öğe ekle";
+$MESS ['IBLOCK_ELEMENT_DEL_LINK'] = "Sil";
+$MESS ['IBLOCK_ELEMENT_DEL_CONF'] = "Bu kayıtla ilgili tüm bilgiler silinecektir. Devam etmek istiyor musunuz?";
+$MESS ['IBLOCK_EL_TAB_MO'] = "Ek bilgiler";
+$MESS ['IBLOCK_EL_TAB_MO_TITLE'] = "Öğe ek parametreleri";
+$MESS ['IBLOCK_EL_TAB_WF'] = "İş akışı";
+$MESS ['IBLOCK_EL_TAB_WF_TITLE'] = "İş akışındaki parametreler";
+$MESS ['IBLOCK_EL_SAVE'] = "Kaydet";
+$MESS ['IBLOCK_EL_CANC'] = "İptal et";
+$MESS ['IBEL_E_BACK_TO_SECT'] = "Bölüm listesine geç";
+$MESS ['IBEL_E_TAB_PREV'] = "Önizleme";
+$MESS ['IBEL_E_TAB_PREV_TITLE'] = "Ön izleme bilgisi";
+$MESS ['IBEL_E_TAB_DET'] = "Detaylı";
+$MESS ['IBEL_E_TAB_DET_TITLE'] = "Detaylı Bilgi";
+$MESS ['IBLOCK_WRONG_SESSION'] = "Bağlı kalma süreniz doldu. Lütfen belgeyi tekrar kaydedin.";
+$MESS ['IBLIST_A_SEC_EDIT'] = "Bölüm düzenleme sayfasına git";
+$MESS ['IBEL_E_BASE_PRICE'] = "Baz fiyatı alanını doldurunuz";
+$MESS ['IBEL_E_IBLOCK_MANAGE_HINT'] = "Bilgi bloğu özelliklerini ve erişim hakkını şuradan değiştirebilirsiniz:";
+$MESS ['IBEL_E_IBLOCK_MANAGE_HINT_HREF'] = "Bilgi bloğu ayarları";
+$MESS ['IBEL_E_IBLOCK_ELEMENT'] = "Öğe";
+$MESS ['IBEL_E_IBLOCK_SECTIONS'] = "Bölümler";
+$MESS ['IBEL_E_COPY_ELEMENT'] = "Kopyala";
+$MESS ['IBEL_E_COPY_ELEMENT_TITLE'] = "Öğeyi kopyala";
+?>

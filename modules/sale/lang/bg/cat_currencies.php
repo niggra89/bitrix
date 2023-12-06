@@ -1,0 +1,29 @@
+<?
+$MESS ['currency_err1'] = "Грешка при изтриването на валутата.";
+$MESS ['currency_err2'] = "Всички полета трябва да бъдат попълнени!";
+$MESS ['currency_err3_1'] = "Валута";
+$MESS ['currency_err3_2'] = "вече е налично.";
+$MESS ['currency_list'] = "Валутни курсове";
+$MESS ['currency_sort'] = "Сорт.";
+$MESS ['currency_actions'] = "Действия";
+$MESS ['currency_empty'] = "Списъка на валутите е празен";
+$MESS ['currency_title'] = "Валути";
+$MESS ['currency_add'] = "Добави >>";
+$MESS ['currency_curr'] = "Валута";
+$MESS ['currency_rate_cnt'] = "Количество";
+$MESS ['currency_rate'] = "Курс по под разбиране";
+$MESS ['currency_del'] = "Премахни";
+$MESS ['currency_upd'] = "Запиши";
+$MESS ['currency_need'] = "*Всички полета са задължителни за попълване.";
+$MESS ['CURRENCY_TITLE'] = "Валути";
+$MESS ['CURRENCY_FULL_NAME_DESC'] = "Цялото име на валутата";
+$MESS ['CURRENCY_FULL_NAME'] = "Име";
+$MESS ['CURRENCY_FORMAT_DESC'] = "Формат на реда за показване на валутата";
+$MESS ['CURRENCY_FORMAT'] = "Формат";
+$MESS ['CURRENCY_DEC_POINT_DESC'] = "Десетична точка";
+$MESS ['CURRENCY_DEC_POINT'] = "Дес. точка";
+$MESS ['THOU_SEP_DESC'] = "Разделител на хиляда";
+$MESS ['THOU_SEP'] = "Разд. хиляда";
+$MESS ['DECIMALS_DESC'] = "Брой на десетичните знаци";
+$MESS ['DECIMALS'] = "Дес. знаци";
+?>

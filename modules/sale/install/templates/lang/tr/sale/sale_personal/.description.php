@@ -1,0 +1,30 @@
+<?
+$MESS ['STPD_PER_FOLDER'] = "Kişisel bölüm";
+$MESS ['STPD_ACCOUNT'] = "Mevcut kullanıcı hesapları";
+$MESS ['STPD_CCARDS'] = "Mevcut kullanıcının plastik kart listesi";
+$MESS ['STPD_CCARDS_DET'] = "Kredi kartını düzenleme sayfası";
+$MESS ['STPD_CCARDS_DET_PAGE'] = "Mevcut kullanıcının plastik kartların düzenlenmesi";
+$MESS ['STPD_CCARDS_LIST'] = "Mevcut kullanıcının plastik kartl listeli sayfası";
+$MESS ['STPD_ORDER_LIST'] = "Mevcut kullanıcının sipariş listesi ";
+$MESS ['STPD_ORDER_DET_PAGE'] = "Sipariş hakkında ayrıntılı bilgi sayfası";
+$MESS ['STPD_ORDER_REP_PAGE'] = "Sipariş tekrarlama sayfası (genelde sipariş listeli sayfa ile eşleşmektedir)";
+$MESS ['STPD_ORDER_CANC_PAGE'] = "Sipariş iptal sayfası";
+$MESS ['STPD_ORDER_BASK_PAGE'] = "Sepet sayfası";
+$MESS ['STPD_ORDER_DET'] = "Sipariş hakkında ayrıntılı bilgi";
+$MESS ['STPD_ORDER_DET_DESCR'] = "Mevcut kullanıcının siparişi hakkında ayrıntılı bilgi ???????? ????????????";
+$MESS ['STPD_ORDER_LIST_PAGE'] = "Mevcut kullanıcının sipariş listeli sayfa";
+$MESS ['STPD_ORDER_PAY_PAGE'] = "Sipariş ödeme sayfası";
+$MESS ['STPD_CANSEL'] = "Sipariş iptali";
+$MESS ['STPD_CANCEL_DESCR'] = "Mevcut kullanıcı siparişin iptali";
+$MESS ['STPD_ORDER_TABLE'] = "Mevcut kullanıcı sipariş tablosu";
+$MESS ['STPD_PROFILE_LIST'] = "Mevcut kullanıcı profillerin listesi";
+$MESS ['STPD_PROFILE_DET_PAGE'] = "Profil düzenleme sayfası";
+$MESS ['STPD_PROFILE_DET'] = "Profil düzenlenmesi";
+$MESS ['STPD_PROFILE_DET1'] = "Mevcut kullanıcı profil düzenlenmesi";
+$MESS ['STPD_PROFILE_LIST_PAGE'] = "Mevcut kullanıcı profil sayfasının listesi";
+$MESS ['STPD_SUBSCR_LIST'] = "Mevcut kullanıcı aboneliğin listesi";
+$MESS ['STPD_SUBSCR_CANCEL'] = "Abonelik iptal sayfası";
+$MESS ['STPD_CANCEL'] = "Aboneliğin iptali";
+$MESS ['STPD_CANCEL_DESCR1'] = "Mevcut kullanıcı aboneliğin iptali";
+$MESS ['STPD_CANCEL_LIST_PAGE'] = "Mevcut kullanıcı aboneliğin liste sayfası";
+?>

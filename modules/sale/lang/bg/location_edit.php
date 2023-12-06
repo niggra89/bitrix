@@ -1,0 +1,34 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Редактиране на местоположението # #ID#";
+$MESS ['SALE_NEW_RECORD'] = "Ново местоположение";
+$MESS ['SALE_RECORDS_LIST'] = "Местоположения";
+$MESS ['F_COUNTRY'] = "Държава";
+$MESS ['NEW_COUNTRY'] = "< Нова държава >";
+$MESS ['F_OR'] = "ИЛИ";
+$MESS ['SALE_SAVE'] = "Запиши";
+$MESS ['SALE_ADD'] = "Добави";
+$MESS ['SALE_APPLY'] = "Постави";
+$MESS ['SALE_RESET'] = "Отмени";
+$MESS ['ERROR_SELECT_COUNTRY'] = "Изберете държава, която искате да промените, или въведете нова без да се отмята \"Редактиране на текущата държава\".";
+$MESS ['ERROR_COUNTRY_NAME'] = "Държава: не е посочено пълното име на държавата.";
+$MESS ['ERROR_COUNTRY_NAME_LANG'] = "Държава: не е посочено пълното име на държавата за езика";
+$MESS ['ERROR_CITY_NAME'] = "Град: не е посочено пълното име на града.";
+$MESS ['ERROR_CITY_NAME_LANG'] = "Град: не е посочено пълното име на града за езика";
+$MESS ['ERROR_EDIT_LOCAT'] = "Грешка при промяната на местоположението.";
+$MESS ['ERROR_ADD_LOCAT'] = "Грешка при добавяне на местоположение.";
+$MESS ['SALE_NEW'] = "нов";
+$MESS ['SALE_SORT'] = "Сортиране";
+$MESS ['SALE_NEW_CNTR'] = "Нова държава";
+$MESS ['SALE_CHANGE_CNTR'] = "Редактиране на текущата държава";
+$MESS ['SALE_FULL_NAME'] = "Цялото име";
+$MESS ['SALE_SHORT_NAME'] = "Кратко име";
+$MESS ['SALE_CITY'] = "Град";
+$MESS ['SALE_WITHOUT_CITY'] = "Без град";
+$MESS ['SALE_PT_PROPS'] = "Параметри";
+$MESS ['SLN_2FLIST'] = "Списък на местоположения";
+$MESS ['SLN_NEW_LOCATION'] = "Добави ново местоположение";
+$MESS ['SLN_DELETE_LOCATION'] = "Премахни местоположението";
+$MESS ['SLN_DELETE_LOCATION_CONFIRM'] = "Сигурни ли сте, че искате да изтриете това местоположение?";
+$MESS ['SLN_TAB_LOCATION'] = "Местоположение";
+$MESS ['SLN_TAB_LOCATION_DESCR'] = "Параметри на местоположенията";
+?>

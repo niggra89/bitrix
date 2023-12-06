@@ -1,0 +1,8 @@
+<?
+$MESS["BCL_BACKUP_NOTE"] = "<p>Criar backups em armazenamento em nuvem está disponível para todas as edições do Bitrix Site Manager; diferente <a target=\"\"_blank\"\" href=\"\"http://www.bitrixsoft.com/products/cms/features/cdn.php\"\">espaço cloud </a> é reservado para as diferentes edições. Salvar backups de armazenamento em nuvem está disponível apenas para sites que funcionam sob uma licença ativa e válida. </p> <p> Backups são salvos Bitrix Cloud Storage, são possíveis até <b> três cópias de backup mais recentes </b>.Uma das cópias mais antigas é purgada sempre que uma cópia mais recente é enviada para a nuvem. No entanto, o número máximo de cópias pode diminuir se o tamanho total de cópias excede o espaço disponível em nuvem. Se o tamanho de uma única cópia de backup em nuvem excede o espaço disponível, o recurso de backup torna-se indisponível. </p> <p> A cópia de backup é criptografada usando a senha que você terá que fornecer ao criar um backup. Bitrix Inc. não armazena senhas e, portanto, não pode acessar suas informações. Consequentemente, você não será capaz de restaurar um site a partir de uma cópia de segurança, se você perder a sua senha. </p> <p> Condições de armazenamento em nuvem e os prazos podem ser alterados sem aviso prévio. </p>";
+$MESS["BCL_BACKUP_TITLE"] = "Backups";
+$MESS["BCL_BACKUP_DO_BACKUP"] = "Criar backup";
+$MESS["BCL_BACKUP_FILE_NAME"] = "Nome do Arquivo";
+$MESS["BCL_BACKUP_FILE_SIZE"] = "Tamanho do Arquivo";
+$MESS["BCL_BACKUP_USAGE"] = "Espaço usado: #USAGE# of #QUOTA#.";
+?>

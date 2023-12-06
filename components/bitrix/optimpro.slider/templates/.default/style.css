@@ -1,0 +1,88 @@
+
+.main_banner
+{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	zoom:1;
+	z-index:10; 
+	position:relative;
+	border:1px solid #3e3e3e;
+	background:#3e3e3e;
+}
+.main_banner_fon{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	zoom:1;
+	z-index:10; 
+	position:relative;
+	border:1px solid #222222;
+	background:#222222;
+}
+.main_banner_act{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	zoom:1;
+	z-index:10; 
+	position:relative;
+	background:#188dd9;
+}
+.white_banner_fon{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	zoom:1;
+	z-index:1; 
+	position:relative;
+	background:#ffffff;
+}
+
+
+.main_banner_fon a{
+	text-decoration:none;
+}
+.main_banner_punct{
+	padding:15px 10px 15px 15px;
+	font-size:16px;
+	color:#e4eaee;
+}
+.main_banner_act_arrow{
+	position:absolute;
+	margin-left:220px;
+}
+.banner_data a{
+	font-size:20px;
+	text-decoration:none;
+	line-height:24px;
+}
+.banner_dotted_line{
+	background:url('../../images/banner_dot.gif') top repeat-x;
+}
+.banner_text{
+	color:#535353;
+	line-height:16px;
+}
+.banner_price{
+	font-size:18px;
+	color:#3e3e3e;
+}
+.banner_act_box{
+	position:relative;
+	top:3px;
+}
+
+.font24{
+	font-size:15px;
+}
+.font30{
+	font-size:20px;
+}
+.red{
+	color:#c40004;
+}

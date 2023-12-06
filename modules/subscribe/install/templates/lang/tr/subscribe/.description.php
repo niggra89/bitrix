@@ -1,0 +1,29 @@
+<?
+$MESS ['subscr_descr_name'] = "Abonelik, modüller";
+$MESS ['subscr_descr_form'] = "Abonelik formu";
+$MESS ['subscr_descr_form_desc'] = "Site tasarımına dahil edilen bülten abonelik formu.";
+$MESS ['subscr_descr_form_page'] = "Abonelik düzenleme sayfası (macro erişilebilmektedir #SITE_DIR#)";
+$MESS ['subscr_descr_subscr'] = "Bülten sayfası";
+$MESS ['subscr_descr_subscr_desc'] = "Abonelik yönetim formu ve bülten listeli sayfa.";
+$MESS ['subscr_descr_subscr_page'] = "Abonelik düzenleme sayfası";
+$MESS ['subscr_descr_subscr_count'] = "Abone sayısını görüntüle";
+$MESS ['subscr_descr_yes'] = "Evet";
+$MESS ['subscr_descr_no'] = "Hayır";
+$MESS ['subscr_descr_subscredt_page'] = "Abonelik düzenleme sayfası";
+$MESS ['subscr_descr_subscredt_desc'] = "Abonelik adresini düzenleme veya ekleme için formlu sayfa.";
+$MESS ['subscr_descr_subscredt_anon'] = "Anonim aboneliğine izin ver";
+$MESS ['subscr_descr_subscredt_show'] = "Anonim aboneliğinde yetki için bağlantıları görüntüle";
+$MESS ['subscr_descr_show_hidden'] = "Gizli abonelik kategorilerini görüntüle";
+$MESS ['subscr_descr_sort_order_asc'] = "Artan";
+$MESS ['subscr_descr_sort_order_desc'] = "Azalan";
+$MESS ['subscr_descr_act_date'] = "Etkinliğin başlangıç tarihi";
+$MESS ['subscr_descr_sort'] = "Sıralama";
+$MESS ['subscr_descr_subscrnews'] = "Haber listesi";
+$MESS ['subscr_descr_subscrnews_desc'] = "Bülten düzenlemek için bir veya birkaç bilgi blog içerisinden haber listesi.";
+$MESS ['subscr_descr_subscrnews_all'] = "(Tümü)";
+$MESS ['subscr_descr_subscrnews_site'] = "Site";
+$MESS ['subscr_descr_subscrnews_ibtype'] = "Bilgi blog türü";
+$MESS ['subscr_descr_subscrnews_ibcode'] = "Bilgi blog kodu";
+$MESS ['subscr_descr_subscrnews_sort'] = "Haberlerin sıralanması için alan";
+$MESS ['subscr_descr_subscrnews_sort_dir'] = "Haberlerin sıralanma yönü";
+?>

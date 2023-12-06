@@ -1,0 +1,34 @@
+<?
+$MESS ['SALE_WRONG_TIMESTAMP_FROM'] = "Filtre içerisinde \"den\" tarihini doğru giriniz";
+$MESS ['SALE_WRONG_TIMESTAMP_TILL'] = "Filtre içerisinde \"kadar\" tarihini doğru giriniz";
+$MESS ['SALE_FROM_TILL_TIMESTAMP'] = "Kadar değişiklik tarihi \"den\" tarihinden daha fazla olmalıdır";
+$MESS ['SALE_WRONG_LAST_LOGIN_FROM'] = "Filtre içerisinde son \"den\" yetkilendirme tarihini doğru giriniz ";
+$MESS ['SALE_WRONG_LAST_LOGIN_TILL'] = "Filtre içerisinde son \"kadar\" yetkilendirme tarihini doğru giriniz";
+$MESS ['SALE_FROM_TILL_LAST_LOGIN'] = "den son yetkilendirme tarihi \"den\" yetkilendirme tarihinden daha fazla olmalıdır ";
+$MESS ['SALE_F_ID'] = "ID:";
+$MESS ['SALE_F_LAST_LOGIN'] = "Son yetkilendirme";
+$MESS ['SALE_F_TIMESTAMP'] = "Değişiklik tarihi";
+$MESS ['SALE_F_EMAIL'] = "E-Mail:";
+$MESS ['SALE_F_KEYWORDS'] = "Profil alanı:";
+$MESS ['SALE_PAGE_TITLE'] = "Kullanıcı aranması";
+$MESS ['SALE_F_LOGIN'] = "Giriş adı:";
+$MESS ['SALE_F_ACTIVE'] = "Etkinlik";
+$MESS ['SALE_YES'] = "Evet";
+$MESS ['SALE_NO'] = "Hayır";
+$MESS ['SALE_ALL'] = "(tümü)";
+$MESS ['SALE_F_NAME'] = "Ad:";
+$MESS ['SALE_F_GROUP'] = "Kullanıcı grupları:";
+$MESS ['SALE_F_SET_FILTER'] = "Ayarla";
+$MESS ['SALE_F_DEL_FILTER'] = "Sıfırla";
+$MESS ['SALE_PAGES'] = "Kullanıcılar";
+$MESS ['SALE_TIMESTAMP'] = "Değişiklik tarihi";
+$MESS ['SALE_ACTIVE'] = "Etkinlik";
+$MESS ['SALE_LOGIN'] = "Kullanıcı adı";
+$MESS ['SALE_NAME'] = "Ad";
+$MESS ['SALE_LAST_NAME'] = "Soyad";
+$MESS ['SALE_EMAIL'] = "E-Mail";
+$MESS ['SALE_ACTION'] = "Etkinlikler";
+$MESS ['SALE_SELECT'] = "Seç";
+$MESS ['SALE_TOTAL'] = "Toplam";
+$MESS ['SALE_CLOSE'] = "Kapat";
+?>

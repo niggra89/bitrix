@@ -1,0 +1,17 @@
+.basket-line
+{
+	display:block;
+	float:left;
+	color:#ffffff;
+	font-size:12px;
+	line-height:1.7;
+}
+.basket-line-basket
+{
+	height: 22px;
+    width: 26px;
+	background-repeat:no-repeat; display:block;
+	background-image: url(images/basket.png);
+	float:left;
+	margin-right:5px;
+}

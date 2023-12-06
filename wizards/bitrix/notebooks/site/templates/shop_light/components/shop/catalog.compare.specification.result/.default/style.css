@@ -1,0 +1,27 @@
+.catalog-price
+{
+	font-size:18px;
+	margin:15px 0 20px;
+}
+table img.preview_picture
+{
+	margin:0 0 10px 0;
+}
+tr.specification td
+{
+	color:#555555;
+	padding:8px 0;
+}
+tr.specification_title td
+{
+	color:#000000;
+}
+.table_top {	}
+tr.specification td.table_left
+{
+	padding-left:35px;
+}
+tr.specification_title td.table_left
+{
+	padding-left:0px;
+}

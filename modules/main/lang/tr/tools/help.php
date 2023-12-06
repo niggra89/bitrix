@@ -1,0 +1,34 @@
+<?
+$MESS ['HELP_TITLE'] = "Yardım";
+$MESS ['HELP_HEADER'] = "Başlık:";
+$MESS ['HELP_FILENAME'] = "Disk üzerindeki ad:";
+$MESS ['HELP_CREATE'] = "Oluştur";
+$MESS ['HELP_RESET'] = "Sıfırla";
+$MESS ['HELP_DELETE'] = "Sil";
+$MESS ['HELP_CONFIRM_DELETE'] = "Günlük/dosyayı silmek istediğinizden eminmisiniz?";
+$MESS ['HELP_ACCESS_DENIED'] = "Erişim reddedildi";
+$MESS ['HELP_BACK'] = "Geri";
+$MESS ['HELP_EXPAND_ALL'] = "Tümünü genişlet";
+$MESS ['HELP_COLLAPSE_ALL'] = "Tümünü daralt";
+$MESS ['HELP_KERNEL'] = "Ana modül";
+$MESS ['HELP_HIDE'] = "Gizle";
+$MESS ['HELP_CLOSE'] = "Kapat";
+$MESS ['HELP_TREE'] = "Konu listesi ile sinhronize et";
+$MESS ['HELP_EDIT'] = "Düzenle";
+$MESS ['HELP_FILE_NOT_FOUND'] = "Yardım dosyası bulunamadı";
+$MESS ['HELP_CURRENT_FOLDER'] = "Mevcut günlük:";
+$MESS ['HELP_IS_FOLDER'] = "Günlük oluşturulmaktadır:";
+$MESS ['HELP_FORGOT_FILENAME'] = "Disk? adı girmeyi unuttunuz";
+$MESS ['HELP_FILE_EXISTS'] = "Bu ad ile dosya veya katalog zaaten var";
+$MESS ['HELP_FILE_SAVE_ERROR'] = "Dosya kayıt hatası";
+$MESS ['HELP_CREATE_FOLDER_ERROR'] = "Günlük oluşturulmasında hata";
+$MESS ['HELP_FILE_NOT_EXIST'] = "Dosya #FILE# mevcut değildir";
+$MESS ['HELP_FOLDER_NOT_EXIST'] = "Günlük #FOLDER# mevcut değildir";
+$MESS ['HELP_FOLDER_NOT_EMPTY'] = "Günlük silme hatası #FOLDER# (günlük boş değildir)";
+$MESS ['HELP_ERROR_DELETE_FOLDER'] = "Günlük silme hatası #FOLDER#";
+$MESS ['HELP_DELETE_ERROR'] = "Dosya silme hatası";
+$MESS ['HELP_SEARCH'] = "Ara";
+$MESS ['HELP_MOVE_UP'] = "Yükarı taşı";
+$MESS ['HELP_MOVE_DOWN'] = "Aşağı taşı";
+$MESS ['HELP_SORT'] = "Sıralama:";
+?>

@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Sipariş hakkında detaylı bilgiler N#ID#";
+$MESS ['SALE_RECORDS_LIST'] = "Sipariş listesine";
+$MESS ['P_ORDER_ID'] = "Sipariş";
+$MESS ['P_ORDER_DATE'] = "Sipariş tarihi";
+$MESS ['P_ORDER_LANG'] = "Sipariş dili";
+$MESS ['P_ORDER_STATUS'] = "Durum";
+$MESS ['P_ORDER_STATUS_DATE'] = "değiştirildi";
+$MESS ['P_ORDER_PRICE'] = "Sipariş bedeli";
+$MESS ['P_ORDER_UPDATE_DATE'] = "son değişiklik";
+$MESS ['P_ORDER_CANCELED'] = "Değiştirildi";
+$MESS ['P_ORDER_DATE_CANCELED'] = "değiştirildi";
+$MESS ['P_ORDER_PERS_TYPE'] = "Ödeyen türü";
+$MESS ['P_ORDER_USER'] = "Sipariş parametreleri";
+$MESS ['P_ORDER_PAYMENT'] = "Ödeme ve teslimat";
+$MESS ['P_ORDER_PAY_SYSTEM'] = "Ödeme sistemi";
+$MESS ['P_ORDER_PAYED'] = "Ödendi";
+$MESS ['P_ORDER_DATE_PAYED'] = "ödendi";
+$MESS ['P_ORDER_DELIVERY'] = "Teslimat servisi";
+$MESS ['P_ORDER_COMMENTS'] = "Yorum";
+$MESS ['P_ORDER_USER_COMMENT'] = "Alıcı yorumları";
+$MESS ['P_ORDER_BASKET'] = "Sipariş içeriği";
+$MESS ['SALE_SAVE'] = "Kaydet";
+$MESS ['SALE_APPLY'] = "Uygula";
+$MESS ['SALE_RESET'] = "İptal";
+$MESS ['P_ORDER_ALLOW_DELIVERY'] = "Teslimat için izin verilmiştir";
+$MESS ['P_ORDER_DATE_ALLOW_DELIVERY'] = "izin verildi";
+$MESS ['SALE_ORDER_CODE'] = "Sipariş kodu";
+$MESS ['SALE_YES'] = "Evet";
+$MESS ['SALE_NO'] = "Hayır";
+$MESS ['SALE_CANCEL_ORDER'] = "İptal et";
+$MESS ['SALE_REPEAT_PAY'] = "Ödemeyi tekrarla";
+$MESS ['SALE_CONTENT_NAME'] = "Ad";
+$MESS ['SALE_CONTENT_QUANTITY'] = "Sayı";
+$MESS ['SALE_NO_ORDER_F'] = "Sipariş bulunamadı";
+?>

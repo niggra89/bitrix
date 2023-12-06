@@ -1,0 +1,30 @@
+<?
+$MESS["F_REPLY"] = "Respuesta";
+$MESS["F_AUTHOR_PROFILE"] = "Perfil del usuario";
+$MESS["F_NUM_MESS"] = "Mensajes:";
+$MESS["F_DATE_REGISTER"] = "Unido:";
+$MESS["F_QUOTE"] = "Citar";
+$MESS["F_EMAIL_TITLE"] = "Enviar mensaje de e-mail";
+$MESS["F_NO_VOTE_DO"] = "Voto";
+$MESS["F_NO_VOTE_UNDO"] = "Cancelar voto";
+$MESS["F_HIDE"] = "Ocultar";
+$MESS["F_SHOW"] = "Mostrar";
+$MESS["F_EDIT"] = "Modificar";
+$MESS["F_DELETE"] = "Borrar";
+$MESS["F_REAL_IP"] = "/ real";
+$MESS["F_PRIVATE_MESSAGE"] = "Mensaje";
+$MESS["F_EDIT_HEAD"] = "Editado:";
+$MESS["F_ATTACH_FILES"] = "Adjuntar archivos";
+$MESS["F_DELETE_TOPIC"] = "Borrar tema";
+$MESS["F_EDIT_TOPIC"] = "Modificar tema";
+$MESS["F_HIDE_TOPIC"] = "Ocultar tema";
+$MESS["F_POINTS"] = "Puntos:";
+$MESS["F_SHOW_TOPIC"] = "Mostrar tema";
+$MESS["F_ANCHOR"] = "Enlace para este mensaje";
+$MESS["F_INSERT_NAME"] = "Pegar nombre de usuario en la respuesta";
+$MESS["F_NAME"] = "Nombre";
+$MESS["F_USER_ID"] = "ID del invitado";
+$MESS["F_USER_ID_USER"] = "ID del usuario";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "Enviar mensaje privado";
+$MESS["F_QUOTE_HINT"] = "Para citar el formulario de respuesta del mensaje seleccione el texto y oprima aquí";
+?>

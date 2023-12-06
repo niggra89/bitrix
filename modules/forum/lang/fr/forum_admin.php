@@ -1,0 +1,35 @@
+<?
+$MESS ['EDIT'] = "Modifier ";
+$MESS ['FFAN_NO'] = "non";
+$MESS ['ACTIONS'] = "Actions";
+$MESS ['ACTIVE'] = "Actif";
+$MESS ['FFAN_ACTIVE'] = "Actif";
+$MESS ['ADD'] = "Ajouter un nouveau forum >>";
+$MESS ['FFAN_ALL'] = "Tout";
+$MESS ['FFAN_ADD_NEW_ALT'] = "Cliquer pour ajouter un nouveau forum";
+$MESS ['DELETE'] = "Supprimer";
+$MESS ['FORUM_DELETE'] = "Supprimer le forum";
+$MESS ['ERROR_DELETE_FORUM'] = "Erreur à la suppression d'un forum";
+$MESS ['ERROR_DELETE_FORUM1'] = "Erreur à la suppression d'un forum";
+$MESS ['FA_DELETE_ERROR'] = "Erreur à la suppression du forum. Il est possible que des données lui soient liées qui en empêchent la suppression.";
+$MESS ['FA_ERROR_UPDATE'] = "Erreur lors de la mise à jour du forum d'ID =";
+$MESS ['FFAN_GROUP_ID'] = "Groupe de forum";
+$MESS ['FA_SUCCESS_UPDATE1'] = "Forum d'ID =";
+$MESS ['FORUMS'] = "Forums";
+$MESS ['NAV'] = "Forums";
+$MESS ['FA_SUCCESS_UPDATE2'] = "est mis à jour avec succès";
+$MESS ['MODERATE'] = "Modérer";
+$MESS ['FORUM_MODERATE'] = "Modérer le forum";
+$MESS ['FORUM_EDIT'] = "Modifier les options du forum";
+$MESS ['NAME'] = "Nom";
+$MESS ['FA_NO_NAME'] = "Aucun nom spécifié pour le forum d'ID =";
+$MESS ['FFAN_ADD_NEW'] = "Nouveau forum";
+$MESS ['FA_DELETE_NO_PERMS'] = "Autorisations insuffisantes pour supprimer le forum";
+$MESS ['FA_NO_PERMS2UPDATE'] = "Autorisations insuffisantes pour modifier le forum d'ID = ";
+$MESS ['SAVE'] = "Enregistrer";
+$MESS ['FFAN_SITE_ID'] = "Site";
+$MESS ['LAND'] = "Site";
+$MESS ['SORT'] = "Tri.";
+$MESS ['DELETE_CONFIRM'] = "Le forum va être supprimé de manière irrévocable. Désirez-vous vraiment le supprimer&nbsp;?";
+$MESS ['FFAN_YES'] = "Oui";
+?>

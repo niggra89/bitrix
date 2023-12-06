@@ -1,0 +1,34 @@
+<?
+$MESS ['HELP_TITLE'] = "Помощ";
+$MESS ['HELP_HEADER'] = "Заглавие:";
+$MESS ['HELP_FILENAME'] = "Име на диска:";
+$MESS ['HELP_CREATE'] = "Създай";
+$MESS ['HELP_RESET'] = "Откажи";
+$MESS ['HELP_DELETE'] = "Премахни";
+$MESS ['HELP_CONFIRM_DELETE'] = "Вие уверени ли сте че искате да премахнете файла/каталога?";
+$MESS ['HELP_ACCESS_DENIED'] = "Достъпа е забранен";
+$MESS ['HELP_BACK'] = "Върни се";
+$MESS ['HELP_EXPAND_ALL'] = "Покажи всичко";
+$MESS ['HELP_COLLAPSE_ALL'] = "Прибери всичко";
+$MESS ['HELP_KERNEL'] = "Главен модул";
+$MESS ['HELP_HIDE'] = "Скрий";
+$MESS ['HELP_CLOSE'] = "Затвори";
+$MESS ['HELP_TREE'] = "Синхронизирай със списъка ";
+$MESS ['HELP_EDIT'] = "Редактирай";
+$MESS ['HELP_FILE_NOT_FOUND'] = "Файла за помощ не е намерен";
+$MESS ['HELP_CURRENT_FOLDER'] = "Текущ каталог:";
+$MESS ['HELP_IS_FOLDER'] = "Създаваме каталог:";
+$MESS ['HELP_FORGOT_FILENAME'] = "Вие сте забравили да поставите \"Име на диска\"";
+$MESS ['HELP_FILE_EXISTS'] = "Файл или каталог с това име вече съществува";
+$MESS ['HELP_FILE_SAVE_ERROR'] = "Грешка при съхранението на файла";
+$MESS ['HELP_CREATE_FOLDER_ERROR'] = "Грешка при създаване на каталога";
+$MESS ['HELP_FILE_NOT_EXIST'] = "Файла #FILE# не съществува";
+$MESS ['HELP_FOLDER_NOT_EXIST'] = "Каталог #FOLDER# не съществува";
+$MESS ['HELP_FOLDER_NOT_EMPTY'] = "Грешка при премахването на каталога #FOLDER# (каталога не е празен)";
+$MESS ['HELP_ERROR_DELETE_FOLDER'] = "Грешка при премахване на каталога #FOLDER#";
+$MESS ['HELP_DELETE_ERROR'] = "Грешка при премахването на файла";
+$MESS ['HELP_SEARCH'] = "Търсене";
+$MESS ['HELP_MOVE_UP'] = "Преместване на горе";
+$MESS ['HELP_MOVE_DOWN'] = "Преместване на долу";
+$MESS ['HELP_SORT'] = "Сортиране:";
+?>

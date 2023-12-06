@@ -1,0 +1,36 @@
+<?
+$MESS ['F_NEW_MESSAGE_ON_FORUM'] = "Forumdaki yeni mesaj";
+$MESS ['F_FORUM_ID'] = "Forum Kimliği";
+$MESS ['F_FORUM_NAME'] = "Forum Adı";
+$MESS ['F_TOPIC_ID'] = "Konu Kimliği";
+$MESS ['F_MESSAGE_ID'] = "Mesaj Kimliği";
+$MESS ['F_TOPIC_TITLE'] = "Mesajnin konusu";
+$MESS ['F_MESSAGE_TEXT'] = "Mesaj metni";
+$MESS ['F_MESSAGE_DATE'] = "Mesaj tarihi";
+$MESS ['F_MESSAGE_AUTHOR'] = "Mesajyi yazan";
+$MESS ['F_MAIL_RECIPIENT'] = "Mesaj alıcısı";
+$MESS ['F_MAIL_TAPPROVED'] = "Mesaj konusu gösteriliyor";
+$MESS ['F_MAIL_MAPPROVED'] = "Mesaj ana metni gösteriliyor";
+$MESS ['F_MAIL_PATH2FORUM'] = "Mesaj adresi";
+$MESS ['F_MAIL_FROM_EMAIL'] = "Mektubun Kimden bölümü için E-mail";
+$MESS ['F_PRIV'] = "Forum ziyaretçisine özel mesaj";
+$MESS ['F_PRIV_AUTHOR'] = "Mesajyi yazan";
+$MESS ['F_PRIV_AUTHOR_EMAIL'] = "Mesaj yazarının E-Mail adresi";
+$MESS ['F_PRIV_RECIPIENT_NAME'] = "Mesaj alıcısının adı";
+$MESS ['F_PRIV_RECIPIENT_EMAIL'] = "Mesaj alıcısının E-Mail adresi";
+$MESS ['F_PRIV_TITLE'] = "Mesajnin konusu";
+$MESS ['F_PRIV_TEXT'] = "Mesaj ana metni";
+$MESS ['F_PRIV_DATE'] = "Mesaj tarihi";
+$MESS ['F_PRIVATE'] = "Özel mesaj";
+$MESS ['F_PRIVATE_AUTHOR'] = "Mesaj yazarının adı";
+$MESS ['F_PRIVATE_AUTHOR_ID'] = "Mesaj yazarının ID'si";
+$MESS ['F_PRIVATE_AUTHOR_EMAIL'] = "Mesaj yazarının E-Mail adresi";
+$MESS ['F_PRIVATE_RECIPIENT_NAME'] = "Mesaj alıcısının adı";
+$MESS ['F_PRIVATE_RECIPIENT_ID'] = "Mesaj alıcısının ID'si";
+$MESS ['F_PRIVATE_RECIPIENT_EMAIL'] = "Mesaj alıcısının E-Mail adresi";
+$MESS ['F_PRIVATE_SUBJECT'] = "Mesajnin konusu";
+$MESS ['F_PRIVATE_MESSAGE'] = "Mesaj metni";
+$MESS ['F_PRIVATE_MESSAGE_DATE'] = "Mesaj tarihi";
+$MESS ['F_PRIVATE_MESSAGE_LINK'] = "Mesaj bağlantısı";
+$MESS ['F_EDITM'] = "Forumda mesaj değişikliği";
+?>

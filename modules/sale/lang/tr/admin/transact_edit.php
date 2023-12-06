@@ -1,0 +1,29 @@
+<?
+$MESS ['STE_EMPTY_USER'] = "Kullanıcı alanı doldurulmamıştır";
+$MESS ['STE_EMPTY_CURRENCY'] = "Döviz alanı doldurulmamıştır";
+$MESS ['STE_EMPTY_SUM'] = "Miktar alanı doldurulmamıştır";
+$MESS ['STE_EMPTY_DATE'] = "Hareket tarihi alanı doldurulmamıştır";
+$MESS ['STE_ERROR_SAVE_ACCOUNT'] = "Hesap kaydında hata";
+$MESS ['STE_TITLE'] = "Yeni hareket";
+$MESS ['STE_TO_LIST'] = "Hareket listesi";
+$MESS ['STE_USER'] = "Kullanıcı:";
+$MESS ['STE_DATE'] = "Hareket tarihi (";
+$MESS ['STE_SUM'] = "Miktar:";
+$MESS ['STE_CURRENCY'] = "Döviz:";
+$MESS ['STE_TYPE'] = "Kayıt türü:";
+$MESS ['STE_DEBET'] = "Kullanıcı hesabına tutarın geçirilmesi";
+$MESS ['STE_KREDIT'] = "Kullanıcı hesabından tutarın alınması";
+$MESS ['STE_ORDER_ID'] = "Sipariş numarası (eğer hareket sipariş ile ilgili ise):";
+$MESS ['STE_DESCR'] = "Tanımı:";
+$MESS ['STE_NOTES'] = "Notlar:";
+$MESS ['STE_SAVE'] = "Kaydet";
+$MESS ['STE_APPLY'] = "Uygula";
+$MESS ['STE_CANCEL'] = "Sıfırla";
+$MESS ['STE_USER_PROFILE'] = "Kullanıcı profili";
+$MESS ['STEN_2FLIST'] = "Hareket listesi";
+$MESS ['STEN_2FLIST_TITLE'] = "Hareket listesini görüntüle";
+$MESS ['STEN_TAB_TRANSACT'] = "Hareket";
+$MESS ['STEN_TAB_TRANSACT_DESCR'] = "Hareket";
+$MESS ['STE_CANCEL1'] = "İptal et";
+$MESS ['STE_ERROR'] = "Kayıt hata!";
+?>

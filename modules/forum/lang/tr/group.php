@@ -1,0 +1,29 @@
+<?
+$MESS ['GROUP_TITLE'] = "Forum grupları";
+$MESS ['ERROR_DELETE'] = "Grupları silme hatası";
+$MESS ['GROUP_DEL_CONF'] = "Bu grubu silmek istediğinizden emin misiniz? Şayet bu grupta forumlar bulunuyorsa, grup silinmeyecektir.";
+$MESS ['GROUP_NAV'] = "Gruplar";
+$MESS ['GROUP_ID'] = "Kod";
+$MESS ['GROUP_SORT'] = "Sıralama";
+$MESS ['GROUP_UPD'] = "Kaydet";
+$MESS ['GROUP_RESET'] = "İptal";
+$MESS ['GROUP_F_DESCR'] = "Tanım:";
+$MESS ['GROUP_F_NAME'] = "Adı:";
+$MESS ['ERROR_ADD_REC'] = "Grup ekleme hatası ";
+$MESS ['ERROR_UPDATE_REC'] = "Grup yenileme hatası";
+$MESS ['GROUP_DEL'] = "Sil";
+$MESS ['ERROR_DEL_GROUP'] = "Grupları silme hatası.";
+$MESS ['FORUM_ADD_GROUP'] = "Grup ekle";
+$MESS ['FORUM_NAME'] = "Adı";
+$MESS ['FORUM_ACTIONS'] = "İşlem";
+$MESS ['FORUM_EDIT_DESCR'] = "Grup parametrelerini değiştir";
+$MESS ['FORUM_EDIT'] = "Değiştir";
+$MESS ['FORUM_DELETE_DESCR'] = "Grubu sil";
+$MESS ['FG_SUCCESS_DEL'] = "Forum grubu başarıyla silindi";
+$MESS ['ERROR_EMPTY_NAME1'] = "Grup adını belirtin ";
+$MESS ['ERROR_EMPTY_NAME2'] = "dil için ";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "dil için yeni grubun adını belirleyin ";
+$MESS ['ERROR_ADD_NEW_REC'] = "Yeni grup ekleme hatası";
+$MESS ['FGAN_ADD_NEW'] = "Yeni forum grubu";
+$MESS ['FGAN_ADD_NEW_ALT'] = "Yeni forum grubu eklemek için tıklayın";
+?>

@@ -1,0 +1,33 @@
+<?
+$MESS ['SALE_DELETE_ERROR'] = "Erreur en effaçant le système de paiement. Quelques ordres ont été probablement placés en utilisant ce système de paiement.<br>";
+$MESS ['SALE_SECTION_TITLE'] = "Systèmes de paiement";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_LANG'] = "Site";
+$MESS ['SALE_ALL'] = "tous";
+$MESS ['SALE_F_CURRENCY'] = "Devise";
+$MESS ['SALE_F_ACTIVE'] = "Actif";
+$MESS ['SALE_F_SUBMIT'] = "Filtre Mis";
+$MESS ['SALE_F_DEL'] = "Enlevez le Filtre";
+$MESS ['SALE_ADD'] = "Ajouter";
+$MESS ['SALE_NAME'] = "Nom";
+$MESS ['SALE_LID'] = "Site";
+$MESS ['SALE_H_CURRENCY'] = "Devise";
+$MESS ['SALE_ACTIVE'] = "Actif";
+$MESS ['SALE_SORT'] = "Sorte.";
+$MESS ['SALE_ACTION'] = "Actions";
+$MESS ['SALE_EDIT'] = "Modifier";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Êtes-vous sûrs que vous voulez effacer le système de paiement ? Les systèmes de paiement avec les ordres actifs ne peuvent pas être effacés.";
+$MESS ['SALE_DELETE'] = "Effacer";
+$MESS ['SALE_PRLIST'] = "Systèmes de paiement";
+$MESS ['SALE_YES'] = "Oui";
+$MESS ['SALE_NO'] = "Non";
+$MESS ['SALE_EDIT_DESCR'] = "Modifiez des cadres de système de paiement";
+$MESS ['SALE_DELETE_DESCR'] = "Effacez le système de paiement";
+$MESS ['SPS_ADD_NEW'] = "Ajouter &gt;&gt;";
+$MESS ['SPS_YES'] = "Oui";
+$MESS ['SPS_NO'] = "Non";
+$MESS ['SPSAN_ERROR_DELETE'] = "Erreur en effaçant le record";
+$MESS ['SPSAN_ERROR_UPDATE'] = "Erreur modifiant le record";
+$MESS ['SPSAN_ADD_NEW'] = "Nouveau système de paiement";
+$MESS ['SPSAN_ADD_NEW_ALT'] = "Faites un déclic pour ajouter un nouveau système de paiement";
+?>

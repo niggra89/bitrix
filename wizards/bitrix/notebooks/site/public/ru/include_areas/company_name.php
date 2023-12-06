@@ -1,0 +1,1 @@
+<img src="#COMPANY_LOGO#" border="0" title="#COMPANY_NAME#" alt="#COMPANY_NAME#"  /><font color="#ffffff"> </font><font size="5" color="#ffffff">#COMPANY_NAME#.</font><font size="5" color="#000000">РУ</font>

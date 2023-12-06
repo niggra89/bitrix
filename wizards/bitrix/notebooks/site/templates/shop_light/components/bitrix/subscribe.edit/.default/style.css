@@ -1,0 +1,20 @@
+div.subscribe-edit .red {
+	color:red;
+}
+div.subscribe-edit .green {
+	color:green;
+}
+div.subscribe-edit .errorcolor {
+	color:red;
+}
+div.subscribe-edit .successcolor {
+	color:green;
+}
+.auth
+{
+	border-bottom:1px solid #E0E0E0;padding-bottom:20px;
+}
+.starrequired
+{
+	color:red;
+}

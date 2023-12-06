@@ -1,0 +1,30 @@
+<?
+$MESS ['STATUS_TITLE'] = "Sipariş ddurumları";
+$MESS ['ERROR_DELETE'] = "Durumun silme hata";
+$MESS ['STATUS_DEL_CONF'] = "Bu durumu silmek istediğinizden eminmisiniz? Bu durum ile siparişlerin olması durumunda, durum silinmeyecektir.";
+$MESS ['STATUS_NAV'] = "Durumlar";
+$MESS ['STATUS_ID'] = "Kod";
+$MESS ['STATUS_SORT'] = "Sıralama";
+$MESS ['STATUS_UPD'] = "Kaydet";
+$MESS ['STATUS_RESET'] = "İptal";
+$MESS ['STATUS_F_DESCR'] = "Tanımı:";
+$MESS ['STATUS_F_NAME'] = "Adı:";
+$MESS ['ERROR_ADD_REC'] = "Durumun eklenmesinde hata";
+$MESS ['ERROR_EMPTY_NAME1'] = "Durum adını ayarla";
+$MESS ['ERROR_EMPTY_NAME2'] = "dil için ";
+$MESS ['ERROR_UPDATE_REC'] = "Durum güncelleme hata";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "Dil için yendi durum adını ayarlayınız";
+$MESS ['ERROR_ADD_NEW_REC'] = "Yeni durum eklenmesinde hata";
+$MESS ['STATUS_DEL'] = "Sil";
+$MESS ['ERROR_DEL_STATUS'] = "Durum silme hata.";
+$MESS ['SALE_ADD_STATUS'] = "Ekle";
+$MESS ['SALE_NAME'] = "Ad";
+$MESS ['SALE_ACTIONS'] = "Etkinlikler";
+$MESS ['SALE_EDIT_DESCR'] = "Durum parametrelerini değiştir";
+$MESS ['SALE_EDIT'] = "Değiştir";
+$MESS ['SALE_DELETE_DESCR'] = "Durumu sil";
+$MESS ['SALE_NOTES1'] = "<b>N</b> - oluşturma esnasında ayarlanabilen siparişin başlangıç durumu. Bu durum silinemez.";
+$MESS ['SALE_NOTES2'] = "<b>F</b> - siparişin uygulanmış sayıldığı nihai durum. Bu durum sislinemez.";
+$MESS ['SSAN_ADD_NEW'] = "Yeni durum";
+$MESS ['SSAN_ADD_NEW_ALT'] = "Yeni durumun eklenmesi için tıklatınız";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_SECTION_TITLE'] = "Konumlar";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['SALE_F_COUNTRY'] = "Ülke";
+$MESS ['SALE_ALL'] = "(tümü)";
+$MESS ['SALE_F_CITY'] = "Şehir";
+$MESS ['SALE_F_SUBMIT'] = "Ayarla";
+$MESS ['SALE_F_DEL'] = "Sıfırla";
+$MESS ['SALE_ADD'] = "Ekle";
+$MESS ['SALE_COUNTRY'] = "Ülke";
+$MESS ['SALE_CITY'] = "Şehir";
+$MESS ['SALE_SORT'] = "Sıralama";
+$MESS ['SALE_ACTION'] = "Etkinlikler";
+$MESS ['SALE_EDIT'] = "Değiştir";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "Bu konumu silmek istediğinizden eminmisiniz?";
+$MESS ['SALE_DELETE'] = "Sil";
+$MESS ['SALE_PRLIST'] = "Konumlar";
+$MESS ['ERROR_DELETING'] = "Silme hata.";
+$MESS ['SALE_EDIT_DESCR'] = "Konum parametrelerini değiştir";
+$MESS ['SALE_DELETE_DESCR'] = "Konumu sil";
+$MESS ['NO_LOC_FILE'] = "Konum dosyası yüklenmedi";
+$MESS ['ERROR_LOC_FORMAT'] = "Konum dosyasının biçimi yanlış: ana dil belirtilmedi";
+$MESS ['NO_MAIN_LANG'] = "Ana dil sitesinde yüklü değildir";
+$MESS ['OMLOADED1'] = "Yüklü";
+$MESS ['OMLOADED2'] = "ülkeler";
+$MESS ['OMLOADED3'] = "şehirler";
+$MESS ['OMLOADED4'] = "Oluşturulan konum";
+$MESS ['LOCA_LOADING'] = "Konum yüklenmesi";
+$MESS ['LOCA_FILE'] = "Dosya";
+$MESS ['LOCA_DEL_OLD'] = "Yüklemeden önce konumları sil";
+$MESS ['LOCA_DO_LOAD'] = "Yükle";
+$MESS ['LA_NOTES'] = "<a href=\"http://www.bitrixsoft.ru\" target=\"_blank\">http://www.bitrixsoft.ru</a> siteden konum dosyalarını yükleyebilirsiniz.";
+$MESS ['SLAN_ADD_NEW'] = "Konum ekle";
+$MESS ['SLAN_ADD_NEW_ALT'] = "Konumun eklenmesi için tıklatınız";
+?>

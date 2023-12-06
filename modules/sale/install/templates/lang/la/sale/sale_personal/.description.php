@@ -1,0 +1,30 @@
+<?
+$MESS ['STPD_PER_FOLDER'] = "Sección personal";
+$MESS ['STPD_ACCOUNT'] = "Cuenta del usuario actual ";
+$MESS ['STPD_CCARDS'] = "Tarjeta de crédito del usuario actual ";
+$MESS ['STPD_CCARDS_DET'] = "Pagina de edición de Tarjeta de Crédito";
+$MESS ['STPD_CCARDS_DET_PAGE'] = "Editar tarjeta de crédito del usuario actual ";
+$MESS ['STPD_CCARDS_LIST'] = "Tarjetas de crédito del usuario actual ";
+$MESS ['STPD_ORDER_LIST'] = "Órdenes del usuario actual";
+$MESS ['STPD_ORDER_DET_PAGE'] = "Página de detalles de la orden";
+$MESS ['STPD_ORDER_REP_PAGE'] = "Página de repetición de la orden (generalemnte igual a la página de lista de órdenes)";
+$MESS ['STPD_ORDER_CANC_PAGE'] = "Página de cancelación de órdenes";
+$MESS ['STPD_ORDER_BASK_PAGE'] = "Página del carrito de compras";
+$MESS ['STPD_ORDER_DET'] = "Detalles de la orden";
+$MESS ['STPD_ORDER_DET_DESCR'] = "Detalles de la orden del usuario actual";
+$MESS ['STPD_ORDER_LIST_PAGE'] = "Pagina con las órdenes del usuario actual";
+$MESS ['STPD_ORDER_PAY_PAGE'] = "Página de pago de orden";
+$MESS ['STPD_CANSEL'] = "Canncelación de orden";
+$MESS ['STPD_CANCEL_DESCR'] = "Cancelación de la orden del usuario actual  ";
+$MESS ['STPD_ORDER_TABLE'] = "Ördenes del usuario actual";
+$MESS ['STPD_PROFILE_LIST'] = "Perfiles del usuario actual";
+$MESS ['STPD_PROFILE_DET_PAGE'] = "Página de edición del perfil";
+$MESS ['STPD_PROFILE_DET'] = "Parámetros del perfil";
+$MESS ['STPD_PROFILE_DET1'] = "Editar perfil del usuario actual";
+$MESS ['STPD_PROFILE_LIST_PAGE'] = "Página con el perfil del usuario actual";
+$MESS ['STPD_SUBSCR_LIST'] = "Página con las suscripciones del usario actual";
+$MESS ['STPD_SUBSCR_CANCEL'] = "Página de cancelación de la suscripción";
+$MESS ['STPD_CANCEL'] = "Cancelar suscripción";
+$MESS ['STPD_CANCEL_DESCR1'] = "Cancelar la suscripción del usuario actual ";
+$MESS ['STPD_CANCEL_LIST_PAGE'] = "Página con las suscripciones del usuario actual";
+?>

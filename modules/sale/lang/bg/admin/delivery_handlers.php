@@ -1,0 +1,32 @@
+<?
+$MESS ['SALE_DH_TITLE'] = "Автоматизирани служби за доставка";
+$MESS ['SALE_EDIT_DESCR'] = "Редактирай параметрите на службата за доставка";
+$MESS ['SALE_DH_NAV_TITLE'] = "Служби за доставка";
+$MESS ['SALE_DH_TABLE_ACTIVE'] = "Акт.";
+$MESS ['SALE_DH_TABLE_ISCONFIG'] = "Инсталирани";
+$MESS ['SALE_DH_TABLE_NAME'] = "Име";
+$MESS ['SALE_DH_TABLE_PATH'] = "Хандлер";
+$MESS ['SALE_DH_EDIT_DESCR'] = "Редактиране";
+$MESS ['SALE_DH_INSTALL_DESCR'] = "Инсталиране";
+$MESS ['SALE_DH_DELETE_DESCR'] = "Изтриване на настройките";
+$MESS ['SALE_DH_RESET_DESCR'] = "изтриване на настройките";
+$MESS ['SALE_DH_ACTIVATE_DESCR'] = "активиране";
+$MESS ['SALE_DH_DEACTIVATE_DESCR'] = "деактивиране";
+$MESS ['SALE_DH_TABLE_SORT'] = "Сорт";
+$MESS ['SALE_DH_CONFIRM_UNINSTALL'] = "Сигурни ли сте, че искате да деинсталирате хандлера от службата за доставка? \\nВсички негови настройки ще бъдат премахнати.";
+$MESS ['SALE_DH_HINT_ADD'] = "За добавяне на собствен скрипт за доставката, използвайте директорията";
+$MESS ['SALE_DH_ORDINARY'] = "Конфигурируеми  служби за доставка";
+$MESS ['SALE_DH_ORDINARY_ALT'] = "Редактиране на конфигурируемите  служби за доставка";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS'] = "Адрес на магазина";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ERROR'] = "Не е посочен!";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ZIP'] = "Пощенски индекс на магазина";
+$MESS ['SALE_DH_HINT_SHOP_ADDRESS_ZIP_ERROR'] = "Не е посочен!";
+$MESS ['SALE_DH_SHOP_ADDRESS_CHANGE'] = "промени";
+$MESS ['SALE_DH_LOCATIONS_STATS'] = "Статистика на базата за местоположенията";
+$MESS ['SALE_DH_LOCATIONS_COUNTRY_STATS'] = "страни";
+$MESS ['SALE_DH_LOCATIONS_CITY_STATS'] = "градове";
+$MESS ['SALE_DH_LOCATIONS_LOC_STATS'] = "общо местоположения";
+$MESS ['SALE_DH_LOCATIONS_GROUP_STATS'] = "групи местоположения";
+$MESS ['SALE_DH_LOCATIONS_LINK'] = "редактиране на местоположенията";
+$MESS ['SALE_DH_LOCATIONS_IMPORT_LINK'] = "внос на местоположения";
+?>

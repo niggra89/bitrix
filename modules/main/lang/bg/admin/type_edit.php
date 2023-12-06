@@ -1,0 +1,31 @@
+<?
+$MESS ['EDIT_TITLE'] = "Редактиране на събитие #TYPE#";
+$MESS ['NEW_TITLE'] = "Добавяне на ново събитие";
+$MESS ['EVENT_NAME'] = "Тип на пощенското събитие";
+$MESS ['LANG_PARAMS'] = "Езиково зависими параметри";
+$MESS ['EVENT_NAME_TITLE'] = "Тип на събитието";
+$MESS ['EVENT_NAME_DESCR'] = "Тип на пощенското събитие";
+$MESS ['TEMPLATES_TITLE'] = "Шаблони";
+$MESS ['TEMPLATES_DESCR'] = "Пощенски шаблони";
+$MESS ['EVENT_NAME_LANG'] = "Име";
+$MESS ['EVENT_SORT_LANG'] = "Сортиране";
+$MESS ['EVENT_DESCR_LANG'] = "Описание";
+$MESS ['RECORD_LIST'] = "Списък на типове";
+$MESS ['RECORD_LIST_TITLE'] = "Преминете в списъка с пощенските събития";
+$MESS ['MAIN_NEW_RECORD'] = "Добави тип";
+$MESS ['MAIN_NEW_RECORD_TITLE'] = "Добави нов тип пощенско събитие";
+$MESS ['MAIN_DELETE_RECORD'] = "Премахни типа";
+$MESS ['MAIN_DELETE_RECORD_TITLE'] = "Премахни типа заедно с шаблона";
+$MESS ['MAIN_DELETE_RECORD_CONF'] = "Сигурни ли сте, че искате да изтриете текущия тип, включително и шаблона?";
+$MESS ['MAIN_NEW_TEMPLATE'] = "Добави шаблон";
+$MESS ['MAIN_NEW_TEMPLATE_TITLE'] = "Добавете нов шаблон за този тип събитие";
+$MESS ['TEMPLATE_LIST'] = "Списък на шаблоните";
+$MESS ['TEMPLATE_LIST_TITLE'] = "Премини в списъка за шаблоните";
+$MESS ['LANGUAGE_PARAMS'] = "Езиково зависими  параметри";
+$MESS ['SAVE'] = "Запиши промените";
+$MESS ['ADD'] = "Добави пощенски шаблон";
+$MESS ['RESET'] = "Отмени";
+$MESS ['MAIN_ERROR_SAVING'] = "Грешка при запазването";
+$MESS ['ERROR_LANG_EMPTY'] = "Не е посочен нито един езиков параметър";
+$MESS ['LANG_FIELDS'] = "Трябва да се попълни поне едно езиково поле ";
+?>

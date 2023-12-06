@@ -1,0 +1,114 @@
+.catalog_section .item
+{
+	margin:0 0 15px 0; 
+}
+.catalog_section .item .element_item
+{
+	width:375px;
+	float:left;
+	margin-bottom:45px;
+	display:inline-block;
+}
+.catalog_section .item h3
+{
+	margin:0 0 5px 0;
+}
+.catalog_section .item .section_description
+{
+	color:#999999;margin:0 0 20px 0;
+}
+.catalog_section .item .element_item .preview_picture
+{
+	float:left;margin-right:10px;width:170px;
+	overflow:hidden;
+}
+.catalog_section .item .element_item .elem
+{
+	float:left;width:195px;
+	overflow:hidden;
+}
+.catalog_section .item .element_item .elem .property
+{
+	float:left;width:100%;
+	margin:10px 0 15px;
+	color:#777777;
+	font-size:10px;
+    line-height: 1.35;
+	
+}
+.catalog_section .item .element_item .elem .catalog-price
+{
+	color: #212121;
+    float: left;
+    font-size: 18px;
+    width: auto;
+	margin:0 0 0px 0;
+
+}
+.catalog_section .item .element_item .elem .buttons
+{
+	margin-top:10px;
+	clear:both;
+}
+.catalog_section .item .element_item .elem .buttons img
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+}
+.catalog_section .item .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_section .item .buttons input.add
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+	cursor:pointer;
+}
+.catalog_section .item  .buttons .buy_nonactive
+{
+	background:url('images/nonactive_buy.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.catalog_section .item .buttons input.buy
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+}
+.price_line
+{
+	margin-bottom:7px;
+}
+.price_line span
+{
+	float:left;font-size:11px;width:100%;
+}
+.elem_descr
+{
+	float:left;width:100%;
+}
+.price_m
+{
+	float:left;
+	width:100%;
+}
+.catalog_section .line_item2
+{
+	float:none;display:inline-block;
+}
+.compare
+{
+	float:left;
+	margin-top:5px;
+	font-size:11px;
+	color: #777777;
+}

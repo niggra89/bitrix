@@ -1,0 +1,33 @@
+<?
+$MESS["comp_prop_close"] = "Затвори прозореца";
+$MESS["comp_prop_err_param"] = "Неверни входни параметри.";
+$MESS["comp_prop_err_file"] = "Недостатъчни права за достъп към скрипта, съдържащ обаждане на компонента.";
+$MESS["comp_prop_err_open"] = "Невъзможно е да се отвори скрипта, съдържащ обаждане на компонента.";
+$MESS["comp_prop_err_save"] = "Грешка при съхраняването файла на скрипта. Измененията не са съхранени.";
+$MESS["comp_prop_name"] = "Име";
+$MESS["comp_prop_desc"] = "Описание";
+$MESS["comp_prop_path"] = "Път, от където  е включен компонента";
+$MESS["comp_prop_save"] = "Запиши";
+$MESS["comp_prop_save_title"] = " Запиши параметрите на компонента";
+$MESS["comp_prop_cancel"] = "Отмени";
+$MESS["comp_prop_cancel_title"] = "Затвори прозореца без  запазване на измененията";
+$MESS["comp_prop_close_w"] = "Затвори";
+$MESS["comp_prop_err_comp"] = "Не може да се намери кода за обаждането на компонента.";
+$MESS["comp_prop_template"] = "Шаблон";
+$MESS["comp_prop_template_sys"] = "Системен";
+$MESS["comp_templ_template"] = "Шаблон на компонента";
+$MESS["comp_templ_error_copy"] = "Грешка при копирането на шаблона";
+$MESS["comp_templ_cur_site_template"] = "Използва се в шаблона на сайта";
+$MESS["comp_templ_system"] = "системен шаблон";
+$MESS["comp_templ_cur_template"] = "Текущ шаблон на компонента";
+$MESS["comp_templ_new_template"] = "Копиране в шаблона на сайта";
+$MESS["comp_templ_new_tpl"] = "Името на новият шаблон за компонента";
+$MESS["comp_templ_use"] = "Постави нов шаблон за компонента";
+$MESS["comp_templ_edit"] = "Премини към редактиране на шаблона";
+$MESS["template_copy_title"] = "Копиране шаблона на компонента";
+$MESS["template_copy_def"] = "подразбиране";
+$MESS["template_copy_cur"] = "текущ";
+$MESS["template_copy_sel"] = "друг:";
+$MESS["copy_comp_sys_templ"] = "Системният шаблон на компонента преди да се редактира, е необходимо да се копира в шаблона на сайта.";
+$MESS["comp_templ_def_templ"] = "Общ шаблон";
+?>

@@ -1,0 +1,131 @@
+.catalog_element
+{
+	font-size:12px;
+	padding:0 0 20px 35px !important;
+	float:left;
+	width:760px;
+}
+.catalog_element .name h1 {
+	color:#232323;
+	font-size:18px;
+	margin-bottom:5px;
+}
+.catalog_element .detail_picture{
+	float:left;
+	width:300px;
+	overflow:hidden;
+	margin:0 20px 0px 0;
+	text-align: center;
+}
+.catalog_element  .description{
+	float:left;
+	width:215px;
+	overflow:hidden;
+}
+.catalog_element  .description .preview_text{
+	color:#454545;
+	font-size:13px;
+}
+.catalog_element  .buttons
+{
+	margin:15px 0 0 0;
+}
+.catalog_element  .buttons input
+{
+	float:left;margin: 0 5px 0 0;
+	*float:none;*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_element .buttons .add,.catalog_element  .buttons .buy
+{
+	font-size:16px;
+}
+.catalog_element .buttons input.add,.catalog_element  .buttons input.buy
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+	cursor:pointer;
+}
+.catalog_element .buttons .buy_nonactive
+{
+	background:url('images/nonactive_buy.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.catalog_element .catalog-price {
+    float: left;
+    font-size: 30px;
+    width: auto;
+	margin:0 0 10px 0;
+}
+.catalog_element .vote {
+	
+	margin:0px 0 7px 0;
+}
+.catalog_element .vote span {
+	float:left;
+	margin-top:3px;
+}
+
+.catalog_element .more_photo {
+	width:70px;
+	float:left;
+	margin:0px 0 0 25px;
+}
+.catalog_element .more_photo  a.preview{
+	border:1px solid #e0e0e0;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	text-decoration:none;
+	float:left;
+	margin:0 0 2px 0;
+	width:70px;height:70px;
+	text-align:center;
+}
+.catalog_element .more_photo  a.preview:hover{
+	border-width:1px;
+	border-style:solid;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.catalog_element .more_photo  a.preview img{
+	margin:4px;
+}
+/*------------------------------------------------------------------------------------------*/
+div.star-active
+{
+	cursor: pointer;
+}
+
+div.star-empty
+{
+	background: url('images/empty.png') no-repeat 0px 0px transparent;
+	width:16px;
+	height:15px;
+	overflow:hidden;
+	margin: 0 1px;
+}
+
+div.star-voted
+{
+	background: url('images/voted.png') no-repeat 0px 0px transparent;
+	width:16px;
+	height:15px;
+	overflow:hidden;
+	margin: 0 1px;
+}
+
+div.star-over
+{
+	background: url('images/voted.png') no-repeat 0px 0px transparent;
+	width:16px;
+	height:11px;
+	overflow:hidden;
+	margin: 0 1px;
+}

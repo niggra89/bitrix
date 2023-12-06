@@ -1,0 +1,35 @@
+<?
+$MESS ['SMILE_TITLE'] = "Forum yüz ifadeleri";
+$MESS ['ERROR_DELETE'] = "Yüz ifadesi silme hatası";
+$MESS ['SMILE_DEL_CONF'] = "Yüz ifadesini silmek istediğinizden emin misiniz?";
+$MESS ['SMILE_NAV'] = "Yüz ifadeleri";
+$MESS ['SMILE_ID'] = "Kod";
+$MESS ['SMILE_SORT'] = "Sıralama";
+$MESS ['SMILE_TYPE'] = "Tip";
+$MESS ['FORUM_TYPING'] = "Ad";
+$MESS ['FORUM_SMILE_ICON'] = "Resim";
+$MESS ['FORUM_IMAGE_FILE'] = "Dosya";
+$MESS ['SMILE_TYPE_ICON'] = "Sembol";
+$MESS ['SMILE_TYPE_SMILE'] = "Yüz ifadesi";
+$MESS ['SMILE_UPD'] = "Kaydet";
+$MESS ['SMILE_RESET'] = "İptal";
+$MESS ['SMILE_F_DESCR'] = "Tanım:";
+$MESS ['SMILE_F_NAME'] = "Adı:";
+$MESS ['ERROR_ADD_REC'] = "Yüz ifadesi ekleme hatası ";
+$MESS ['SMILE_DEL'] = "Sil";
+$MESS ['ERROR_DEL_SMILE'] = "Yüz ifadesi silme hatası.";
+$MESS ['FORUM_ADD_SMILE'] = "Yüz ifadesi ekle";
+$MESS ['FORUM_NAME'] = "Adı";
+$MESS ['FORUM_ACTIONS'] = "İşlem";
+$MESS ['FORUM_EDIT_DESCR'] = "Yüz ifadesi parametresini değiştir";
+$MESS ['FORUM_EDIT'] = "Değiştir";
+$MESS ['FORUM_DELETE_DESCR'] = "Yüz ifadesini sil";
+$MESS ['FS_SUCCESS_DEL'] = "Yüz ifadesi başarıyla silindi";
+$MESS ['ERROR_EMPTY_NAME1'] = "Yüz ifadesinin adını belirleyin ";
+$MESS ['ERROR_EMPTY_NAME2'] = "dil için ";
+$MESS ['ERROR_UPDATE_REC'] = "Yüz ifadesi yenileme hatası";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "dil için yeni yüz ifadesi adını belirleyin ";
+$MESS ['ERROR_ADD_NEW_REC'] = "Yeni yüz ifadesi ekleme hatası";
+$MESS ['FSAN_ADD_NEW'] = "Yeni yüz ifadesi";
+$MESS ['FSAN_ADD_NEW_ALT'] = "Yeni yüz ifadesi eklemek için tıklayın";
+?>

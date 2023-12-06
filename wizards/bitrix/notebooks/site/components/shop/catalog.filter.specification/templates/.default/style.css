@@ -1,0 +1,122 @@
+form.filter .prop_value
+{
+	margin:0 5px 0 0;
+	display:inline-block;
+	text-decoration:none;
+	/*
+	float:left;
+	*/
+}
+form.filter .filter_variants .prop_value
+{
+*float:none;	display:block;
+}
+form.filter .prop_values .prop_value
+{
+	width:100%;
+}
+form.filter #selected_props .prop_value,
+form.filter #selected_props .selected_prop_value
+{
+	/*
+	background:url('images/close.png') no-repeat right 1px transparent;
+	*/
+	padding:0 0px 0 0;
+	text-decoration:none;
+	display:inline-block;
+}
+form.filter  p
+{
+	margin:5px 0;
+}
+form.filter  .products_count
+{
+	display:none;
+	margin:10px 0 10px 0;
+}
+form.filter  .filter_result
+{
+	display:none;
+}
+form.filter  .prop_name
+{
+	float:left;width:100%;
+	font-size:12px;
+	margin:15px 0 10px 0;
+	padding:0;
+}
+form.filter  .prop_values
+{
+	background: none repeat scroll 0 0 #F2F2F2;
+    border: 1px solid #E2E2E2;
+    float: left;
+    padding: 10px 0 10px 10px;
+    width: 166px;*width:178px;
+}
+form.filter  #selected_props span
+{
+	/*
+	float:left;
+	*/	
+	margin-right:2px;
+}
+form.filter  #selected_props
+{
+	float:left;margin-bottom: 20px;
+}
+form.filter .clear_all
+{
+	float:left;width:111px;height:24px;
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	margin:10px 0 10px 0;
+}
+a.show
+{
+	float:left;width:111px;height:24px;
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	margin:5px 0 5px 0;
+	text-decoration:none;
+}
+.priceInterval a
+{
+	/*
+	background: url("images/close.png") no-repeat scroll 100% 1px transparent;
+    */
+	padding: 0 0px 0 0;
+    text-decoration: none;
+	display:inline-block;
+}
+.closeFilter_button
+{
+	background: url("images/close.png") no-repeat scroll 100% 0px transparent;
+	height:14px;width:17px;
+	display:inline-block;margin-bottom: -3px;*margin-bottom: 0px;*display:inline;
+	margin-top:2px;
+	overflow:hidden;
+}
+p.prop_name span.arrow
+{
+	padding: 0 15px 0 0;
+	background-position:right center;
+	background-repeat:no-repeat;
+}
+#selected_prices
+{
+	background: none repeat scroll 0 0 #F2F2F2;
+    float: left;
+    padding: 8px;
+	border: 1px solid #E2E2E2;
+	 width: 160px;*width:180px;
+}
+#selected_prices input
+{
+    border-color: #777777 #CCCCCC #CCCCCC;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px 3px;
+    width: 50px;
+}

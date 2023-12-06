@@ -1,0 +1,35 @@
+<?
+$MESS ['ERROR_DELETE_FORUM1'] = "Error al eliminar foro";
+$MESS ['ERROR_DELETE_FORUM'] = "Error al eliminar foro";
+$MESS ['FORUMS'] = "Foros";
+$MESS ['NAV'] = "Foros";
+$MESS ['ADD'] = "Agregar nuevo foro >>";
+$MESS ['ACTIVE'] = "Activo";
+$MESS ['LAND'] = "Sitio";
+$MESS ['SORT'] = "Clasi.";
+$MESS ['NAME'] = "Nombre";
+$MESS ['ACTIONS'] = "Acciones";
+$MESS ['FORUM_MODERATE'] = "Foro moderado";
+$MESS ['MODERATE'] = "Moderado";
+$MESS ['FORUM_EDIT'] = "Modificar configuración de foro";
+$MESS ['EDIT'] = "Modificar";
+$MESS ['FORUM_DELETE'] = "Eliminar foro";
+$MESS ['DELETE_CONFIRM'] = "El foro será eliminado irrevocablemente. ¿ESta seguro que desea eliminarlo?";
+$MESS ['DELETE'] = "Eliminar";
+$MESS ['SAVE'] = "Guardar";
+$MESS ['FA_NO_NAME'] = "El nombre no se ha definido para el for con el ID =";
+$MESS ['FA_NO_PERMS2UPDATE'] = "No cuenta con permisos suficientes para modificar el foro con el ID =";
+$MESS ['FA_ERROR_UPDATE'] = "Error ala ctualizzar el foro con el ID =";
+$MESS ['FA_SUCCESS_UPDATE1'] = "Foro con ID =";
+$MESS ['FA_SUCCESS_UPDATE2'] = "se actualizó con éxito";
+$MESS ['FA_DELETE_NO_PERMS'] = "No cuenta conpermisos para eliminar el foro";
+$MESS ['FA_DELETE_ERROR'] = "Error al eliminar el foro. Razón posible: los datos linkeados evittan la eliminación del foro.";
+$MESS ['FFAN_ADD_NEW'] = "Nuevo foro";
+$MESS ['FFAN_ADD_NEW_ALT'] = "Click para agregar un nuevo foro";
+$MESS ['FFAN_SITE_ID'] = "Sitio";
+$MESS ['FFAN_ALL'] = "Todo";
+$MESS ['FFAN_YES'] = "Si";
+$MESS ['FFAN_NO'] = "No";
+$MESS ['FFAN_ACTIVE'] = "Activo";
+$MESS ['FFAN_GROUP_ID'] = "Grupo de foro";
+?>

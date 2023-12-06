@@ -1,0 +1,36 @@
+<?
+$MESS["BT_UT_EAUTOCOMPLETE_DESCR"] = "Свързаност към елементи с автоматично попълване";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_TITLE"] = "Настройки на свързаността към елементите с автоматично попълване";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_SHOW_ADD"] = "Показвай бутона за добавяне на елементи";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_IBLOCK_MESS"] = "Вземай името на бутона за добавяне от настройките на свързания инфоблок";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_MAX_WIDTH"] = "Максимална ширина на полето за въвеждане в пиксели (0 - неограничава)";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_COMMENT_MAX_WIDTH"] = "px";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_MIN_HEIGHT"] = "Минимална височина на полето за въвеждане в пиксели, ако свойството е множествено";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_COMMENT_MIN_HEIGHT"] = "px";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_MAX_HEIGHT"] = "Максимална височина на полето за въвеждане в пиксели, ако свойството е множествено";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_COMMENT_MAX_HEIGHT"] = "px";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_VIEW"] = "Интерфейс";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_BAN_SYMBOLS"] = "Заменяеми символи при показване";
+$MESS["BT_UT_EAUTOCOMPLETE_SETTING_REP_SYMBOL"] = "Символ, който ще замени при показване забранените символи";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_INVITE"] = "въведете текст";
+$MESS["BT_UT_EAUTOCOMPLETE_VIEW_AUTO"] = "Ред с автоматично попълване";
+$MESS["BT_UT_EAUTOCOMPLETE_VIEW_TREE"] = "Ред с автоматично попълване и избор от списъка";
+$MESS["BT_UT_EAUTOCOMPLETE_VIEW_ELEMENT"] = "Ред с автоматично попълване и избор от прозореца за търсене";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_LIST_INVITE"] = "(въведете име)";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_NO_SEARCH_RESULT_TEXT"] = "нищо не е намерено";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_CHOOSE_ELEMENT"] = "Списък";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_CHOOSE_ELEMENT_DESCR"] = "Избор на елемента от списъка";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_CHOOSE_ELEMENT_MULTI_DESCR"] = "Избор на няколко елемента от списъка";
+$MESS["BT_UT_AUTOCOMPLETE_SYM_SPACE"] = "Интервал";
+$MESS["BT_UT_AUTOCOMPLETE_SYM_GRID"] = "#";
+$MESS["BT_UT_AUTOCOMPLETE_SYM_STAR"] = "*";
+$MESS["BT_UT_AUTOCOMPLETE_SYM_UNDERLINE"] = "_";
+$MESS["BT_UT_AUTOCOMPLETE_SYM_OTHER"] = "друго";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_SEARCH_ELEMENT"] = "...";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_SEARCH_ELEMENT_DESCR"] = "Избор на елемента в прозореца за търсене";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_SEARCH_ELEMENT_MULTI_DESCR"] = "Избор на няколко елемента в прозореца за търсене";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_NEW_ELEMENT"] = "Добави елемент";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_NEW_ELEMENT_DESCR"] = "Добави нов елемент и го добави";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_ELEMENT_EDIT"] = "Премини към страницата за редактиране на елемента";
+$MESS["BT_UT_EAUTOCOMPLETE_MESS_NEW_ELEMENT_MULTI_DESCR"] = "Добави нов елемент и го избери";
+?>

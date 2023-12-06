@@ -1,0 +1,32 @@
+<?
+$MESS ['customrank_of'] = "den";
+$MESS ['customrank_continue'] = "Devam et";
+$MESS ['customrank_site'] = "Site";
+$MESS ['customrank_all'] = "(tümü)";
+$MESS ['customrank_module'] = "Modül";
+$MESS ['customrank_param1'] = "Parametre 1";
+$MESS ['customrank_add'] = "Ekle";
+$MESS ['customrank_param2'] = "Parametre 2";
+$MESS ['customrank_param3'] = "Parametre 3";
+$MESS ['customrank_edit'] = "Değiştir";
+$MESS ['customrank_delete'] = "Sil";
+$MESS ['customrank_id'] = "ID";
+$MESS ['customrank_title'] = "Sıralama kuralların listesi";
+$MESS ['customrank_applied'] = "İşlendi";
+$MESS ['customrank_saved'] = "Kurallar kaydedilmiştir.";
+$MESS ['customrank_rules'] = "Kurallar  ";
+$MESS ['customrank_sort'] = "Ağırlık";
+$MESS ['customrank_update'] = "Yenile";
+$MESS ['customrank_step2'] = "Adım 2. Arama endeksin yenilenmesi";
+$MESS ['customrank_step1'] = "Adım 1. Sıralama kuralların yönetimi";
+$MESS ['customrank_save_note'] = "Kuralların silinmesi veya değiştirilmesinden sonra, etkin olmaları için \"Yenile\" düğmesine tıklamak zorundasınız.  ";
+$MESS ['customrank_no'] = "(hayır)";
+$MESS ['customrank_edit_error'] = "Kayıt değişikliğinde hata oluştu:";
+$MESS ['customrank_no_rule'] = "kurallar bulunmamıştırlar";
+$MESS ['customrank_add_title'] = "Sıralamadaki yeni kuralları eklemek için tıklayınız";
+$MESS ['customrank_find'] = "Bul";
+$MESS ['customrank_find_title'] = "Arama için satır giriniz";
+$MESS ['customrank_stop'] = "Durdur";
+$MESS ['customrank_error_delete'] = "Kural silinmesinde hata oluştu";
+$MESS ['customrank_delete_confirm'] = "Bu kuralı silmek istediğinizden eminmisiniz?";
+?>

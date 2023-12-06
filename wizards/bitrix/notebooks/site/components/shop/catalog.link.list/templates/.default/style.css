@@ -1,0 +1,63 @@
+.link_list_analog
+{
+	float:right;
+	width:195px;
+}
+.catalog_analog .item
+{
+	margin-bottom:40px;
+	float:left;
+}
+.catalog_analog .preview_picture
+{
+	margin:7px 0 10px 0;
+	/*
+	text-align:center;
+	*/
+}
+.catalog_analog .catalog-price {
+	color: #212121;
+    float: left;
+    font-size: 18px;
+    width: auto;
+	margin:0 0 10px 0;
+
+}
+.catalog_analog .item .buttons input
+{
+	float:left;
+	margin: 0 5px 0 0;
+	*float:none;
+	*margin:0;
+	border:0;
+	height: 24px;
+}
+.catalog_analog .item .buttons input.buy,.catalog_analog .item .buttons input.add
+{
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-color:transparent;
+	width: 58px;
+	cursor:pointer;
+}
+.catalog_analog .item .buttons .buy_nonactive
+{
+	background:url('images/nonactive_buy.jpg') no-repeat 0px 0px transparent;
+	width: 58px;
+	height:24px;
+	display:inline-block;
+}
+.price_m .line
+{
+	width:auto;
+	clear:both;
+}
+.catalog_analog .item div.property
+{
+	float: left;
+	width: 100%;
+	margin: 0px 0 5px;
+	color: #454545;
+	font-size: 10px;
+	line-height: 1.35;
+}

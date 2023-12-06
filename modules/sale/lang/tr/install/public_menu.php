@@ -1,0 +1,7 @@
+<?
+$MESS ['SALE_INSTALL_MENU_ORDER'] = "Siparişler";
+$MESS ['SALE_INSTALL_MENU_BASKET'] = "Sepet";
+$MESS ['SALE_INSTALL_MENU_REGULAR_PAYMENT'] = "Düzenli ödemeler";
+$MESS ['SALE_INSTALL_MENU_SALE_PROFILES'] = "Alıcı profilleri";
+$MESS ['SALE_INSTALL_MENU_SALE_ACCOUNT'] = "Kullanıcı hesabı";
+?>

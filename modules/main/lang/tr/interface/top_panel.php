@@ -1,0 +1,33 @@
+<?
+$MESS ['TOP_LOG_OFF'] = "Oturum kapandı (logout)";
+$MESS ['TOP_ADMIN_ENTER'] = "İdari bölüm";
+$MESS ['button_settings'] = "Mevcut modül ayarları";
+$MESS ['button_public'] = "Ortak bölüme";
+$MESS ['MAIN_ADD_PAGE_TO_FAVORITES'] = "Sayfayı sık kullanınlara ekle";
+$MESS ['MAIN_HELP'] = "Bağlamsal rapor";
+$MESS ['top_panel_favorites'] = "Sık kullanılan";
+$MESS ['top_panel_settings'] = "Ayarlar";
+$MESS ['top_panel_help'] = "Yardım";
+$MESS ['top_panel_lang'] = "Arabirim dili:";
+$MESS ['top_panel_user'] = "Mevcut kullanıcı";
+$MESS ['top_panel_logout'] = "Çıkış";
+$MESS ['select_lang'] = "??????:508";
+$MESS ['top_panel_update'] = "Ürün güncelliği";
+$MESS ['top_panel_add_fav'] = "Sık kullanınlara ekle...";
+$MESS ['top_panel_org_fav'] = "Sık kullanınları düzenle...";
+$MESS ['top_panel_org_fav_title'] = "Sık kullanılan link listesini aç";
+$MESS ['top_panel_fav'] = "Sık kullanılan linkler";
+$MESS ['adm_top_panel_view_title'] = "Site görüntüleme biçimine geç";
+$MESS ['adm_top_panel_view'] = "Ortak bölüm ";
+$MESS ['adm_top_panel_edit_title'] = "Dahil edilen bölge düzenleme biçimine geç";
+$MESS ['adm_top_panel_edit'] = "Site düzenle";
+$MESS ['adm_top_panel_adm'] = "Denetim paneli";
+$MESS ['top_panel_fix_on'] = "Ekranda panoyu kilitle";
+$MESS ['top_panel_start_btn'] = "Başlat";
+$MESS ['top_panel_view'] = "Görünüm";
+$MESS ['top_panel_edit'] = "Düzenleme";
+$MESS ['top_panel_sett'] = "Geliştirme";
+$MESS ['top_panel_quota'] = "kullanılabilenler içerisinden #QUOTA# ?B serbest  #FREE# ?B";
+$MESS ['top_panel_edit_title'] = "İçerik düzenleme biçimine geç";
+$MESS ['top_panel_sett_title'] = "Site ayarlama ve işleme biçimine geç";
+?>

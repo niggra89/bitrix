@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<CommerceInformation SchemaVersion="2.021" CreationDate="2010-08-06T08:43:31">
+	<Metadata>
+		<Id>19</Id>
+		<Title>FAQ</Title>
+		<Properties>
+			<Property>
+				<Id>CML2_ACTIVE</Id>
+				<Title>BitrixActive</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_CODE</Id>
+				<Title>Code</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_SORT</Id>
+				<Title>Sort</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_FROM</Id>
+				<Title>Start time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_ACTIVE_TO</Id>
+				<Title>End time</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_TEXT</Id>
+				<Title>Anons</Title>
+				<Multiple>false</Multiple>
+			</Property>
+			<Property>
+				<Id>CML2_PREVIEW_PICTURE</Id>
+				<Title>Preview picture</Title>
+				<Multiple>false</Multiple>
+			</Property>
+		</Properties>
+		<Sections>
+			<Section>
+				<Id>634</Id>
+				<Title>Hilfe</Title>
+				<BitrixSort>100</BitrixSort>
+				<BitrixCode></BitrixCode>
+				<BitrixPicture></BitrixPicture>
+				<BitrixDetailPicture></BitrixDetailPicture>
+				<Sections>
+				</Sections>
+			</Section>
+		</Sections>
+	</Metadata>
+	<Catalog>
+		<Id>19</Id>
+		<MetadataId>19</MetadataId>
+		<Title>FAQ</Title>
+		<BitrixCode>faq</BitrixCode>
+		<BitrixSort>500</BitrixSort>
+		<BitrixListURL>#SITE_DIR#/about/faq/</BitrixListURL>
+		<BitrixDetailURL>#SITE_DIR#/about/faq/##ID#</BitrixDetailURL>
+		<BitrixSectionURL>#SITE_DIR#/about/faq/</BitrixSectionURL>
+		<BitrixPicture></BitrixPicture>
+		<BitrixIndexElements>true</BitrixIndexElements>
+		<BitrixIndexSections>true</BitrixIndexSections>
+		<BitrixWorkflow>false</BitrixWorkflow>
+		<BitrixLabels>
+			<BitrixLabel>
+				<Id>ELEMENT_NAME</Id>
+				<Value>Frage</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENTS_NAME</Id>
+				<Value>Fragen</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_ADD</Id>
+				<Value>Frage hinzufügen</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_EDIT</Id>
+				<Value>Frage bearbeiten</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>ELEMENT_DELETE</Id>
+				<Value>Frage löschen</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_NAME</Id>
+				<Value>Kategorie</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTIONS_NAME</Id>
+				<Value>Kategorien</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_ADD</Id>
+				<Value>Kategorie hinzufügen</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_EDIT</Id>
+				<Value>Kategorie bearbeiten</Value>
+			</BitrixLabel>
+			<BitrixLabel>
+				<Id>SECTION_DELETE</Id>
+				<Value>Kategorie löschen</Value>
+			</BitrixLabel>
+		</BitrixLabels>
+		<Elements>
+			<Element>
+				<Id>1898</Id>
+				<Title>Wie kann man zwei verschiedene Bestellungen zu einer Bestellung zusammenfassen?</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;Die Zusammenfassung mehrerer Bestellungen in eine ist technisch leider nicht möglich.&lt;/p&gt;
+&lt;p&gt;Sie können lediglich eine zu einem früheren Zeitpunkt abgeschickte Bestellung stornieren und eine neue Bestellung mit Ergänzungen aufgeben. &lt;/p&gt;
+</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>200</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>1899</Id>
+				<Title>Kann man die Lieferadresse in der Bestellung nachträglich ändern?</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;In einer bereits abgeschickten Bestellung kann die Adresse nicht mehr geändert werden. Sie können die Bestellung lediglich stornieren und eine neue Bestellung mit abgeänderter Adresse aufgeben.
+&lt;/p&gt;
+&lt;p&gt;Solange die Bestellung nicht den Status "Die Bestellung wird bearbeitet" erhält, können folgende Parameter geändert werden: Straße, Hausnummer, Telefonnummer, Name und Nachname des Empfängers sowie das Feld "Kommentar". Um die Parameter zu ändern, gehen Sie in den Bereich "Meine Bestellungen", wählen Sie die benötigte Bestellung aus, dann klicken Sie auf "Bestellparameter ändern". 
+&lt;/p&gt;
+&lt;p&gt;Es erscheinen alle Felder, die noch geändert werden können sowie die Schaltfläche "Ändern". 
+&lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>300</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>1900</Id>
+				<Title>Wie kann eine Bestellung storniert bzw. eine einzelne Ware aus der Bestellung entfernt werden?</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;Um eine ganze Bestellung zu stornieren oder eine einzelne Ware aus der Bestellung zu entfernen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gehen Sie in den Bereich &quot;Meine Bestellungen&quot;;&lt;/li&gt;
+&lt;li&gt;Wählen Sie die benötigte Bestellung aus;&lt;/li&gt;
+&lt;li&gt;Klicken Sie auf &quot;Stornieren&quot;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Einzelne Waren können aus der Bestellung entfernt werden, solange die Bestellung nicht bearbeitet wird (Status "Wird bearbeitet"). Solange die Bestellung diesen Status nicht hat, erscheinen unter der Warenliste zwei Schaltflächen: "Angegebene Anzahl entfernen" und "Alle Waren entfernen".&lt;/p&gt;
+&lt;p&gt;Setzen Sie den Wert 0 in die Zeile der Ware, die Sie entfernen möchten, geben Sie den Grund an (kann aus der Liste ausgewählt werden), klicken Sie dann auf "Angegebene Anzahl entfernen".&lt;/p&gt;
+&lt;p&gt;Möchten Sie die ganze Bestellung stornieren, klicken Sie auf "Alle Waren entfernen".&lt;/p&gt;
+&lt;p&gt;Die Bestellung kann nicht storniert werden, wenn die Bestellung bearbeitet oder bereits zur Lieferung vorbereitet wird (bzw. bereits geliefert wird). In diesen Fällen fehlt der Link "Stornieren". Möchten Sie Ihre Bestellung trotzdem stornieren, wenden Sie sich bitte an unsere Verkaufsabteilung per Telefon.&lt;/p&gt;
+&lt;p&gt;Wird eine Bestellung storniert, die einen Rabatt eingeschlossen hatte, kann dieser Rabatt bei der nächsten Bestellung nicht mehr verwendet werden. &lt;/p&gt;
+&lt;p&gt;Wurde für diese Bestellung eine Vorauszahlung gezahlt, wird der vorausgezahlte Betrag beim Stornieren der Bestellung Ihrem Nutzerkonto gutgeschrieben. Sie können diesen Betrag dann bei der nächsten Bestellung verwenden. &lt;/p&gt;
+&lt;p&gt;Nachdem die Stornierung durchgeführt wurde, werden Sie darüber per E-Mail benachrichtigt, und Ihre Bestellung wird auf den Status "Storniert" gesetzt. &lt;/p&gt;
+</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>400</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>631</Id>
+				<Title>Wozu dient die Funktion "Bestellung wiederholen" im Bereich "Meine Bestellungen"?</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>Mit dieser Funktion kann der Kunde alle früher bestellten Waren erneut in den Warenkorb legen. Dafür müssen Sie im Bereich "Meine Bestellungen" folgendes machen:
+&lt;ul&gt;
+&lt;li&gt;Klicken Sie auf die Nummer der Bestellung, deren Inhalt Sie in den Warenkorb legen wollen, um erneut zu bestellen;&lt;/li&gt;
+&lt;li&gt;Unter Bestellungsinhalt klicken Sie auf "Bestellung wiederholen". Alle Waren werden erneut in den Warenkorb gelegt. &lt;/li&gt;
+&lt;/ul&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>719</Id>
+				<Title>Wie kann der Status meiner Bestellung nachverfolgt werden?</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;Der Kunde kann den Status seiner Bestellung direkt im E-Shop auf seinem Benutzerkonto nachverfolgen. Darüber hinaus wird der Kunde bei jeder Satusänderung &amp;#40;Bestellbearbeitung, Zahlungseingang und Übergabe an den Versandservice&amp;#41; per E-Mail benachrichtigt. &lt;/p&gt;
+&lt;p&gt;Hat der Kunde zusätzliche Fragen, kann er sich jederzeit an die Verkaufsabteilung wenden und ausführlichere Information über seine Bestellung bekommen. &lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>720</Id>
+				<Title>Wie funktioniert die Rückgabe und Reklamation</Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;Der Kunde ist berechtigt, eine Bestellung jederzeit vor dem Zeitpunkt der Zustellung der Ware rückgängig zu machen. Nach Warenlieferung kann der Kunde die Ware innerhalb von 7 Tagen ohne Angabe von Gründen zurückgeben - der Kauftag wird dabei nicht mitgezählt. Eine Rückgabe der Ware ist nur möglich, wenn die Ware sich in ihrem ursprünglichen Zustand befindet und keine Beschädigungen oder sonstige Mängel aufweist. Zudem muss der Kunde eine seinerseits erfolgte Zahlung für die Ware nachweisen. &lt;/p&gt;
+&lt;p&gt;Wenn der Kunde die Ware zurückgibt, bekommt er den Warenpreis vom E-Shop zurückerstattet. Die Lieferkosten werden sind vom Rückgaberecht nicht betroffen und können nicht erstattet werden. &lt;/p&gt;
+&lt;p&gt;Der Kunde kann Mängelware an den Hersteller oder Verkäufer zurückgeben und den gezahlten Betrag zurück erstattet bekommen. Auch kann Mängelware ersetzt oder repariert werden. Für alle Optionen gilt die Voraussetzung, dass die Rückgabe oder die Forderung nach Ersatz/Reparatur innerhalb der Garantiefrist erfolgen.&lt;/p&gt;
+&lt;p&gt;Der gezahlte Betrag wird dem Kunden innerhalb von 10 Tagen zurückerstattet, insofern der Kunde den Verkäufer schriftlich über die Rückgabe der Ware informiert hat.&lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+			<Element>
+				<Id>721</Id>
+				<Title>Rabatte </Title>
+				<BitrixTags></BitrixTags>
+				<Sections>
+					<Id>634</Id>
+				</Sections>
+				<Description>&lt;p&gt;Der Kunde bekommt einen Jahresrabatt, der gestaffelt wird und dessen Höhe vom Gesamtbetrag der gekauften Waren abhängt. Grundsätzlich liegt die Rabatthöhe zwischen 5 und 10% des Warenpreises. Der Rabatt gilt innerhalb eines Jahres ab dem Datum der Zuteilung.  &lt;/p&gt;
+&lt;p&gt;Es gibt Rabatte, die nur für bestimmte Warenpositionen gelten und zwischen 5 und 30% des Warenpreises betragen können. Waren mit solchen Rabatten sind im Katalog des E-Shops extra gekennzeichnet. Verschiedene Rabatte können addiert werden, aber ihre die Gesamthöhe darf nicht über 20% liegen. Falls der Rabatt für eine einzelne Warenposition über 20% liegt, kann dieser Rabatt nicht mit anderen Rabatten kombiniert werden. &lt;/p&gt;</Description>
+				<PropertiesValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE</Id>
+						<Value>true</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_CODE</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_SORT</Id>
+						<Value>500</Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_FROM</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_ACTIVE_TO</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_TEXT</Id>
+						<Value></Value>
+					</PropertyValues>
+					<PropertyValues>
+						<Id>CML2_PREVIEW_PICTURE</Id>
+						<Value></Value>
+					</PropertyValues>
+				</PropertiesValues>
+			</Element>
+		</Elements>
+	</Catalog>
+</CommerceInformation>

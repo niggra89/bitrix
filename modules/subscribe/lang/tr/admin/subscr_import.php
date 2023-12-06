@@ -1,0 +1,30 @@
+<?
+$MESS ['imp_title'] = "Adreslerin içeri aktarımı";
+$MESS ['imp_results'] = "Yükleme sonuçları:";
+$MESS ['imp_results_total'] = "Yükleme için benzersiz adres toplamı:";
+$MESS ['imp_results_added'] = "Eklenen adresler:";
+$MESS ['imp_results_err'] = "Hatalı adresler:";
+$MESS ['imp_delim'] = "Listedeki adresler <b>virgül</b> veya <b>satır</b> ile ayrılmalıdırlar.";
+$MESS ['imp_file'] = "Dosyadan içeri aktarım:";
+$MESS ['imp_list'] = "Listeden içeri aktarım:";
+$MESS ['imp_send_code'] = "Aboneliğin onay kodunu iletiniz:";
+$MESS ['imp_conf'] = "Abonelik onay bayrağını yükleyiniz:";
+$MESS ['imp_user'] = "Katılımcılar, site kullanıcıları veya anonim ziyaretçileri olarak eklenebilirler.";
+$MESS ['imp_user_anonym'] = "Anonim katılımcıları site içerisinde bütçe sahibi değiller. Kullanıcıların eklenmesinde, kullanıcı gruplarına eklenme imkanı ile bütçeler oluşturulmaktadırlar.";
+$MESS ['imp_add'] = "Katılımcıların eklenmesi:";
+$MESS ['imp_add_anonym'] = "Anonim ziyaretçileri olarak";
+$MESS ['imp_add_users'] = "Kullanıcılar olaral (bütçe oluşturulması ile)";
+$MESS ['imp_send_reg'] = "Kayıt bilgilerini kullanıcılarına gönder:";
+$MESS ['imp_add_gr'] = "Kullanıcıları gruplara ekle:";
+$MESS ['imp_subscr'] = "Kategori aboneliği:";
+$MESS ['imp_fmt'] = "Format:";
+$MESS ['imp_fmt_text'] = "Metin";
+$MESS ['imp_butt'] = "Adreslerin içeri aktarımı";
+$MESS ['imp_site'] = "Site şablonuna dayanarak iletilerin gönderilmesi:";
+$MESS ['subscr_imp_err1'] = "Dosyanın yüklenmesinde hata.";
+$MESS ['subscr_imp_err2'] = "hata kodu";
+$MESS ['subscr_send_info'] = "Sunucuda kayıtlıydınız.";
+$MESS ['imp_import_tab'] = "İçeri aktarım";
+$MESS ['imp_import_tab_title'] = "İçeri aktarım parametreleri";
+$MESS ['imp_error'] = "Parametrelerin içeri aktarımında hata";
+?>

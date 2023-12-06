@@ -1,0 +1,30 @@
+<?
+$MESS ['curr_rates_flt_date'] = "Fecha:";
+$MESS ['curr_rates_flt_btn'] = "Fijar fecha";
+$MESS ['curr_rates_nav'] = "Tasas";
+$MESS ['curr_rates_rate'] = "Tasa";
+$MESS ['curr_rates_rate_cnt'] = "Monto";
+$MESS ['curr_rates_del'] = "Borrar";
+$MESS ['curr_rates_query'] = "Consulta";
+$MESS ['curr_rates_reset'] = "Restablecer";
+$MESS ['curr_rates_title'] = "Los tipos de cambio";
+$MESS ['curr_rates_list'] = "Monedas";
+$MESS ['curr_rates_err1'] = "Formato de fecha de inicio equivocado.";
+$MESS ['curr_rates_err2'] = "Formato de fecha de finalización incorrecto.";
+$MESS ['curr_rates_curr'] = "Moneda:";
+$MESS ['curr_rates_all'] = "(todo)";
+$MESS ['curr_rates_date1'] = "Fecha";
+$MESS ['curr_rates_curr1'] = "Moneda";
+$MESS ['curr_rates_upd'] = "Guardar";
+$MESS ['CURRENCY_TITLE'] = "Tipo de cambio";
+$MESS ['ERROR_ADD_REC'] = "Error al agregar un nuevo registro";
+$MESS ['ERROR_ADD_REC2'] = "Es posible que que cambio ya haya sido asignado para esta fecha.";
+$MESS ['ERROR_UPDATE_REC'] = "Error al actualizar un registro";
+$MESS ['ERROR_QUERY_RATE'] = "Error al consultar el cambio";
+$MESS ['ERROR_EMPTY_ANSWER'] = "Sin respuesta del servidor.";
+$MESS ['ERROR_SAVING_RATE'] = "Error al guardar el cambio";
+$MESS ['ERROR_SAVING_RATE1'] = "Cambio no se ha fijado.";
+$MESS ['ERROR_SAVING_RATE2'] = "Monto no se ha fijado.";
+$MESS ['ERROR_DATE_RATE'] = "Fecha del cambio no se ha fijado";
+$MESS ['CATALOG_F_DEL'] = "Quitar filtro";
+?>

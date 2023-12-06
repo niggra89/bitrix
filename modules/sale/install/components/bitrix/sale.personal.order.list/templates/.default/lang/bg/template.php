@@ -1,0 +1,30 @@
+<?
+$MESS ['SPOL_T_F_FILTER'] = "Филтър";
+$MESS ['SPOL_T_F_ID'] = "ID на поръчката";
+$MESS ['SPOL_T_F_DATE'] = "Дата на поръчката";
+$MESS ['SPOL_T_F_STATUS'] = "Статус на поръчката";
+$MESS ['SPOL_T_F_ALL'] = "< Всичко >";
+$MESS ['SPOL_T_F_SUBMIT'] = "Постави";
+$MESS ['SPOL_T_F_DEL'] = "Премахни";
+$MESS ['SPOL_T_ID'] = "ID на поръчката";
+$MESS ['SPOL_T_PRICE'] = "Цена";
+$MESS ['SPOL_T_STATUS'] = "Статус";
+$MESS ['SPOL_T_PAYED'] = "Платена";
+$MESS ['SPOL_T_CANCELED'] = "Отменена";
+$MESS ['SPOL_T_ACTION'] = "Действия";
+$MESS ['SPOL_T_F_PAYED'] = "Платена";
+$MESS ['SPOL_T_F_CANCELED'] = "Отменена";
+$MESS ['SPOL_T_F_HISTORY'] = "В това число и доставените";
+$MESS ['SPOL_T_PAY_SYS'] = "Начин за плащане / доставка";
+$MESS ['SPOL_T_BASKET'] = "Артикули";
+$MESS ['SPOL_T_DELETE'] = "Отмени";
+$MESS ['SPOL_T_COPY_ORDER'] = "Повтори";
+$MESS ['SPOL_T_DETAIL'] = "Подробно";
+$MESS ['SPOL_T_YES'] = "Да";
+$MESS ['SPOL_T_NO'] = "Не";
+$MESS ['SPOL_T_FROM'] = "от";
+$MESS ['SPOL_T_DETAIL_DESCR'] = "Виж подробната информация за поръчката";
+$MESS ['SPOL_T_COPY_ORDER_DESCR'] = "Повтори поръчката";
+$MESS ['SPOL_T_DELETE_DESCR'] = "Отмени поръчката";
+$MESS ['STPOL_SHT'] = "бр.";
+?>

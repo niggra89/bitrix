@@ -1,0 +1,35 @@
+<?
+$MESS ['SAE_NO_PERMS2ADD'] = "Yeni hesap eklemek için yeterli hak sahibi değilsiniz";
+$MESS ['SAE_EMPTY_USER'] = "Kullanıcı alanı doldurulmamıştır";
+$MESS ['SAE_EMPTY_CURRENCY'] = "Döviz alanı doldurulmamıştır";
+$MESS ['SAE_ALREADY_EXISTS'] = "#CURRENCY#  döviz için ##USER# kullanıcı hesabı zaaten var";
+$MESS ['SAE_NO_ACCOUNT'] = "##ID# hesabı bulunamadı";
+$MESS ['SAE_ERROR_SAVING'] = "Hesap kaydında hata";
+$MESS ['SAE_ERROR_SAVING_SUM'] = "Hesap kaydında hata. Hesaptaki miktar kaydın doğruluğunu kontrol ediniz.";
+$MESS ['SAE_ERROR_SAVING_COMMENT'] = "Hesap yorumların kaydında hata";
+$MESS ['SAE_UPDATING'] = "Hesap parametrelerin değiştirilmesi";
+$MESS ['SAE_ADDING'] = "Yeni hesabın eklenmesi";
+$MESS ['SAE_TO_LIST'] = "Hesaplar listesi";
+$MESS ['SAE_TIMESTAMP'] = "Son değişiklik tarihi:";
+$MESS ['SAE_USER1'] = "Kullanıcı:";
+$MESS ['SAE_USER_PROFILE'] = "Kullanıcı profili";
+$MESS ['SAE_SUM'] = "Hesaptaki miktar:";
+$MESS ['SAE_UNLOCK'] = "Bütçe kilidini aç:";
+$MESS ['SAE_LOCKED'] = "(Kilitli";
+$MESS ['SAE_NOTES'] = "Notlar:";
+$MESS ['SAE_OSN'] = "hesaptaki miktarın değişiklik sebebi:";
+$MESS ['SAE_OSN_NOTE'] = "(değişikliğin yapılması durumunda doldurulmaktadır)";
+$MESS ['SAE_SAVE'] = "Kaydet";
+$MESS ['SAE_SAVE_ADD'] = "Ekle";
+$MESS ['SAE_APPLY'] = "Uygula";
+$MESS ['SAE_CANCEL'] = "Sıfırla";
+$MESS ['SAEN_2FLIST'] = "Hesaplar listesi";
+$MESS ['SAEN_2FLIST_TITLE'] = "Hesaplar listesini görüntüle";
+$MESS ['SAEN_NEW_ACCOUNT'] = "Hesap ekle";
+$MESS ['SAEN_NEW_ACCOUNT_TITLE'] = "Yeni hesap oluştur";
+$MESS ['SAEN_DELETE_ACCOUNT'] = "Hesabı sil";
+$MESS ['SAEN_DELETE_ACCOUNT_CONFIRM'] = "Bu hesabı silmek istediğinizden eminmisiniz?";
+$MESS ['SAEN_TAB_ACCOUNT'] = "Kullanıcı hesabı";
+$MESS ['SAEN_TAB_ACCOUNT_DESCR'] = "Kullanıcı hesabı";
+$MESS ['SAE_ERROR'] = "Kayıt hata!";
+?>

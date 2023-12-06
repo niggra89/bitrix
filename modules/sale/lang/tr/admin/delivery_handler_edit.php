@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_DH_TITLE_EDIT'] = "Teslimat servisin düzenlenmesi";
+$MESS ['SALE_DH_TAB_TITLE_EDIT'] = "Teslimat parametreleri";
+$MESS ['SALE_DH_TAB_TITLE_EDIT_ALT'] = "Teslimat servisin parametreleri";
+$MESS ['SALE_DH_SITES'] = "Site seçimi";
+$MESS ['SALE_DH_USE_DIFF_SITES_SETTINGS'] = "Farklı siteler için özelleştirilmiş ayarları kullan ";
+$MESS ['SALE_DH_SITES_LIST'] = "Site seçiniz";
+$MESS ['SALE_DH_EDIT_BASECONFIG'] = "Temel konfigurasyon";
+$MESS ['SALE_DH_EDIT_BASECONFIG_DESCR'] = "Teslimat sistemi temel konfigurasyonu ";
+$MESS ['SALE_DH_EDIT_CONFIG'] = "İşleyici";
+$MESS ['SALE_DH_EDIT_CONFIG_DESCR'] = "İşleyicinin çalışması için gereken ayarlar";
+$MESS ['SALE_DH_EDIT_PROFILES'] = "Profiller";
+$MESS ['SALE_DH_EDIT_PROFILES_DESCR'] = "Teslimat profillerin ayarları";
+$MESS ['SALE_DH_HANDLER_SORT'] = "Sıralama:";
+$MESS ['SALE_DH_HANDLER_PATH'] = "İşleyici:";
+$MESS ['SALE_DH_HANDLER_ACTIVE'] = "Etkin:";
+$MESS ['SALE_DH_HANDLER_NAME'] = "Adı:";
+$MESS ['SALE_DH_HANDLER_DESCRIPTION'] = "Tanımı:";
+$MESS ['SALE_DH_PROFILE_USE_DEFAULT'] = "Varsayılan olarak profil ayarlarını kullanınız:";
+$MESS ['SALE_DH_PROFILE_ACTIVE'] = "Etkin:";
+$MESS ['SALE_DH_PROFILE_TITLE'] = "Adı:";
+$MESS ['SALE_DH_PROFILE_DESCRIPTION'] = "Tanımı:";
+$MESS ['SALE_DH_PROFILE_WEIGHT_RESTRICTIONS'] = "Ağırlığına göre sınırlamalar:";
+$MESS ['SALE_DH_WEIGHT_UNIT_DEFAULT'] = "g";
+$MESS ['SALE_DH_PROFILE_WEIGHT_RESTRICTIONS_FROM'] = "den";
+$MESS ['SALE_DH_PROFILE_WEIGHT_RESTRICTIONS_TO'] = "kadar";
+$MESS ['SALE_DH_PROFILE_SUM_RESTRICTIONS'] = "Sipariş tutarına göre sınırlamalar:";
+$MESS ['SALE_DH_PROFILE_SUM_RESTRICTIONS_FROM'] = "den";
+$MESS ['SALE_DH_PROFILE_SUM_RESTRICTIONS_TO'] = "kadar";
+$MESS ['SALE_DH_PROFILE_SUM_RESTRICTIONS_CURRENCY'] = "döviz:";
+$MESS ['SALE_DH_ERROR_UNRECOGNIZED'] = "Bilinmeyen hata. Tekrar deneyiniz lütfen.";
+$MESS ['SALE_DH_LIST'] = "Servis listesi";
+$MESS ['SALE_DH_LIST_ALT'] = "Teslimat servis listesi";
+$MESS ['SALE_DH_HANDLER_TAX_RATE'] = "Teslimat maliyeti üzerinde biçimlendirme:";
+?>

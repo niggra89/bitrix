@@ -1,0 +1,63 @@
+.top_menu a,
+.breadcrumb-navigation li a,
+.breadcrumb-navigation li,
+form.filter  .prop_name,
+span.modern-page-current,
+.sale_basket_basket tr.items td.cost,
+.allSum_FORMATED,
+.order_menu,.order_menu a,
+.calc a,
+.catalog-compare-list a.blue,
+.color_theme,
+#header  .phones table,
+.news .news_item .preview .title a,.best .best_item .name a,
+#content .r_c_inner h1
+{
+	color:#212121;
+}
+.price,.catalog-price,.price_m s,s.DISCOUNT
+{
+	color:#FF1212;
+}
+.left_menu ul li.root a.root
+{
+	color:#212121;
+	background-image:url('images/v_arrow.png');
+}
+.left_menu ul li.selected a.root
+{
+	background-image:url('images/g_arrow.png');
+}
+.ui-widget-header
+{
+	background-color: #555555 !important;
+}
+.catalog_element .more_photo  a.preview:hover
+{
+	border-color: #212121;
+}
+.with_line
+{
+	background-image:url('images/hr.gif');
+}
+.search_form .sub
+{
+	background-image:url('images/search.png');	cursor:pointer;
+}
+
+.basket_items_header th
+{
+	background:url('images/hr.gif') no-repeat left bottom transparent;
+}
+.basket_items_header th.last
+{
+	background-position:right bottom;
+}
+p.prop_name span.arrow
+{
+	background-image:url('images/g_arrow.png');
+}
+#slider-range  a.ui-slider-handle
+{
+	background-image:url('images/slider_h.png');
+}

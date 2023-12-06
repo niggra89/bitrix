@@ -1,0 +1,30 @@
+<?
+$MESS["IBD_FIELD_ID"] = "ID на елемента";
+$MESS["IBD_FIELD_TIMESTAMP_X"] = "Дата на редактиране";
+$MESS["IBD_FIELD_MODYFIED"] = "Потребителя, променил документа";
+$MESS["IBD_FIELD_MODIFIED_BY_USER_PRINTABLE"] = "Редактирано от";
+$MESS["IBD_FIELD_DATE_CREATE"] = "Дата на създаване";
+$MESS["IBD_FIELD_IBLOCK_ID"] = "ID на информационният блок";
+$MESS["IBD_FIELD_ACTIVE"] = "Елемента е активен";
+$MESS["IBD_FIELD_DATE_ACTIVE_FROM"] = "Елемента е активен от";
+$MESS["IBD_FIELD_DATE_ACTIVE_TO"] = "Елемента е активен до";
+$MESS["IBD_FIELD_SORT"] = "Индекс на сортирането на елемента";
+$MESS["IBD_FIELD_NAME"] = "Име на елемента";
+$MESS["IBD_FIELD_PREVIEW_PICTURE"] = "Преглед на изображението";
+$MESS["IBD_FIELD_PREVIEW_TEXT"] = "Преглед на текста";
+$MESS["IBD_FIELD_PREVIEW_TEXT_TYPE"] = "Тип на текста за прегледа";
+$MESS["IBD_DESC_TYPE_TEXT"] = "Текст";
+$MESS["IBD_FIELD_DETAIL_PICTURE"] = "Подробно изображение";
+$MESS["IBD_FIELD_DETAIL_TEXT"] = "Подробен текст";
+$MESS["IBD_FIELD_DETAIL_TEXT_TYPE"] = "Тип на подробният текст";
+$MESS["IBD_FIELD_CODE"] = "Мнемоничен код";
+$MESS["IBD_FIELD_XML_ID"] = "Външно ID";
+$MESS["IBD_FIELD_CREATED"] = "От кой е създаден";
+$MESS["IBD_FIELD_CREATED_BY_USER_PRINTABLE"] = "Създадено от";
+$MESS["IBD_OPERATION_READ"] = "Прочитане";
+$MESS["IBD_OPERATION_WRITE"] = "Запис";
+$MESS["IBD_DOCUMENT_AUTHOR"] = "Автор";
+$MESS["IBD_FIELD_BP_PUBLISHED"] = "Публикуван";
+$MESS["IBD_FIELD_USERNAME_PROPERTY"] = " (име)";
+$MESS["IBD_ELEMENT_NOT_FOUND"] = "Елемента не е намерен.";
+?>

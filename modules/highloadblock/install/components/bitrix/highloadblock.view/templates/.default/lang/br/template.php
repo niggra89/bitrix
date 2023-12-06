@@ -1,0 +1,5 @@
+<?
+$MESS["HLBLOCK_ROW_VIEW_NAME_COLUMN"] = "Campo";
+$MESS["HLBLOCK_ROW_VIEW_VALUE_COLUMN"] = "Valor";
+$MESS["HLBLOCK_ROW_VIEW_BACK_TO_LIST"] = "Voltar relação";
+?>

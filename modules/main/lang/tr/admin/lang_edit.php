@@ -1,0 +1,31 @@
+<?
+$MESS ['EDIT_LANG_TITLE'] = "#ID# dilin düzenlenmesi";
+$MESS ['NEW_LANG_TITLE'] = "Dil eklenmesi";
+$MESS ['RECORD_LIST'] = "Dil sitesi";
+$MESS ['NAME'] = "Ad:";
+$MESS ['ACTIVE'] = "Etkin:";
+$MESS ['DEF'] = "Varsayılan";
+$MESS ['SORT'] = "Sıralama:";
+$MESS ['DIR'] = "Site klasörü:";
+$MESS ['FORMAT_DATE'] = "Tarih biçimi:<br><small>(örnek: DD.MM.YYYY)</small>";
+$MESS ['FORMAT_DATETIME'] = "Zaman ve tarih biçimi:<br><small>(örnek: DD.MM.YYYY HH:MI:SS)</small>";
+$MESS ['CHARSET'] = "Kodlama:";
+$MESS ['SAVE'] = "Değiklikleri kaydet";
+$MESS ['ADD'] = "Yeni dil ekle";
+$MESS ['RESET'] = "Sıfırla";
+$MESS ['MAIN_NEW_RECORD'] = "Dil ekle";
+$MESS ['MAIN_DELETE_RECORD'] = "Dili sil";
+$MESS ['MAIN_DELETE_RECORD_CONF'] = "Bu dili silmek istediğinizden eminmisiniz?";
+$MESS ['MAIN_PARAM'] = "Parametreler";
+$MESS ['MAIN_PARAM_TITLE'] = "Dil sistemi parametreleri";
+$MESS ['MAIN_ERROR_SAVING'] = "Kayıt hatası";
+$MESS ['MAIN_DELETE_RECORD_TITLE'] = "Mevcut dili sil";
+$MESS ['MAIN_NEW_RECORD_TITLE'] = "Yeni dil ekle";
+$MESS ['RECORD_LIST_TITLE'] = "Dil listesine geç";
+$MESS ['MAIN_COPY_RECORD_TITLE'] = "Dili kopyala";
+$MESS ['MAIN_COPY_RECORD'] = "Kopya ekle";
+$MESS ['ERROR_DELETE'] = "Dilin silinmesinde hata. Diğer nesneler ile ilgili olabilir.";
+$MESS ['DIRECTION'] = "Metin yönü:";
+$MESS ['DIRECTION_LTR'] = "Soldan sağa";
+$MESS ['DIRECTION_RTL'] = "Sağdan sola";
+?>

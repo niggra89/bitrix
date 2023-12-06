@@ -1,0 +1,36 @@
+<?
+$MESS["admin_index_product_name_1c_bitrix"] = "1С-Битрикс:Система за управление на сайт";
+$MESS["admin_index_product_name_1c_bitrix_portal"] = "1С-Битрикс: Корпоративен портал";
+$MESS["admin_index_product_name_1c_bitrix_eduportal"] = "1С-Битрикс: Вътрешен портал на учебно заведение";
+$MESS["admin_index_product_name_1c_bitrix_gosportal"] = "1С-Битрикс: Вътрешен портал на държавна организация";
+$MESS["admin_index_product_name_1c_bitrix_gossite"] = "1С-Битрикс: Официален сайт на държавна организация";
+$MESS["admin_index_menu"] = "Меню";
+$MESS["admin_index_project"] = "Добре дошли в административният раздел";
+$MESS["admin_index_product"] = "Проекта работи на основата";
+$MESS["admin_index_title"] = "Контролен панел";
+$MESS["admin_index_product_name_bitrix"] = "Bitrix Site Manager";
+$MESS["admin_index_product_name_bitrix_portal"] = "Bitrix Интранет портал";
+$MESS["admin_index_sec"] = "Проактивна защита";
+$MESS["admin_index_sec_on"] = "Включена";
+$MESS["admin_index_sec_check"] = "Проверка на параметрите";
+$MESS["admin_index_sec_off"] = "Изключена";
+$MESS["admin_index_sec_filter_on"] = "Проактивният филтър (Web Application Firewall) е включен.";
+$MESS["admin_index_sec_filter_off"] = "Проактивният филтър (Web Application Firewall) е изключен.";
+$MESS["admin_index_sec_filter_desc"] = "Проактивният филтър защитава от повечето известни атаки над уеб приложенията. В потока от заявките от потребителите, филтъра разпознава повечето от опасностите и блокира влизането на сайта. Препоръчва си включването на филтъра. ";
+$MESS["admin_index_sec_filter_turn_on"] = "Включи";
+$MESS["admin_index_sec_module"] = "Модула на проактивната защита не е инсталиран.";
+$MESS["admin_index_sec_module_desc"] = "Модула защитава от повечето известни атаки над уеб приложенията. За максимална защита на вашият проект, се препоръчва инсталирането на модула.";
+$MESS["admin_index_sec_module_install"] = "Инсталиране";
+$MESS["admin_index_sec_level"] = "Вие можете да проверите текущото ниво на сигурност в <a href=\"security_panel.php?lang=#LANGUAGE_ID#\">Панела за сигурност</a> на модула.";
+$MESS["admin_index_perf_level"] = "Вие можете да тествате текущото ниво за ефективност в <a href=\"perfmon_panel.php?lang=#LANGUAGE_ID#\">Панела за ефективност</a> на модула.";
+$MESS["admin_index_perf"] = "Монитор за ефективността";
+$MESS["admin_index_perf_installed"] = "Инсталиран";
+$MESS["admin_index_perf_check"] = "Проверете";
+$MESS["admin_index_perf_not_installed"] = "Не е инсталиран";
+$MESS["admin_index_perf_current"] = "Текуща оценка на ефективността";
+$MESS["admin_index_perf_no_result"] = "Оценка за ефективност не се е извършвала.";
+$MESS["admin_index_perf_no_result_desc"] = "Модула анализира и тества ефективността на вашата система. За да има максимален контрол върху ефективността на уеб проекта, се препоръчва, да се извърши тестване. ";
+$MESS["admin_index_perf_test"] = "Тест";
+$MESS["admin_index_perf_module_inst"] = "Модула за монитора на ефективността не е инсталиран.";
+$MESS["admin_index_perf_module_inst_desc"] = "Модула анализира и тества ефективността на вашата система. За да има максимален контрол върху ефективността на уеб проекта, се препоръчва, да се инсталира модула. ";
+?>

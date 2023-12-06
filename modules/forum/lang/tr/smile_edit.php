@@ -1,0 +1,37 @@
+<?
+$MESS ['FORUM_EDIT_RECORD'] = "N#ID# Yüz ifadesinin değiştirilmesi";
+$MESS ['FORUM_NEW_RECORD'] = "Yeni yüz ifadesi";
+$MESS ['FORUM_RECORDS_LIST'] = "Yüz ifadeleri listesinde";
+$MESS ['FORUM_SAVE'] = "Kaydet";
+$MESS ['FORUM_ADD'] = "Ekle";
+$MESS ['FORUM_APPLY'] = "Uygula";
+$MESS ['FORUM_RESET'] = "İptal";
+$MESS ['ERROR_NO_NAME'] = "Dildeki yüz ifadesinin adı belirtilmemiş";
+$MESS ['ERROR_EDIT_SMILE'] = "Yüz ifadesi değiştirme hatası";
+$MESS ['ERROR_ADD_SMILE'] = "Yüz ifadesi ekleme hatası";
+$MESS ['FORUM_SORT'] = "Sıralama";
+$MESS ['FORUM_CODE'] = "Kod";
+$MESS ['FORUM_NAME'] = "Adı";
+$MESS ['FORUM_DESCR'] = "Tanım";
+$MESS ['FORUM_PT_PROPS'] = "Parametreler";
+$MESS ['ERROR_NO_TYPE'] = "Yüz ifadesi tipini belirleyin";
+$MESS ['ERROR_NO_IMAGE'] = "Yüz ifadesi için resmi belirleyin";
+$MESS ['ERROR_COPY_IMAGE'] = "Resim yüleme hatası. Kayıt için yeterli izin olmayabilir";
+$MESS ['ERROR_EXISTS_IMAGE'] = "Bu isimle bir resim zaten bulunuyor";
+$MESS ['FORUM_TYPE'] = "Yüz ifadesi tipi";
+$MESS ['FORUM_TYPING'] = "Yüz ifadesi yazımı";
+$MESS ['FORUM_TYPING_NOTE'] = "(aralık bırakarak birden fazla alternatif sıralanabilir)";
+$MESS ['FORUM_IMAGE'] = "Yüz ifadesinin görüntüsü";
+$MESS ['FORUM_IMAGE_NOTE'] = "(önerilen yüz ifadesi boyutu: 16x16, sembol: 15x15)";
+$MESS ['FSE_ERROR_EXT'] = "İzin verilmeyen büyüklükte grafik dosyası";
+$MESS ['FSE_SMILE'] = "Yüz ifadesi";
+$MESS ['FSE_ICON'] = "Sembol";
+$MESS ['ERROR_NO_MIN_NUM_POSTS'] = "Bu rütbe için minimum mesaj sayısını tanımlayın.";
+$MESS ['FORUM_CODE_LEN'] = "harf";
+$MESS ['FSN_2FLIST'] = "Yüz ifadesi listesi";
+$MESS ['FSN_NEW_SMILE'] = "Yeni yüz ifadesi ekle";
+$MESS ['FSN_DELETE_SMILE'] = "Yüz ifadesini sil";
+$MESS ['FSN_DELETE_SMILE_CONFIRM'] = "Yüz ifadesini silmek istediğinizden emin misiniz?";
+$MESS ['FSN_TAB_SMILE'] = "Forum yüz ifadeleri";
+$MESS ['FSN_TAB_SMILE_DESCR'] = "Forum yüz ifadeleri";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS ['BLOG_MENU_BLOGS_LIST'] = "Lista de blog";
+$MESS ['BLOG_MENU_BLOGS_LIST_TITLE'] = "Blogs ";
+$MESS ['BLOG_MENU_CURRENT_BLOG'] = "Blog actual";
+$MESS ['BLOG_MENU_CURRENT_BLOG_TITLE'] = "Página de inicio del blog &quot;#NAME#&quot;";
+$MESS ['BLOG_MENU_MY_BLOG'] = "Mi blog";
+$MESS ['BLOG_MENU_MY_BLOG_TITLE'] = "Mi blog";
+$MESS ['BLOG_MENU_PROFILE'] = "Mi perfil";
+$MESS ['BLOG_MENU_PROFILE_TITLE'] = "Mi perfil";
+$MESS ['BLOG_MENU_FRIENDS'] = "Página de amigos";
+$MESS ['BLOG_MENU_FRIENDS_TITLE'] = "Página de amigos";
+$MESS ['BLOG_MENU_LOGOUT'] = "Desconectar";
+$MESS ['BLOG_MENU_LOGOUT_TITLE'] = "Desconectar";
+$MESS ['BLOG_MENU_LOGIN'] = "Conexión";
+$MESS ['BLOG_MENU_LOGIN_TITLE'] = "Conexión";
+$MESS ['BLOG_MENU_REGISTER'] = "Registro";
+$MESS ['BLOG_MENU_REGISTER_TITLE'] = "Registro";
+$MESS ['BLOG_MENU_ADD_MESSAGE'] = "Nuevo mensaje";
+$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "Agregar un nuevo mensaje";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES'] = "Borrador de mensajes";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES_TITLE'] = "Borrador de mensajes";
+$MESS ['BLOG_MENU_EDIT_MESSAGE'] = "Editar mensaje";
+$MESS ['BLOG_MENU_EDIT_MESSAGE_TITLE'] = "Editar mensaje";
+$MESS ['BLOG_MENU_DELETE_MESSAGE'] = "Borrar mensaje";
+$MESS ['BLOG_MENU_DELETE_MESSAGE_TITLE'] = "Borrar mensaje";
+$MESS ['BLOG_MENU_USER_SETTINGS'] = "Ajustes de los usuarios";
+$MESS ['BLOG_MENU_USER_SETTINGS_TITLE'] = "Ajustes de mi blog de usuarios";
+$MESS ['BLOG_MENU_GROUP_EDIT'] = "Ajustes del grupo";
+$MESS ['BLOG_MENU_GROUP_EDIT_TITLE'] = "Ajustes del grupo de mi blog";
+$MESS ['BLOG_MENU_CATEGORY_EDIT'] = "Configuraciones de las categorías";
+$MESS ['BLOG_MENU_CATEGORY_EDIT_TITLE'] = "Configuraciones de las categorías de mi blog";
+$MESS ['BLOG_MENU_BLOG_EDIT'] = "Configuraciones del blog";
+$MESS ['BLOG_MENU_BLOG_EDIT_TITLE'] = "Configuraciones de mi blog";
+?>

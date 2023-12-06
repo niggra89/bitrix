@@ -1,0 +1,35 @@
+<?
+$MESS ['SCA_ERROR_DELETE'] = "Грешка при премахването на кредитната карта с код #ID#";
+$MESS ['SCA_ERROR_UPDATE'] = "Грешка при актуализирането параметрите на картата #ID#";
+$MESS ['SCA_TITLE'] = "Кредитни карти";
+$MESS ['SCA_USER_ID'] = "ID на потребителя";
+$MESS ['SCA_USER_LOGIN'] = "Потребителско име";
+$MESS ['SCA_USER'] = "Потребител";
+$MESS ['SCA_ACTIVE'] = "Активни";
+$MESS ['SCA_ALL'] = "всички";
+$MESS ['SCA_YES'] = "Да";
+$MESS ['SCA_NO'] = "Не";
+$MESS ['SCA_SET'] = "Постави";
+$MESS ['SCA_UNSET'] = "Отмени";
+$MESS ['SCA_ADD_NEW'] = "Добави &gt;&gt;";
+$MESS ['SCA_NAV'] = "Карти";
+$MESS ['SCA_ACT'] = "Акт.";
+$MESS ['SCA_SORT'] = "Сорт.";
+$MESS ['SCA_CURRENCY'] = "Валута";
+$MESS ['SCA_TYPE'] = "Тип";
+$MESS ['SCA_ACTIONS'] = "Действия";
+$MESS ['SCA_DELETE_ALT'] = "Премахни сметката";
+$MESS ['SCA_DELETE'] = "Премахни";
+$MESS ['SCA_UPDATE_ALT'] = "Редактиране на параметрите на кредитната карта";
+$MESS ['SCA_UPDATE'] = "Редактиране";
+$MESS ['SCA_DELETE_ALT1'] = "Премахни кредитната карта";
+$MESS ['SCA_DELETE_ALL_ALT'] = "Отметни кредитната карта за премахване";
+$MESS ['SCA_AVTIVE_ALL_ALT'] = "Промени активността на кредитните карти";
+$MESS ['SCA_DELETE_ALL_ALT1'] = "Отметни всички карти за заличаване";
+$MESS ['SCA_SAVE'] = "Запиши";
+$MESS ['SCA_DELETE_CONF'] = "Сигурни ли сте, че искате да изтриете тази карта?";
+$MESS ['SCA_NO_VALID_PASSWORD'] = "Моля, задайте парола, за криптиране на номерата на кредитните карти в глобалните настройки на страницата.";
+$MESS ['SCAN_ADD_NEW'] = "Добави карта";
+$MESS ['SCAN_ADD_NEW_ALT'] = "Натиснете да добавите нова карта";
+$MESS ['SCA_ATTENTION'] = "Внимание!";
+?>

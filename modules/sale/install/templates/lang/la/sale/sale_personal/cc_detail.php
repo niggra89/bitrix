@@ -1,0 +1,30 @@
+<?
+$MESS ['STPC_TITLE_UPDATE'] = "Parámetros para la TArjeta de crédito ##ID#";
+$MESS ['STPC_TITLE_ADD'] = "Nueva tarjeta de crédito";
+$MESS ['STPC_TO_LIST'] = "Regresar a la lista";
+$MESS ['STPC_TIMESTAMP'] = "Fecha de la última modificación:";
+$MESS ['STPC_ACTIV'] = "Activa:";
+$MESS ['STPC_SORT'] = "Sort index:";
+$MESS ['STPC_PAY_SYSTEM'] = "Sistema de pago:";
+$MESS ['STPC_CURRENCY'] = "Moneda en la que se permiten los pagos:";
+$MESS ['STPC_ANY'] = "(cualquiera)";
+$MESS ['STPC_TYPE'] = "Tipo de tarjeta";
+$MESS ['STPC_CNUM'] = "Número de tarjeta de crédoito:";
+$MESS ['STPC_CEXP'] = "Fecha de expiración:";
+$MESS ['STPC_MIN_SUM'] = "Mínimo pago permitido:";
+$MESS ['STPC_MAX_SUM'] = "Máximo pago permitido:";
+$MESS ['STPC_SUM_CURR'] = "Moneda de pago:";
+$MESS ['STPC_SAVE'] = "Guardar";
+$MESS ['STPC_APPLY'] = "Aplicar";
+$MESS ['STPC_CANCEL'] = "Cancelar";
+$MESS ['STPC_NO_AUTH'] = "USted debe ingresar al sistema para ver la imnformación de la tarjeta de credito";
+$MESS ['STPC_NO_CARD'] = "No puede encontrar la tarjeta de crédito ";
+$MESS ['STPC_EMPTY_PAY_SYS'] = "El campo \"Sistema de pago\" está vacío";
+$MESS ['STPC_EMPTY_CARD_TYPE'] = "El campo \"Tipo de tarjeta de crédito\" está vacío";
+$MESS ['STPC_EMPTY_CARDNUM'] = "El campo \"Tnúmero de tarjeta de crédito\" está vacío";
+$MESS ['STPC_WRONG_CARDNUM'] = "El número de la tarjeta de crédito es inválido";
+$MESS ['STPC_WRONG_MONTH'] = "El mes de expiración de la tarjeta de crédito es inválido";
+$MESS ['STPC_WRONG_YEAR'] = "El año de expiración de la tarjeta de crédito es inválido";
+$MESS ['STPC_EMPTY_BCURRENCY'] = "La moneda usada en la tarjeta de crédito no se especifica";
+$MESS ['STPC_ERROR_SAVING_CARD'] = "Error al guardar tarjeta de crédito";
+?>

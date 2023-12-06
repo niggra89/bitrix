@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_SECTION_TITLE'] = "Ubicaciones";
+$MESS ['SALE_F_FILTER'] = "Filtro";
+$MESS ['SALE_F_COUNTRY'] = "País";
+$MESS ['SALE_ALL'] = "(todo)";
+$MESS ['SALE_F_CITY'] = "Ciudad";
+$MESS ['SALE_F_SUBMIT'] = "Fijar filtro";
+$MESS ['SALE_F_DEL'] = "Remover filtro";
+$MESS ['SALE_ADD'] = "Agregar";
+$MESS ['SALE_COUNTRY'] = "País";
+$MESS ['SALE_CITY'] = "Ciudad";
+$MESS ['SALE_SORT'] = "Clasi.";
+$MESS ['SALE_ACTION'] = "Acciones";
+$MESS ['SALE_EDIT'] = "Modificado";
+$MESS ['SALE_CONFIRM_DEL_MESSAGE'] = "¿está seguro que desea eliminar esta ubicación?";
+$MESS ['SALE_DELETE'] = "Eliminar";
+$MESS ['SALE_PRLIST'] = "Ubicaciones";
+$MESS ['ERROR_DELETING'] = "Error mienttras se eliminaba";
+$MESS ['SALE_EDIT_DESCR'] = "Modificar preferencias de ubicaciones";
+$MESS ['SALE_DELETE_DESCR'] = "Eliminar ubicación";
+$MESS ['NO_LOC_FILE'] = "Archivo de datos de ubicaciones no cargado";
+$MESS ['ERROR_LOC_FORMAT'] = "Formato del archivo de ubicaciones equivicado: el idioma principal no se ha fijado";
+$MESS ['OMLOADED1'] = "Cagado";
+$MESS ['OMLOADED2'] = "paises";
+$MESS ['OMLOADED3'] = "ciudades";
+$MESS ['OMLOADED4'] = "Ubicaciones creadas";
+$MESS ['LOCA_LOADING'] = "Cargando ubicaciones";
+$MESS ['LOCA_FILE'] = "Archivo";
+$MESS ['LOCA_DO_LOAD'] = "Cargar";
+$MESS ['SLAN_ADD_NEW'] = "Agregar nueva ubicación";
+$MESS ['SLAN_ADD_NEW_ALT'] = "Click para agregar una nueva ubicación";
+$MESS ['NO_MAIN_LANG'] = "El idioma principal desde archivo de ubicación no se ha fijado en el sitio";
+$MESS ['LOCA_DEL_OLD'] = "Limpiar ubicaciónes del sitio antes de descargar";
+$MESS ['LA_NOTES'] = "USted puede descargar los archivos de ubicación desde <a href=\"http://www.bitrixsoft.com\" target=\"_blank\">http://www.bitrixsoft.com</a>";
+?>

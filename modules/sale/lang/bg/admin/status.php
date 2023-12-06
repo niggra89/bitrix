@@ -1,0 +1,30 @@
+<?
+$MESS ['STATUS_TITLE'] = "Статуси на поръчката";
+$MESS ['ERROR_DELETE'] = "Грешка при изтриването на статуса";
+$MESS ['STATUS_DEL_CONF'] = "Сигурни ли сте, че искате да изтриете този статус? Ако има поръчки с този статус, няма да бъде премахнат.";
+$MESS ['STATUS_NAV'] = "Статуси";
+$MESS ['STATUS_ID'] = "Код";
+$MESS ['STATUS_SORT'] = "Сорт.";
+$MESS ['STATUS_UPD'] = "Запиши";
+$MESS ['STATUS_RESET'] = "Отмени";
+$MESS ['STATUS_F_DESCR'] = "Описание:";
+$MESS ['STATUS_F_NAME'] = "Име:";
+$MESS ['ERROR_ADD_REC'] = "Грешка при добавянето на статуса";
+$MESS ['ERROR_EMPTY_NAME1'] = "Моля, задайте име на статуса";
+$MESS ['ERROR_EMPTY_NAME2'] = "за езика";
+$MESS ['ERROR_UPDATE_REC'] = "Грешка при актуализирането на статуса";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "Моля, задайте име на новия статус за езика";
+$MESS ['ERROR_ADD_NEW_REC'] = "Грешка при добавянето на нов статус";
+$MESS ['STATUS_DEL'] = "Премахни";
+$MESS ['ERROR_DEL_STATUS'] = "Грешка при изтриването на статуса.";
+$MESS ['SALE_ADD_STATUS'] = "Добави";
+$MESS ['SALE_NAME'] = "Име";
+$MESS ['SALE_ACTIONS'] = "Действия";
+$MESS ['SALE_EDIT_DESCR'] = "Промяна на настройките за статуса ";
+$MESS ['SALE_EDIT'] = "Промени";
+$MESS ['SALE_DELETE_DESCR'] = "Премахни статуса";
+$MESS ['SALE_NOTES1'] = "<b>N</b> - начален статус, в който е поръчката при нейното създаване. Този статут не може да се премахва. ";
+$MESS ['SALE_NOTES2'] = "<b>F</b> - финален статус, в който поръчката се приема за изпълнена. Този статус не може да се премахва. ";
+$MESS ['SSAN_ADD_NEW'] = "Нов статус";
+$MESS ['SSAN_ADD_NEW_ALT'] = "Натиснете за да добавите нов статус";
+?>

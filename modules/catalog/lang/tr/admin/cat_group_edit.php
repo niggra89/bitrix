@@ -1,0 +1,32 @@
+<?
+$MESS ['CAT_EDIT_RECORD'] = "# #ID# fiyat türlerin düzenlenmesi";
+$MESS ['CAT_NEW_RECORD'] = "Yeni fiyat türü";
+$MESS ['CAT_RECORDS_LIST'] = "Fiyat türleri";
+$MESS ['NAME'] = "Adı";
+$MESS ['CODE'] = "Kodu:";
+$MESS ['CAT_GROUPS'] = "Bu fiyat türünü incelemeye hakkı olan kullanıcı grupları:";
+$MESS ['CAT_GROUPS_BUY'] = "Bu   fiyat türüne göre alışveriş yapmaya hakkı olan kullanıcı grupları:";
+$MESS ['CAT_SAVE'] = "Kaydet";
+$MESS ['CAT_ADD'] = "Ekle";
+$MESS ['CAT_APPLY'] = "Uygula";
+$MESS ['CAT_RESET'] = "Sıfırla";
+$MESS ['CAT_NEW'] = "Yeni fiyat türü ekle";
+$MESS ['BASE'] = "Baz:";
+$MESS ['BASE_COMMENT'] = "Sadece bir adet baz fiyat türü mümkündür.Bu bayrağın anlamını ayarlarsanız, geçerli baz fiyatından otomatik olarak kaldırılacaktır. ";
+$MESS ['BASE_COMMENT_Y'] = "En az bir baz fiyat türü olmalıdır. Eğer baz türünü değiştirmek isyorsanız, baz yapmak istediğiniz fiyat türüne bayrağı ayarlayınız. ";
+$MESS ['BASE_YES'] = "Evet";
+$MESS ['BASE_NO'] = "Hayır";
+$MESS ['SORT'] = "Sıralama (1-255):";
+$MESS ['ERROR_EMPTY_NAME'] = "Fiyat türü kodunu giriniz.";
+$MESS ['ERROR_EMPTY_GROUP'] = "Bu türfiyatı incelemeye hakkı olan en az bir kullanıcı grubunu seçiniz. ";
+$MESS ['ERROR_EMPTY_GROUP_BUY'] = "Bu fiyat türüne göre alışveriş yapmaya hakkı olan en az bir kullanıcı grubu seçiniz. ";
+$MESS ['ERROR_UPDATING_TYPE'] = "Fiyat türün değiştirilmesinde hata oluştu.";
+$MESS ['ERROR_ADDING_TYPE'] = "Fiyat türün eklenmesinde hata oluştu.";
+$MESS ['CAT_RF_PROPS'] = "Parametreler";
+$MESS ['CGEN_2FLIST'] = "Fiyat türü listesi";
+$MESS ['CGEN_NEW_GROUP'] = "Yeni fiyat türünü ekle";
+$MESS ['CGEN_DELETE_GROUP'] = "Fiyat türünü sil";
+$MESS ['CGEN_DELETE_GROUP_CONFIRM'] = "Bu fiyat türünü silmek istediğinizden eminmisiniz?";
+$MESS ['CGEN_TAB_GROUP'] = "Fiyat türü";
+$MESS ['CGEN_TAB_GROUP_DESCR'] = "Fiyat türü parametreleri";
+?>

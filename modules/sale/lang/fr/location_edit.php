@@ -1,0 +1,34 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Révisez l'endroit #ID#";
+$MESS ['SALE_NEW_RECORD'] = "Nouvel endroit";
+$MESS ['SALE_RECORDS_LIST'] = "Endroits";
+$MESS ['F_COUNTRY'] = "Pays";
+$MESS ['NEW_COUNTRY'] = "< Nouveau pays >";
+$MESS ['F_OR'] = "OU";
+$MESS ['SALE_SAVE'] = "Sauver";
+$MESS ['SALE_ADD'] = "Ajouter";
+$MESS ['SALE_APPLY'] = "Faire une demande";
+$MESS ['SALE_RESET'] = "Remise";
+$MESS ['ERROR_SELECT_COUNTRY'] = "Choisissez s'il vous plaît le pays pour modifier ou entrer un nouveau en quittant la boîte \"Révisent le pays actuel\" incontrôlé.";
+$MESS ['ERROR_COUNTRY_NAME'] = "Pays : plein nom du pays non spécifié.";
+$MESS ['ERROR_COUNTRY_NAME_LANG'] = "Pays : le plein nom du pays non spécifié dans la langue";
+$MESS ['ERROR_CITY_NAME'] = "Ville : plein nom de la ville non spécifié.";
+$MESS ['ERROR_CITY_NAME_LANG'] = "Ville : le plein nom de la ville non spécifié dans la langue";
+$MESS ['ERROR_EDIT_LOCAT'] = "Erreur modifiant l'endroit.";
+$MESS ['ERROR_ADD_LOCAT'] = "Erreur ajoutant l'endroit.";
+$MESS ['SALE_NEW'] = "Nouveau";
+$MESS ['SALE_SORT'] = "Tri de l'index";
+$MESS ['SALE_NEW_CNTR'] = "Nouveau pays";
+$MESS ['SALE_CHANGE_CNTR'] = "Révisez le pays actuel";
+$MESS ['SALE_FULL_NAME'] = "Nom entier";
+$MESS ['SALE_SHORT_NAME'] = "Nom court";
+$MESS ['SALE_CITY'] = "Ville";
+$MESS ['SALE_WITHOUT_CITY'] = "Aucune ville";
+$MESS ['SALE_PT_PROPS'] = "Paramètres";
+$MESS ['SLN_2FLIST'] = "Liste d'endroit";
+$MESS ['SLN_NEW_LOCATION'] = "Ajoutez un nouvel endroit";
+$MESS ['SLN_DELETE_LOCATION'] = "Effacez l'endroit";
+$MESS ['SLN_DELETE_LOCATION_CONFIRM'] = "Êtes-vous sûrs que vous voulez effacer cet endroit ?";
+$MESS ['SLN_TAB_LOCATION'] = "Endroit";
+$MESS ['SLN_TAB_LOCATION_DESCR'] = "Paramètres d'endroit";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS ['subscr_title_edit'] = "Редактиране на адреса #";
+$MESS ['subscr_title_add'] = "Добавяне на адрес";
+$MESS ['subscr_list'] = "Списък на адресите";
+$MESS ['subscr_conf'] = "Абонамента е потвърден:";
+$MESS ['subscr_conf_code'] = "Код за потвърждаване на абонамента:";
+$MESS ['subscr_date_conf'] = "Дата на генериране на кода за потвърждение:";
+$MESS ['subscr_user'] = "Потребител (ID):";
+$MESS ['subscr_active'] = "Абонамента е активен:";
+$MESS ['subscr_send_conf'] = "Изпрати на абоната код за потвърждение, при промяна (добавяне) на адрес:";
+$MESS ['subscr_rub'] = "Рубрики на абонамента:";
+$MESS ['subscr_fmt'] = "Формат:";
+$MESS ['subscr_fmt_text'] = "Текст";
+$MESS ['subscr_date_add'] = "Създадено:";
+$MESS ['subscr_date_upd'] = "Променено:";
+$MESS ['subscr_anonym'] = "Анонимен абонат:";
+$MESS ['subscr_mnu_add'] = "Добави нов абонат";
+$MESS ['subscr_mnu_del'] = "Премахни този абонат";
+$MESS ['subscr_mnu_del_conf'] = "Да се премахни ли този адрес на абонамента?";
+$MESS ['subscr_templ'] = "Изпрати писмо върху основата на шаблона на сайта:";
+$MESS ['subscr_tab_subscriber'] = "Абонат";
+$MESS ['subscr_tab_subscriber_title'] = "Параметри на абонамента";
+$MESS ['subscr_tab_subscription'] = "Абонамент";
+$MESS ['subscr_tab_subscription_title'] = "Рубрики на абонамента:";
+$MESS ['subs_save_error'] = "Грешка при записа на адреса.";
+$MESS ['subscr_list_text'] = "Списък";
+$MESS ['subscr_add_text'] = "Добави";
+$MESS ['subscr_del_text'] = "Премахни";
+$MESS ['subs_saved'] = "Адреса на абонамента е успешно записан.";
+?>

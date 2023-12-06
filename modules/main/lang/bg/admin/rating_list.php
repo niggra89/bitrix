@@ -1,0 +1,32 @@
+<?
+$MESS["MAIN_RATING_LIST"] = "Рейтинги";
+$MESS["RATING_NAME"] = "Име";
+$MESS["RATING_CREATED"] = "Създаден";
+$MESS["RATING_LAST_MODIFIED"] = "Редактиран";
+$MESS["RATING_LAST_CALCULATED"] = "Изчислен";
+$MESS["RATING_ACTIVE"] = "Активен";
+$MESS["RATING_STATUS"] = "Статус";
+$MESS["RATING_ENTITY_ID"] = "Принадлежи";
+$MESS["RATING_LIST_NAV"] = "Рейтинги";
+$MESS["RATING_ACTIVE_YES"] = "Да";
+$MESS["RATING_ACTIVE_NO"] = "Не";
+$MESS["RATING_STATUS_DONE"] = "изчислен";
+$MESS["RATING_STATUS_WORKING"] = "изпълнява се обновяване";
+$MESS["RATING_STATUS_WAITING"] = "очаква обновяване";
+$MESS["RATING_LIST_EDIT"] = "Редактирай параметрите на рейтинга";
+$MESS["RATING_LIST_RECALCULATE"] = "Изчисляване на рейтинга";
+$MESS["RATING_LIST_DEL"] = "Премахни рейтинга";
+$MESS["RATING_LIST_DEL_CONF"] = "Да се изтрие ли рейтинга?";
+$MESS["RATING_LIST_ADD"] = "Нов рейтинг";
+$MESS["RATING_LIST_ADD_TITLE"] = "Добави нов рейтинг";
+$MESS["RATING_LIST_FLT_NAME"] = "Име";
+$MESS["RATING_LIST_FLT_ACTIVE"] = "активни";
+$MESS["RATING_LIST_FLT_ID"] = "ID";
+$MESS["RATING_LIST_FLT_ENTITY_ID"] = "Принадлежност";
+$MESS["RATING_LIST_FLT_find"] = "Търси:";
+$MESS["RATING_LIST_FLT_ALL"] = "(всички)";
+$MESS["RATING_LIST_FLT_INACTIVE"] = "неактивните";
+$MESS["RATING_LIST_ERR_EDIT"] = "Грешка при редактирането на рейтинга";
+$MESS["RATING_LIST_ERR_DEL"] = "Грешка при изтриването на рейтинга";
+$MESS["RATING_LIST_ERR_CAL"] = "Грешка при изчисляването на рейтинга";
+?>

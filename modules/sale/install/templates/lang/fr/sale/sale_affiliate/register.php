@@ -1,0 +1,37 @@
+<?
+$MESS ['SPCR1_ON_LOGIN'] = "Erreur lors de l'autorisation d'un utilisateur enregistré: entrez le login";
+$MESS ['SPCR1_ERR_REG'] = "Erreur lors de l'autorisation d'un utilisateur enregistré";
+$MESS ['SPCR1_NO_NAME'] = "Erreur registring un nouvel utilisateur: Entrez votre prénom";
+$MESS ['SPCR1_NO_LASTNAME'] = "Erreur registring un nouvel utilisateur: Entrez votre nom de famille";
+$MESS ['SPCR1_NO_EMAIL'] = "Erreur registring un nouvel utilisateur: Entrez votre adresse e-mail";
+$MESS ['SPCR1_BAD_EMAIL'] = "Erreur registring un nouvel utilisateur: vérifier votre adresse e-mail";
+$MESS ['SPCR1_NO_LOGIN'] = "Erreur registring un nouvel utilisateur: choisir les informations de connexion";
+$MESS ['SPCR1_NO_PASSWORD'] = "Erreur registring un nouvel utilisateur: Choisissez le mot de passe";
+$MESS ['SPCR1_NO_PASSWORD_CONF'] = "Erreur registring un nouvel utilisateur: Confirmer le mot de passe";
+$MESS ['SPCR1_NO_CONF'] = "Erreur registring un nouvel utilisateur: mot de passe de confirmation ne correspond pas au mot de passe";
+$MESS ['SPCR1_ERR_REGISTER'] = "Erreur registring un nouvel utilisateur";
+$MESS ['SPCR1_UNACTIVE_AFF'] = "Vous êtes inscrit la filiale, mais votre compte est inactif. S'il vous plaît contacter l'administration pour plus d'informations";
+$MESS ['SPCR1_REGISTER_AFF'] = "Affiliate enregistrement";
+$MESS ['SPCR1_NO_AGREE'] = "Vous devez accepter les conditions pour poursuivre l'enregistrement";
+$MESS ['SPCR1_NO_SITE'] = "Votre site";
+$MESS ['SPCR1_NO_DESCR'] = "Description de votre site";
+$MESS ['SPCR1_NO_PLANS'] = "Pas de commission affiliation active plans existent. S'il vous plaît contacter l'administration";
+$MESS ['SPCR1_ERR_AFF'] = "Erreur lors de l'inscription affilié";
+$MESS ['SPCR1_IF_REG'] = "Déjà inscrit";
+$MESS ['SPCR1_IF_NOT_REG'] = "Non enregistré";
+$MESS ['SPCR1_IF_REMEMBER'] = "S'il vous plaît entrer votre login et mot de passe:";
+$MESS ['SPCR1_LOGIN'] = "Ouverture de session";
+$MESS ['SPCR1_PASSWORD'] = "Mot de passe";
+$MESS ['SPCR1_FORG_PASSWORD'] = "A oublié le mot de passe?";
+$MESS ['SPCR1_NEXT'] = "Continuer";
+$MESS ['SPCR1_NAME'] = "Nom";
+$MESS ['SPCR1_LASTNAME'] = "Nom de famille";
+$MESS ['SPCR1_PASS_CONF'] = "Confirmer le mot de passe";
+$MESS ['SPCR1_CAPTCHA'] = "Enregistrement automatisé de prévention";
+$MESS ['SPCR1_CAPTCHA_WRD'] = "Entrez le mot sur image:";
+$MESS ['SPCR1_SITE_URL'] = "URL de votre site:";
+$MESS ['SPCR1_SITE_DESCR'] = "Description de votre site:";
+$MESS ['SPCR1_I_AGREE'] = "Je suis d'accord avec les termes de l'accord d'affiliation";
+$MESS ['SPCR1_REGISTER'] = "Registre";
+$MESS ['SPCR1_NO_SHOP'] = "le magasin  n'est pas installé";
+?>

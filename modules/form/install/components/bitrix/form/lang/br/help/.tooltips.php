@@ -1,0 +1,34 @@
+<?
+$MESS["SEF_MODE_TIP"] = "Marcar esta opção ativa o modo SEF.";
+$MESS["WEB_FORM_ID_TIP"] = "A lista suspensa contém todos os formulários da web atualmente existentes. Alternativamente, você pode selecionar <i>outro</i> para usar uma ID de formulário externa passada via _REQUEST.";
+$MESS["RESULT_ID_TIP"] = "Por padrão, contém <i>={\$_REQUEST[\"RESULT_ID\"]}</i>. Este campo pode conter qualquer outro código PHP que avalia RESULT_ID.";
+$MESS["START_PAGE_TIP"] = "Se você escolher <i>Lista de resultados</i>, a página principal apresentará uma lista de resultados de um dado formulário web. <br />Se você escolher<i>Página de criação de resultado</i>, um visitante verá o formulário web selecionado.";
+$MESS["SHOW_LIST_PAGE_TIP"] = "Se você escolher <i>Página de criação de resultado</i> como a página principal, marcar essa opção vai abrir a página de resultado formulário web quando um visitante completa e salva o formulário web.";
+$MESS["SHOW_EDIT_PAGE_TIP"] = "Se esta opção estiver ativa, um link <i>Editar</i> será exibido ao lado do resultado.";
+$MESS["SHOW_VIEW_PAGE_TIP"] = "Se esta opção estiver ativa, um link de visualização de resultado será exibido em uma página de resultados do formulário web.";
+$MESS["SUCCESS_URL_TIP"] = "Caminho para uma página que contém uma mensagem que informa o visitante sobre a conclusão bem sucedida de um formulário web. Usado se um resultado de formulário web é criado por um visitante que não tenha permissão para editar o resultado. Você pode deixar este campo em branco, o que irá exibir uma mensagem padrão.";
+$MESS["SHOW_ANSWER_VALUE_TIP"] = "Marcar esta opção exibirá o valor do parâmetro<b>ANSWER_VALUE</b> do formulário web.";
+$MESS["SHOW_ADDITIONAL_TIP"] = "Marcar esta opção irá exibir campos de formulário adicionais web, se houver.";
+$MESS["SHOW_STATUS_TIP"] = "Marcar esta opção irá exibir o status atual de resultado em uma página de revisão de resultado.";
+$MESS["EDIT_ADDITIONAL_TIP"] = "Marcar esta opção irá exibir os campos de entrada de texto adicionais.";
+$MESS["EDIT_STATUS_TIP"] = "Se a opção <i>Mostrar status de resultado atual</i> está ativo, o modo de alteração de status é exibido. Desmarcar esta opção exibirá informações sobre o status do resultado atual.";
+$MESS["NOT_SHOW_FILTER_TIP"] = "Marque esta opção para ocultar os campos do formulário que não devem ser exibidos no filtro na página de resumo de resultado.";
+$MESS["NOT_SHOW_TABLE_TIP"] = "Marque esta opção para ocultar os campos do formulário que não devem ser exibidos na tabela de resumo de resultado.";
+$MESS["CHAIN_ITEM_TEXT_TIP"] = "Aqui você pode especificar o título do item de navegação em cadeia. Por exemplo: <b>Novo Formulário</b>.";
+$MESS["CHAIN_ITEM_LINK_TIP"] = "Especifica o link do item adicional da cadeia de navegação. Por examplo: <b>/minhapasta/</b>.";
+$MESS["CACHE_TYPE_TIP"] = "<i>Auto</i>: o cache é válido durante o tempo pré-definido nas configurações de cache; <br /> <i>Cache</i>: fazer cache sempre para o período especificado no campo seguinte; <br /> <i> Não fazer cache </ i>: nenhum cache foi executado.";
+$MESS["CACHE_TIME_TIP"] = "Especifique aqui o período de tempo durante o qual o cache é válido.";
+$MESS["VARIABLE_ALIASES_action_TIP"] = "Especifica o nome de uma variável em que o nome da ação será passado. A ação \"editar\" muda para a edição do resultado; \"lista\" abre uma página com a lista de resultados.";
+$MESS["SEF_FOLDER_TIP"] = "O caminho para um diretório componente de trabalho. O caminho pode existir ou ele pode ser virtual.";
+$MESS["SEF_URL_TEMPLATES_list_TIP"] = "Se você escolher <i>Lista de resultados</i> como a página principal, você pode deixar este campo vazio. Caso contrário, especifique aqui o nome da pasta (por exemplo, <b>lista/</b>) que será anexado a uma pasta SEF quando um visitante abre uma página que contém uma lista de resultados.";
+$MESS["SEF_URL_TEMPLATES_new_TIP"] = "Se você escolher uma página de criação de resultado como a página principal, você pode deixar este campo vazio. Caso contrário, especifique aqui o nome da pasta (por exemplo, <b>novo/</ b>).";
+$MESS["SEF_URL_TEMPLATES_edit_TIP"] = "Especifica o nome da pasta que contém o ID do resultado do formulário web. Por exemplo: <b>edit/#RESULT_ID#/</b>.";
+$MESS["SEF_URL_TEMPLATES_view_TIP"] = "Especifica o caminho de uma página de visualização do resultado do formulário web. O nome da pasta deve conter o ID do resultado do formulário web. Por exemplo: <b>view/#RESULT_ID#/</b>.";
+$MESS["IGNORE_CUSTOM_TEMPLATE_TIP"] = "Se selecionado, o modelo de formulário padrão será utilizado.";
+$MESS["AJAX_MODE_TIP"] = "Permite AJAX no componente.";
+$MESS["USE_EXTENDED_ERRORS_TIP"] = "Se selecionado, as mensagens de erro serão mostrados, os campos incorretos serão destacados.";
+$MESS["AJAX_OPTION_SHADOW_TIP"] = "Especifica para sombrear área modificável na transição AJAX.";
+$MESS["AJAX_OPTION_JUMP_TIP"] = "Especifica para se deslocar para a transição do componente quando transição AJAX conclui.";
+$MESS["AJAX_OPTION_STYLE_TIP"] = "Especifica para baixar e processar estilos de componente CSS em transição AJAX.";
+$MESS["AJAX_OPTION_HISTORY_TIP"] = "Permite botões \"Voltar\" e \"Avançar\" no navegador para transições AJAX.";
+?>

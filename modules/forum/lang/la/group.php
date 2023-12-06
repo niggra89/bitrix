@@ -1,0 +1,29 @@
+<?
+$MESS ['GROUP_TITLE'] = "Grupos de foros";
+$MESS ['ERROR_DELETE'] = "Error eliminando un gropo";
+$MESS ['GROUP_DEL_CONF'] = "¿Está seguro que desea eliminar este grupo? Si hay algún foro en este grupo entonces no se eliminará el grupo";
+$MESS ['GROUP_NAV'] = "Grupos";
+$MESS ['GROUP_ID'] = "ID";
+$MESS ['GROUP_SORT'] = "Orden";
+$MESS ['GROUP_UPD'] = "Guardar";
+$MESS ['GROUP_RESET'] = "Cancelar";
+$MESS ['GROUP_F_DESCR'] = "Descripción:";
+$MESS ['GROUP_F_NAME'] = "Nombre:";
+$MESS ['ERROR_ADD_REC'] = "Error al agregar un grupo";
+$MESS ['ERROR_UPDATE_REC'] = "Error al actualizar un grupo";
+$MESS ['GROUP_DEL'] = "Eliminar";
+$MESS ['ERROR_DEL_GROUP'] = "Error al eliminar el grupo.";
+$MESS ['FORUM_ADD_GROUP'] = "Agregar un nuevo grupo";
+$MESS ['FORUM_NAME'] = "Nombre";
+$MESS ['FORUM_ACTIONS'] = "Acciones";
+$MESS ['FORUM_EDIT_DESCR'] = "Modificar configuración de griupo";
+$MESS ['FORUM_EDIT'] = "Modifcar";
+$MESS ['FORUM_DELETE_DESCR'] = "Eliminar grupo";
+$MESS ['FG_SUCCESS_DEL'] = "Grupo de foro eliminado con éxito";
+$MESS ['ERROR_EMPTY_NAME1'] = "Por favor especifique el nombre del grupo";
+$MESS ['ERROR_EMPTY_NAME2'] = "por idioma";
+$MESS ['ERROR_EMPTY_NEW_NAME'] = "Especifique el nomnbre del nuevo grupo para el idioma";
+$MESS ['ERROR_ADD_NEW_REC'] = "Error al agregar un nuvo grupo";
+$MESS ['FGAN_ADD_NEW'] = "Nuevo grupo de foros";
+$MESS ['FGAN_ADD_NEW_ALT'] = "Clicka pra agregar un nuevo grupo de foros";
+?>

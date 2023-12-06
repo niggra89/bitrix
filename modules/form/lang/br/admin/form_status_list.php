@@ -1,0 +1,31 @@
+<?
+$MESS["FORM_FORM_LIST"] = "Lista de formulários";
+$MESS["FORM_NOT_FOUND"] = "Formulário web não encontrado";
+$MESS["FORM_ERROR"] = "Erro!";
+$MESS["FORM_STATUS_DELETE_ERROR"] = "Erro ao excluir status";
+$MESS["FORM_STATUS_ACTIVE_ERROR"] = "Erro de ativação/desativação de status";
+$MESS["FORM_PAGE_TITLE"] = "Lista de status para os resultados de formulário # #ID#";
+$MESS["FORM_FORM_EDIT"] = "Parâmetros do formulário";
+$MESS["FORM_EDIT_ALT"] = "Mudar parâmetros de status";
+$MESS["FORM_FORM_NAME"] = "Formulário:";
+$MESS["FORM_F_ACTIVE"] = "Ativo:";
+$MESS["FORM_F_TITLE"] = "Título:";
+$MESS["FORM_F_DESCRIPTION"] = "Descrição:";
+$MESS["FORM_F_RESULTS"] = "Resultados:";
+$MESS["FORM_PAGES"] = "Status";
+$MESS["FORM_TIMESTAMP"] = "Modificado";
+$MESS["FORM_C_SORT"] = "Ordenar.";
+$MESS["FORM_DESCRIPTION"] = "Descrição";
+$MESS["FORM_DELETE_STATUS_CONFIRM"] = "Tem certeza de que quer excluir este status?";
+$MESS["FORM_DEFAULT"] = "Padrão";
+$MESS["FORM_COPY_ALT"] = "Copiar status";
+$MESS["FORM_COPY"] = "Copiar";
+$MESS["FORM_RESULT_TITLE"] = "Abrir resultados de formulário";
+$MESS["FORM_FL_ID"] = "ID do status";
+$MESS["FORM_FL_ACTIVE"] = "Ativo";
+$MESS["FORM_FL_DESCR"] = "Descrição";
+$MESS["FORM_FL_RESULTS"] = "Contagem de resultados";
+$MESS["FORM_FORM_EDIT_TITLE"] = "Modificar parâmetros de formulário";
+$MESS["FORM_STATUS_DELETE"] = "Excluir";
+$MESS["FORM_STATUS_DELETE_ALT"] = "Excluir status";
+?>

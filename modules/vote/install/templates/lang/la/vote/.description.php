@@ -1,0 +1,30 @@
+<?
+$MESS ['VOTE_TEMPLATE_SECTION_NAME'] = "Encuestas y votación ";
+$MESS ['VOTE_CHANNEL_SID'] = "Canal de encuesta";
+$MESS ['VOTE_POLL_ID'] = "ID de la Encuesta";
+$MESS ['VOTE_REDIRECT_PAGE'] = "Pagina de redirección después de completar el formulario";
+$MESS ['VOTE_EMPTY_FORM_PAGE'] = "Pagina usada para mostrar el formulario vacio de la encuesta";
+$MESS ['VOTE_NEW_NAME'] = "Formulario de la encuesta";
+$MESS ['VOTE_RESULT_PAGE'] = "Página usada para mostrar los diagramas de resultados";
+$MESS ['VOTE_NEW_DECSRIPTION'] = "Componentes usuados para mostrar los formularios de encuestas";
+$MESS ['VOTE_NEW_DEFAULT_TEMPLATE_NAME'] = "Mostrar un formulario de encuestas";
+$MESS ['VOTE_NEW_DEFAULT_TEMPLATE_DESCRIPTION'] = "Mostrar un formulario vacio para ser completado";
+$MESS ['VOTE_RESULT_NAME'] = "Resultados de encuesta";
+$MESS ['VOTE_RESULT_DESCRIPTION'] = "Diagrama usado para mostrar los resutados de las encuestas";
+$MESS ['VOTE_RESULT_DEFAULT_TEMPLATE_NAME'] = "Resultados de encuesta";
+$MESS ['VOTE_RESULT_DEFAULT_TEMPLATE_DESCRIPTION'] = "Mostrar diaagramazs con lso resultados de las encuestas";
+$MESS ['VOTE_RESULT_MAIN_PAGE_TEMPLATE_NAME'] = "Resultados de las encuestas (sin descripción, formulario con borde delgado)";
+$MESS ['VOTE_LIST_NAME'] = "Lista de encuestas";
+$MESS ['VOTE_LIST_DESCRIPTION'] = "Mostrar una lista de encuestas";
+$MESS ['VOTE_LIST_DEFAULT_TEMPLATE_NAME'] = "Lista de encuestas";
+$MESS ['VOTE_LIST_DEFAULT_TEMPLATE_DESCRIPTION'] = "Mostar uan lista de encuestas";
+$MESS ['VOTE_TEMPLATE_FOR_QUESTION'] = "Componentes para pregunta \"#QUESTION#\"";
+$MESS ['VOTE_BY_DEFAULT'] = "<por defecto>";
+$MESS ['VOTE_NEW_MAIN_PAGE_TEMPLATE_NAME'] = "Mostrar un formulario de encuestas (sin descripción, formulario con el borde delgado)";
+$MESS ['VOTE_NEW_MAIN_PAGE_TEMPLATE_DESCRIPTION'] = "Mostrar un formulario vacio de la encuesta para completarlo (sin descripción de la encuesta, y formulario con los bordes delgados)";
+$MESS ['VOTE_RESULT_MAIN_PAGE_TEMPLATE_DESCRIPTION'] = "Mostrar diagramas con los resultados de las encuestas (sin descrioción, fomulario con el borde delgado)";
+$MESS ['VOTE_RESULT_BORDER_TEMPLATE_NAME'] = "Resultados de encuestas (sin descrioción, fomulario con el borde delgado)";
+$MESS ['VOTE_RESULT_BORDER_TEMPLATE_DESCRIPTION'] = "Mostrar diagramas con los resultados de las encuestas (con la descripción de la encuesta y formulario con borde delgado";
+$MESS ['VOTE_CURRENT_CHANNEL_TEMPLATE_NAME'] = "Mostrar actual encuesta e indicar su canal";
+$MESS ['VOTE_CURRENT_CHANNEL_TEMPLATE_DESCRIPTION'] = "Mostrar un formulario de encuesta si el visitante no votó, o si los resultados de la actual encuesta se dan de otra manera";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS ['SALE_DH_RUSSIANPOST_NAME'] = "Rusya postası";
+$MESS ['SALE_DH_RUSSIANPOST_DESCRIPTION'] = "Posta teslimatı";
+$MESS ['SALE_DH_RUSSIANPOST_GROUND_TITLE'] = "kara teslimatı";
+$MESS ['SALE_DH_RUSSIANPOST_AVIA_TITLE'] = "havayolu teslimatı";
+$MESS ['SALE_DH_RUSSIANPOST_COMB_TITLE'] = "kombine teslimat";
+$MESS ['SALE_DH_RUSSIANPOST_RAPID_TITLE'] = "hızlandırılmış teslimat";
+$MESS ['SALE_DH_RUSSIANPOST_DESCRIPTION_INNER'] = "Rusya postası teslimat servisi işleyicisi. - <a href=\"http://fcr.russianpost.ru/autotarif/SelautotarifRus.aspx\" target=\"_blank\"> iç gönderim trafikatörü  </a> ? <a href=\"http://fcr.russianpost.ru/autotarif/Selautotarif.aspx\" target=\"_blank\"> uluslararası ileti trafikatörü</a> servislerin online hesaplamaya dayanarak çalışmaktadır.  ???????? ? <a href=\"/bitrix/admin/settings.php?mid=sale&lang=ru\">modül ayarları</a> adresin yüklenmesi gerekmektedir. <br /> İşleyici sınırlamaları: sadece Moskova'dan teslimat.";
+$MESS ['SALE_DH_RUSSIANPOST_GROUND'] = "KARA";
+$MESS ['SALE_DH_RUSSIANPOST_AVIA'] = "HAVAYOLU";
+$MESS ['SALE_DH_RUSSIANPOST_COMB'] = "KOMBİNE.";
+$MESS ['SALE_DH_RUSSIANPOST_RAPID'] = "HIZLANDIRILMIŞ";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_42'] = "EMS belgeler ile";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_43'] = "EMS ürünler ile";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_44'] = "EMS iç";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_23'] = "Kayıtlı paket";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_52'] = "Kayıtlı paket 1 sınıf";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_12'] = "Kayıtlı kart";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_13'] = "Kayıtlı ileti";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_30'] = "Kayıtlı küçük paket";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_41'] = "Kayıtlı çuval '?'";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_50'] = "Kayıtlı ileti 1 sınıf";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_33'] = "Sıradan posta";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_26'] = "Deperli paket";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_53'] = "Değerli paket 1 sınıf";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_36'] = "Değerli posta paketi";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_16'] = "Değerli mektup";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_51'] = "Değerli mektup 1 sınıf";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY_54'] = "SEKOGRAMM";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_TITLE'] = "Parametreler";
+$MESS ['SALE_DH_RUSSIANPOST_CONFIG_CATEGORY'] = "Gönderim türü";
+$MESS ['SALE_DH_RUSSIANPOST_ERROR_CONNECT'] = "Teslimat maliyeti hesaplanamadı: bağlantı hata";
+$MESS ['SALE_DH_RUSSIANPOST_ERROR_RESPONSE'] = "Teslimat maliyeti hesaplanamadı: sunucu cevabı yanlış";
+$MESS ['SALE_DH_RUSSIANPOST_ERROR_NOZIP'] = "Teslimat maliyeti hesaplanamadı: konum dizini belirtilememiştir";
+?>

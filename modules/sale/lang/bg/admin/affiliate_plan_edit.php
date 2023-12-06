@@ -1,0 +1,34 @@
+<?
+$MESS ['SAPE1_NO_SITE'] = "Не е посочен сайт за плана";
+$MESS ['SAPE1_NO_NAME'] = "Не е посочено име за плана";
+$MESS ['SAPE1_NO_RATE_CURRENCY'] = "Не е посочен курса на валутата за плана";
+$MESS ['SAPE1_NO_SECTION'] = "Не е посочена продуктовата група";
+$MESS ['SAPE1_NO_MODULE'] = "Продуктовата група не е уточнена";
+$MESS ['SAPE1_ERROR_SAVE'] = "Грешка при записа на плана";
+$MESS ['SAPE1_ERROR_SAVE_SECTION'] = "Грешка при записа на продуктовата група";
+$MESS ['SAPE1_TITLE_UPDATE'] = "Редактиране на плана №#ID#";
+$MESS ['SAPE1_TITLE_ADD'] = "Нов план";
+$MESS ['SAPE1_LIST'] = "Планове";
+$MESS ['SAPE1_ADD'] = "Добави план";
+$MESS ['SAPE1_DELETE'] = "Премахни плана";
+$MESS ['SAPE1_DELETE_CONF'] = "Сигурни ли сте, че искате да изтриете този план?";
+$MESS ['SAPE1_PLAN'] = "План";
+$MESS ['SAPE1_PLAN_PARAM'] = "Параметри на плана";
+$MESS ['SAPE1_SECTIONS'] = "Продуктова група";
+$MESS ['SAPE1_SECTIONS_ALT'] = "Продуктова група със специални комисионни ";
+$MESS ['SAPE1_TIMESTAMP_X'] = "Дата на последната промяна:";
+$MESS ['SAPE1_SITE'] = "Сайт:";
+$MESS ['SAPE1_NAME'] = "Име на плана:";
+$MESS ['SAPE1_DESCR'] = "Описание плана:";
+$MESS ['SAPE1_ACTIVE'] = "Активни:";
+$MESS ['SAPE1_RATE'] = "Комисионни:";
+$MESS ['SAPE1_LIMIT'] = "Плана действа при продажбата на не по малко (бр.)";
+$MESS ['SAPE1_LIMIT_HINT'] = "Плана действа при продажбата на сума не по малка<br><small>В базова валута на сайта</small> ";
+$MESS ['SAPE1_NO'] = "(Не)";
+$MESS ['SAPE1_DELETE1'] = "Премахни";
+$MESS ['SAPE1_MODULE'] = "Модул";
+$MESS ['SAPE1_SECTION'] = "Група";
+$MESS ['SAPE1_RATE1'] = "Комисионни";
+$MESS ['SAPE1_ADD1'] = "Добави";
+$MESS ['SAPE1_DELETE1_CONF'] = "Сигурни ли сте, че искате да изтриете този запис?";
+?>

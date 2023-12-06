@@ -1,0 +1,34 @@
+<?
+$MESS ['FILEMAN_MENU_EDIT_DEF'] = "(varsayılan)";
+$MESS ['FILEMAN_MENU_EDIT_ENTER_TYPE'] = "Lütfen menü tipini girin!";
+$MESS ['FILEMAN_MENU_EDIT_EXISTS_ERROR'] = "Bu klasör zaten bu tip bir menü içeriyor!";
+$MESS ['FILEMAN_MENU_EDIT_TITLE'] = "Menüyü düzenle";
+$MESS ['FILEMAN_MENU_EDIT_TITLE_ADD'] = "Menü ekle";
+$MESS ['FILEMAN_MENU_EDIT_EXT'] = "Gelişmiş mod";
+$MESS ['FILEMAN_MENU_EDIT_SIMPLE'] = "Basit mod";
+$MESS ['FILEMAN_MENU_EDIT_AS_TEXT'] = "Dosya olarak düzenle";
+$MESS ['FILEMAN_MENU_EDIT_DELETE'] = "Menüyü sil";
+$MESS ['FILEMAN_MENU_EDIT_ADD_ITEM'] = "&gt";
+$MESS ['FILEMAN_MENU_EDIT_NAME'] = "Adı:";
+$MESS ['FILEMAN_MENU_EDIT_LINK'] = "Bağlantı";
+$MESS ['FILEMAN_MENU_EDIT_SORT'] = "Sıralama";
+$MESS ['FILEMAN_MENU_EDIT_DEL'] = "Sil";
+$MESS ['FILEMAN_MENU_EDIT_ADDITIONAL_LINK'] = "Vurgulanacak ek bağlantılar:";
+$MESS ['FILEMAN_MENU_EDIT_CONDITION'] = "Koşul:";
+$MESS ['FILEMAN_MENU_EDIT_CONDITION_TYPE'] = "Koşul tipi:";
+$MESS ['FILEMAN_MENU_EDIT_PARAMS'] = "Parametreler:";
+$MESS ['FILEMAN_MENU_EDIT_PARAM_NAME'] = "Adı";
+$MESS ['FILEMAN_MENU_EDIT_PARAM_VALUE'] = "Değer";
+$MESS ['FILEMAN_MENU_EDIT_TYPE'] = "Menü tipi:";
+$MESS ['FILEMAN_MENU_EDIT_TEMPLATE'] = "Menü şablonu:";
+$MESS ['FILEMAN_MENU_EDIT_LEFT_MENU'] = "Sol menü";
+$MESS ['FILEMAN_MENU_EDIT_TOP_MENU'] = "Üst menü";
+$MESS ['FILEMAN_MENU_EDIT_SAVE'] = "Kaydet";
+$MESS ['FILEMAN_MENU_EDIT_APPLY'] = "Uygula";
+$MESS ['FILEMAN_MENU_EDIT_RESET'] = "Sıfırla";
+$MESS ['FILEMAN_MENU_EDIT_ITEMS'] = "Menü öğeleri:";
+$MESS ['FILEMAN_BACK'] = "Klasör";
+$MESS ['FILEMAN_DEL_CONF'] = "Bu menüyü silmek istediğinizden emin misiniz?";
+$MESS ['FILEMAN_TAB1'] = "Menü";
+$MESS ['FILEMAN_TAB1_ALT'] = "Menü parametreleri";
+?>

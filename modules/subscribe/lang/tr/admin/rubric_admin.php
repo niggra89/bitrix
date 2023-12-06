@@ -1,0 +1,31 @@
+<?
+$MESS ['rub_title'] = "Bülten listesi";
+$MESS ['rub_del_err'] = "Bülteni silemezsiniz.";
+$MESS ['rub_nav'] = "Bültenler";
+$MESS ['rub_name'] = "Adı";
+$MESS ['rub_sort'] = "Sıralama.";
+$MESS ['rub_act'] = "Etkin.";
+$MESS ['rub_edit'] = "Değiştir";
+$MESS ['rub_del'] = "Sil";
+$MESS ['rub_site'] = "Site";
+$MESS ['rub_auto'] = "Otomatik.";
+$MESS ['rub_visible'] = "Yayın.";
+$MESS ['rub_last_exec'] = "Oluşturma";
+$MESS ['rub_check'] = "Şablonu kontrol et";
+$MESS ['rub_wrong_generation_from'] = "Filtre içerisinde \"den\" oluşturma tarihini doğru giriniz";
+$MESS ['rub_wrong_generation_till'] = "Filtre içerisinde \"kadar\" oluşturma tarihini doğru giriniz ";
+$MESS ['rub_wrong_generation_from_till'] = "kadar oluşturma tarihi \"den\" tarihinden daha fazla olmalıdır ";
+$MESS ['rub_save_error'] = "Kayıt değişikliğinde hata:";
+$MESS ['rub_no_rubric'] = "Konu bulunamadı";
+$MESS ['POST_ADD_TITLE'] = "Aboneliğin yeni konusunu eklemek için tıklatınız ";
+$MESS ['rub_f_site'] = "Site";
+$MESS ['rub_f_active'] = "Etkinlik  ";
+$MESS ['rub_f_public'] = "Ortak";
+$MESS ['rub_f_auto'] = "Otomatik";
+$MESS ['rub_f_find'] = "Bul";
+$MESS ['rub_f_find_title'] = "Arama için satır giriniz";
+$MESS ['rub_del_conf'] = "Kategori silinsin mi?";
+$MESS ['rub_f_name'] = "Adı";
+$MESS ['POST_U_YES'] = "Evet";
+$MESS ['POST_U_NO'] = "Hayır";
+?>

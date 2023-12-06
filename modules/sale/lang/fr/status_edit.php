@@ -1,0 +1,29 @@
+<?
+$MESS ['SALE_EDIT_RECORD'] = "Révisez le statut #ID#";
+$MESS ['SALE_NEW_RECORD'] = "Nouveau statut";
+$MESS ['SALE_RECORDS_LIST'] = "Statuts";
+$MESS ['SALE_SAVE'] = "Sauver";
+$MESS ['SALE_ADD'] = "Ajouter";
+$MESS ['SALE_APPLY'] = "Faire une demande";
+$MESS ['SALE_RESET'] = "Remise";
+$MESS ['ERROR_NO_CODE'] = "Mettez s'il vous plaît le code du nouveau statut.";
+$MESS ['ERROR_CODE_EXISTS1'] = "Le statut avec le code";
+$MESS ['ERROR_CODE_EXISTS2'] = "existe déjà.";
+$MESS ['ERROR_NO_NAME'] = "Le nom de statut n'est pas fourni à la langue";
+$MESS ['ERROR_EDIT_STATUS'] = "Erreur modifiant le statut.";
+$MESS ['ERROR_ADD_STATUS'] = "Erreur ajoutant un statut.";
+$MESS ['SALE_CODE'] = "Code";
+$MESS ['SALE_CODE_LEN'] = "lettre";
+$MESS ['SALE_SORT'] = "Tri de l'index";
+$MESS ['SALE_NAME'] = "Nom";
+$MESS ['SALE_DESCR'] = "Description";
+$MESS ['SALE_PT_PROPS'] = "Paramètres";
+$MESS ['SSE_CAN_SET'] = "Peut déplacer des ordres à ce statut :";
+$MESS ['SSE_CAN_UPDATE'] = "Peut réviser et sauver des ordres dans ce statut :";
+$MESS ['SSEN_2FLIST'] = "Liste de statut";
+$MESS ['SSEN_NEW_STATUS'] = "Ajoutez un nouveau statut";
+$MESS ['SSEN_DELETE_STATUS'] = "Effacez le statut";
+$MESS ['SSEN_DELETE_STATUS_CONFIRM'] = "Êtes-vous sûrs que vous voulez effacer ce statut ? Le statut ne sera pas effacé s'il y a des ordres avec ce statut.";
+$MESS ['SSEN_TAB_STATUS'] = "Statut commande";
+$MESS ['SSEN_TAB_STATUS_DESCR'] = "Statut commande";
+?>

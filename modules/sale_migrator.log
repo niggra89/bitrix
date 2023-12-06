@@ -1,0 +1,111 @@
+Date:Sat, 11 Mar 2017 12:05:05 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:05 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:06 +0300
+Array
+(
+    [0] => Check fields error
+    [1] => 9
+    [2] => Array
+        (
+            [0] => Неверные условия применения
+        )
+
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:06 +0300
+Array
+(
+    [0] => Check fields error
+    [1] => 11
+    [2] => Array
+        (
+            [0] => Неверные условия применения
+        )
+
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:06 +0300
+Array
+(
+    [0] => Check fields error
+    [1] => 14
+    [2] => Array
+        (
+            [0] => Неверные условия применения
+        )
+
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Sat, 11 Mar 2017 12:05:07 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+

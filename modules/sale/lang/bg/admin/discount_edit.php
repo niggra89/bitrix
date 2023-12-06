@@ -1,0 +1,30 @@
+<?
+$MESS ['SDEN_NO_PERMS2ADD'] = "Вие нямате достатъчни права за да добавите нова отстъпка.";
+$MESS ['SDEN_NO_DISCOUNT'] = "Отстъпката ##ID# не е намерена";
+$MESS ['SDEN_ERROR_SAVING_DISCOUNT'] = "Грешка при записа на отстъпката";
+$MESS ['SDEN_UPDATING'] = "Промяна на параметрите на отстъпката";
+$MESS ['SDEN_ADDING'] = "Добавяне на нова отстъпка";
+$MESS ['SDEN_TO_LIST'] = "Списък на отстъпките";
+$MESS ['SDEN_TIMESTAMP'] = "Дата на последната промяна:";
+$MESS ['SDEN_SAVE'] = "Запиши";
+$MESS ['SDEN_SAVE_ADD'] = "Добави";
+$MESS ['SDEN_APPLY'] = "Постави";
+$MESS ['SDEN_CANCEL'] = "Отмени";
+$MESS ['SDEN_2FLIST'] = "Списък на отстъпките";
+$MESS ['SDEN_NEW_DISCOUNT'] = "Добавяне на нова отстъпка";
+$MESS ['SDEN_DELETE_DISCOUNT'] = "Премахни отстъпката";
+$MESS ['SDEN_DELETE_DISCOUNT_CONFIRM'] = "Сигурни ли сте, че искате да изтриете тази отстъпка?";
+$MESS ['SDEN_TAB_DISCOUNT'] = "Отстъпка";
+$MESS ['SDEN_TAB_DISCOUNT_DESCR'] = "Параметри на отстъпката";
+$MESS ['SDEN_SITE'] = "Сайт";
+$MESS ['SDEN_PRICE'] = "Прилага се при сумата на поръчката";
+$MESS ['SDEN_PRICE_FROM'] = "от";
+$MESS ['SDEN_PRICE_TO'] = "до";
+$MESS ['SDEN_DISCOUNT_VALUE'] = "Стойност на отстъпката";
+$MESS ['SDEN_ACTIVE'] = "Активност";
+$MESS ['SDEN_SORT'] = "Индекс на сортиране";
+$MESS ['SDEN_ERROR'] = "Грешка при записа!";
+$MESS ['SDEN_PERIOD'] = "Активен период";
+$MESS ['SDEN_TYPE_PERCENT'] = "В проценти";
+$MESS ['SDEN_TYPE_FIX'] = "Фиксирана сума";
+?>

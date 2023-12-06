@@ -1,0 +1,29 @@
+<?
+$MESS ['PM_NO_MODULE'] = "Modül takılmamış";
+$MESS ['PM_POST_FULLY'] = "Kutucuğun doldurulması:";
+$MESS ['PM_SUCC_CREATE'] = "Klasör başarıyla oluşturuldu";
+$MESS ['PM_SUCC_DELETE'] = "Klasör başarıyla silindi";
+$MESS ['PM_SUCC_REMOVE'] = "Klasör başarıyla boşaltıldı";
+$MESS ['PM_SUCC_SAVED'] = "Değişiklikler kaydedildi";
+$MESS ['PM_NOT_RIGHT'] = "Yeterli izin yok";
+$MESS ['PM_NOT_FOLDER'] = "Böyle bir klasör yok.";
+$MESS ['PM_NOT_FOLDER_TITLE'] = "Klasör belirtilmedi.";
+$MESS ['PM_NOT_DELETE'] = "Klasör silinmedi.";
+$MESS ['PM_HEAD_FOLDER'] = "Klasör";
+$MESS ['PM_HEAD_NEW_FOLDER'] = "Yeni klasör";
+$MESS ['PM_HEAD_TITLE'] = "Adı:";
+$MESS ['PM_HEAD_MESSAGE'] = "Mesaj:";
+$MESS ['PM_HEAD_ACTION'] = "İşlem";
+$MESS ['PM_ACT_ADD'] = "Ekle";
+$MESS ['PM_ACT_SAVE'] = "Kaydet";
+$MESS ['PM_ACT_REMOVE'] = "Temizle";
+$MESS ['PM_ACT_EDIT'] = "Değiştir";
+$MESS ['PM_ACT_DELETE'] = "Sil";
+$MESS ['PM_TITLE_CREATE'] = "Yeni klasör oluşturma";
+$MESS ['PM_TITLE_EDIT'] = "##&raquo";
+$MESS ['PM_TITLE_LIST'] = "Kullanıcı klasörleri";
+$MESS ['PM_FOLDER_ID_1'] = "Gelen Kutusu";
+$MESS ['PM_FOLDER_ID_2'] = "Giden kutusu";
+$MESS ['PM_FOLDER_ID_3'] = "Gönderilenler";
+$MESS ['PM_FOLDER_ID_4'] = "Çöp kutusu";
+?>

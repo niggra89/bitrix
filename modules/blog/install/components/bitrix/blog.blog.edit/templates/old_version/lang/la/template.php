@@ -1,0 +1,30 @@
+<?
+$MESS ['BLOG_TITLE'] = "Nombre del blog:";
+$MESS ['BLOG_TITLE_DESCR'] = "Especificar nombre único con el cual describa su blog";
+$MESS ['BLOG_DESCR'] = "Descripción del blog:";
+$MESS ['BLOG_DESCR_TITLE'] = "Descripción arbitraria para su blog";
+$MESS ['BLOG_URL'] = "Pseudo nombre (letras latinas):";
+$MESS ['BLOG_GRP'] = "Grupo de blog:";
+$MESS ['BLOG_GRP_TITLE'] = "Grupo del blog con el cual se relaciona con su blog";
+$MESS ['BLOG_AUTO_MSG'] = "Auto mensajes:";
+$MESS ['BLOG_AUTO_MSG_TITLE'] = "Usar mensajes automáticos protección de la sumisión ";
+$MESS ['BLOG_CAPTHA'] = "Requiere código especial para ser tipeado si el comentario es agregado por un usuario desautorizado";
+$MESS ['BLOG_OPENED_GRPS'] = "Abrir grupos:";
+$MESS ['BLOG_OPENED_TITLE'] = "Especificar grupos con el cual cualquier persona puede ser agregado sin su aprobación";
+$MESS ['BLOG_DEF_PERMS'] = "Acceso de defecto:";
+$MESS ['BLOG_GROUPS'] = "grupos";
+$MESS ['BLOG_MESSAGES'] = "mensajes";
+$MESS ['BLOG_COMMENTS'] = "comentarios";
+$MESS ['BLOG_ALL_USERS'] = "todos los usuarios";
+$MESS ['BLOG_REGISTERED'] = "usuarios registrados";
+$MESS ['BLOG_PERMS_TITLE'] = "Asigna permisos de acceso para grupos de usuario para su blog. Si lo requiere usted puede especificar permisos para cada mensaje individualmente.";
+$MESS ['BLOG_SAVE'] = "Guardar";
+$MESS ['BLOG_CREATE'] = "Crear blog";
+$MESS ['BLOG_URL_TITLE'] = "Especificar pseudo nombre para su blog (con letras latinas). El pseudo nombre puede ser usado para construir un URL para su blog en el formulario <nobr>http://this-site.ru/blog/[blog name]</nobr>";
+$MESS ['BLOG_APPLY'] = "Aplicar";
+$MESS ['BLOG_CANCEL'] = "Cancelar";
+$MESS ['BLOG_EMAIL_NOTIFY'] = "Notificaciones";
+$MESS ['BLOG_EMAIL_NOTIFY_TITLE'] = "Enviar Notificaciones por mail";
+$MESS ['BLOG_EMAIL_NOTIFY_HELP'] = "Volviendo a esta opción significaría que usted puede recibir notificaciones acerca de nuevos envíos en su blog.";
+$MESS ['STOF_REQUIED_FIELDS_NOTE'] = "Campos requeridos están marcados con asterisco (<font color=\"#FF0000\">*</font>).";
+?>

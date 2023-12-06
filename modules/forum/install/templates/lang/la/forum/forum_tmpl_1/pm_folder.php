@@ -1,0 +1,29 @@
+<?
+$MESS ['PM_NO_MODULE'] = "El módulo no está instalado";
+$MESS ['PM_POST_FULLY'] = "Espacio usado:";
+$MESS ['PM_SUCC_CREATE'] = "La carpeta fue creada con éxito";
+$MESS ['PM_SUCC_DELETE'] = "La carpeta fue eliminada con éxito";
+$MESS ['PM_SUCC_REMOVE'] = "La carpeta fue purgada con éxito";
+$MESS ['PM_SUCC_SAVED'] = "Los cambios fuero cambiados";
+$MESS ['PM_NOT_RIGHT'] = "Permisos insuficientes.";
+$MESS ['PM_NOT_FOLDER'] = "La carpeta no existe.";
+$MESS ['PM_NOT_FOLDER_TITLE'] = "La carpeta no fue especificada.";
+$MESS ['PM_NOT_DELETE'] = "No se puede eliminar esta carpeta.";
+$MESS ['PM_HEAD_FOLDER'] = "Carpeta";
+$MESS ['PM_HEAD_NEW_FOLDER'] = "NUva carpeta";
+$MESS ['PM_HEAD_TITLE'] = "Nombre:";
+$MESS ['PM_HEAD_MESSAGE'] = "Mensajes:";
+$MESS ['PM_HEAD_ACTION'] = "Acciones";
+$MESS ['PM_ACT_ADD'] = "Agregar";
+$MESS ['PM_ACT_SAVE'] = "Guardar";
+$MESS ['PM_ACT_REMOVE'] = "Purgar";
+$MESS ['PM_ACT_EDIT'] = "Editar";
+$MESS ['PM_ACT_DELETE'] = "Eliminar";
+$MESS ['PM_TITLE_CREATE'] = "Nueva carpeta";
+$MESS ['PM_TITLE_EDIT'] = "Configuración de carpeta &laquo;##&raquo;";
+$MESS ['PM_TITLE_LIST'] = "Carpetas de usuraios";
+$MESS ['PM_FOLDER_ID_1'] = "Inbox";
+$MESS ['PM_FOLDER_ID_2'] = "Outcoming";
+$MESS ['PM_FOLDER_ID_3'] = "Outbox";
+$MESS ['PM_FOLDER_ID_4'] = "Reciclado";
+?>

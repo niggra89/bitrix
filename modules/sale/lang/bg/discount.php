@@ -1,0 +1,37 @@
+<?
+$MESS ['PERSON_TYPE_TITLE'] = "Отстъпки";
+$MESS ['SALE_F_FILTER'] = "Филтър";
+$MESS ['LANG_FILTER_NAME'] = "Сайт";
+$MESS ['LANG_ALL'] = "Всички";
+$MESS ['ERROR_UPDATE_REC'] = "Грешка при обновяването на записа";
+$MESS ['ERROR_ADD_REC'] = "Грешка при добавянето на записа";
+$MESS ['ERROR_NAME_REC'] = "Не е уточнена стойността на остъпката";
+$MESS ['ERROR_PRICE_REC'] = "Не е са уточнени диапазоните за цената на отстъпката";
+$MESS ['ERROR_CURRENCY_REC'] = "Не е уточнена валута за цената";
+$MESS ['ERROR_LID_REC'] = "Не е уточнен сайта";
+$MESS ['LANG_FILTER_BTN'] = "Задайте филтър";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+$MESS ['PERS_TYPE_NAV'] = "Отстъпки";
+$MESS ['PERS_TYPE_ACTIVE'] = "Акт.";
+$MESS ['PERS_TYPE_LID'] = "Сайт";
+$MESS ['PERS_TYPE_PRICE'] = "Цена";
+$MESS ['PERS_TYPE_DISCOUNT'] = "Отстъпка";
+$MESS ['PERS_TYPE_DEL'] = "Премахни";
+$MESS ['PERS_TYPE_UPD'] = "Запиши";
+$MESS ['PERS_TYPE_RESET'] = "Отмени";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Сигурни ли сте, че искате да изтриете тази отстъпка?";
+$MESS ['SALE_NEW'] = "Нова";
+$MESS ['SALE_FROM'] = "от";
+$MESS ['SALE_TO'] = "до";
+$MESS ['SALE_NOTE'] = "Посочете за отстъпката символа <b>%</b>, ако искате да зададете отстъпката в проценти от цената на поръчката. В противен случай отстъпката ще бъде интерпретирана като фиксирана сума в посочената валута.<br> Отстъпката се изчислява от цената на поръчката без да се отчита разхода по доставката.";
+$MESS ['PERS_TYPE_SORT'] = "Сорт.";
+$MESS ['DS_ALL'] = "(всички)";
+$MESS ['DS_UNSET'] = "Изчисти";
+$MESS ['SDSN_DELETE_ERR'] = "Грешка при изтриване на отстъпката";
+$MESS ['SDSN_UPDATE_ALT'] = "Промени параметрите на отстъпката";
+$MESS ['SDSN_DELETE_ALT1'] = "Премахни отстъпката";
+$MESS ['SDSN_DELETE_CONF'] = "Сигурни ли сте, че искате да изтриете тази отстъпка?";
+$MESS ['SDSN_ADD_NEW'] = "Добави нова отстъпка";
+$MESS ['SDSN_ADD_NEW_ALT'] = "Натиснете за да добавите нова отстъпка";
+?>

@@ -1,0 +1,35 @@
+<?
+$MESS["FM_FLT_SEARCH_TITLE"] = "Въведете търсещата фраза";
+$MESS["FM_FLT_SEARCH"] = "Търси";
+$MESS["FM_FLT_LOGIN"] = "Потребителско име";
+$MESS["FM_FLT_EMAIL"] = "E-Mail";
+$MESS["FM_FLT_FIO"] = "Име, Фамилия, Бащино";
+$MESS["FM_FLT_START_DATE"] = "Начална дата на абонамента";
+$MESS["FM_FLT_START_DATE_ALT"] = "Начална дата на абонамента";
+$MESS["FM_FLT_FORUM"] = "Форум";
+$MESS["FM_FLT_FORUM_ALT"] = "Форум";
+$MESS["FM_FLT_SUBSCR_TYPE"] = "Вид на абонамента";
+$MESS["FM_FLT_SUBSCR_TYPE_ALT"] = "Вид на абонамента";
+$MESS["FM_NO"] = "не";
+$MESS["FM_ACT_DELETE"] = "Премахни";
+$MESS["FM_ACT_EDIT"] = "Редактирай";
+$MESS["FM_TITLE"] = "Управление на абонамента";
+$MESS["FM_TITLE_PAGE"] = "Потребители на форума";
+$MESS["FM_HEAD_FORUM_USER_ID"] = "FID";
+$MESS["FM_HEAD_USER_ID"] = "ID";
+$MESS["FM_HEAD_EMAIL"] = "E-Mail";
+$MESS["FM_HEAD_LOGIN"] = "Потребителско име";
+$MESS["FM_HEAD_NAME"] = "Име";
+$MESS["FM_HEAD_LAST_NAME"] = "Фамилия";
+$MESS["FM_HEAD_SUBSC"] = "Брой абнаменти";
+$MESS["FM_HEAD_START_DATE"] = "Начало на абонамента";
+$MESS["FM_WRONG_DATE_FROM"] = "Въведете във филтъра правилно \"Дата на създаване\" \"от\"";
+$MESS["FM_WRONG_DATE_TO"] = "Въведете във филтъра правилно \"Дата на създаване\" \"до\"";
+$MESS["FM_WRONG_PERIOD"] = "Периода е посочен неправилно";
+$MESS["FM_NEW_TOPIC_ONLY"] = "Само нови теми";
+$MESS["FM_ALL_MESSAGE"] = "Всички съобщения от форума";
+$MESS["FM_TYPICAL"] = "Нови съобщения по темата";
+$MESS["FM_ACT_DEL_CONFIRM"] = "Сигурни ли сте, вие искате да изтриете всички абонаменти на потребителя?";
+$MESS["FM_SPACE"] = "Не е избрано";
+$MESS["FM_MAIN_EDIT_TITLE"] = "Редактирай параметрите на потребителя";
+?>

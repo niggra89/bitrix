@@ -1,0 +1,48 @@
+.catalog-price
+{
+	font-size:18px;
+	margin:15px 0 20px;
+}
+table img.preview_picture
+{
+	margin:0 0 10px 0;
+}
+tr.specification td
+{
+	border-bottom:1px solid #e0e0e0;
+	color:#555555;
+	padding:12px;
+}
+tr.specification_title td
+{
+	color:#000000;
+}
+.table_top
+{	
+	border-radius:12px 12px 0 0; 
+	-webkit-border-radius:12px 12px 0 0; 
+	-moz-border-radius:10px 10px 0 0; 
+	border:1px solid #e0e0e0;
+}
+.table_left
+{
+	border-left:1px solid #e0e0e0;
+}
+.table_right
+{
+	border-right:1px solid #e0e0e0;
+}
+.table_corner_bottom_left
+{
+	border-radius:0 0 0 12px; 
+	-webkit-border-radius:0 0 0 12px; 
+	-moz-border-radius:0 0 0 10px; 
+	
+}
+.table_corner_bottom_right
+{
+	border-radius:0 0 12px 0; 
+	-webkit-border-radius:0 0 12px 0; 
+	-moz-border-radius:0 0 10px 0; 
+	
+}

@@ -1,0 +1,31 @@
+<?
+$MESS ['rub_title'] = "Списък на инфо-бюлетините";
+$MESS ['rub_del_err'] = "Невъзможно е да се премахне инфо бюлетина.";
+$MESS ['rub_nav'] = "Инфо бюлетини";
+$MESS ['rub_name'] = "Име";
+$MESS ['rub_sort'] = "Сорт.";
+$MESS ['rub_act'] = "Акт.";
+$MESS ['rub_edit'] = "Промени";
+$MESS ['rub_del'] = "Премахни";
+$MESS ['rub_site'] = "Сайт";
+$MESS ['rub_auto'] = "Авто.";
+$MESS ['rub_visible'] = "Публ.";
+$MESS ['rub_last_exec'] = "Генерация";
+$MESS ['rub_check'] = "Провери шаблона";
+$MESS ['rub_wrong_generation_from'] = "Въведете във филтъра правилната дата на генериране \"от\"";
+$MESS ['rub_wrong_generation_till'] = "Въведете във филтъра правилната дата на генериране \"до\"";
+$MESS ['rub_wrong_generation_from_till'] = "Датата на генериране \"до\" трябва да бъде по голяма от датата \"от\"";
+$MESS ['rub_save_error'] = "Грешка при проманата на записа:";
+$MESS ['rub_no_rubric'] = "Рубриката не е намерена";
+$MESS ['POST_ADD_TITLE'] = "Натиснете да добавите нова рубрика за абонамент";
+$MESS ['rub_f_site'] = "Сайт";
+$MESS ['rub_f_active'] = "Активни";
+$MESS ['rub_f_public'] = "Публикация";
+$MESS ['rub_f_auto'] = "Автоматична";
+$MESS ['rub_f_find'] = "Намери";
+$MESS ['rub_f_find_title'] = "Въведете фраза за търсене";
+$MESS ['rub_del_conf'] = "Искате ли да премахнете тази категория?";
+$MESS ['rub_f_name'] = "Име";
+$MESS ['POST_U_YES'] = "Да";
+$MESS ['POST_U_NO'] = "Не";
+?>

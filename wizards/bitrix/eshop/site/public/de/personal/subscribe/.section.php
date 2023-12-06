@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Abonnement";
+$arDirProperties = array(
+
+);
+?>

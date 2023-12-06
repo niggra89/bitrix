@@ -1,0 +1,29 @@
+<?
+$MESS["subscr_descr_name"] = "Moduł newslettera";
+$MESS["subscr_descr_form"] = "Formularz subskrybcji";
+$MESS["subscr_descr_form_desc"] = "Formularz subskrybcji do włączenia w układ witryny.";
+$MESS["subscr_descr_form_page"] = "Strona edycji subskrypcji (#SITE_DIR# macro jest dostępne)";
+$MESS["subscr_descr_subscr"] = "Strona subskrypcji newslettera";
+$MESS["subscr_descr_subscr_desc"] = "Strona kategorii newslettera i formularz subskrypcji.";
+$MESS["subscr_descr_subscr_page"] = "Stronna edycji subskrypcji";
+$MESS["subscr_descr_subscr_count"] = "Pokaż liczbę subskrybentów";
+$MESS["subscr_descr_yes"] = "Tak";
+$MESS["subscr_descr_no"] = "Nie";
+$MESS["subscr_descr_subscredt_page"] = "Strona edycji subskrypcji";
+$MESS["subscr_descr_subscredt_desc"] = "Strona formularza aby edytować lub dodać adresy subskrypcji.";
+$MESS["subscr_descr_subscredt_anon"] = "Zezwalaj na anonimowe subskrypcje";
+$MESS["subscr_descr_subscredt_show"] = "Pokaż linki autoryzacji w trybie anonimowym";
+$MESS["subscr_descr_show_hidden"] = "Pokaż ukryte kategorie subskrypcji";
+$MESS["subscr_descr_sort_order_asc"] = "Rosnąco";
+$MESS["subscr_descr_sort_order_desc"] = "Malejąco";
+$MESS["subscr_descr_act_date"] = "Data aktywacji";
+$MESS["subscr_descr_sort"] = "Sortowanie";
+$MESS["subscr_descr_subscrnews"] = "Lista aktualności";
+$MESS["subscr_descr_subscrnews_desc"] = "Lista wiadomości z jednego lub więcej bloków informacji do publikacji newslettera.";
+$MESS["subscr_descr_subscrnews_all"] = "(Wszystkie)";
+$MESS["subscr_descr_subscrnews_site"] = "Strona";
+$MESS["subscr_descr_subscrnews_ibtype"] = "Typ bloku informacyjnego";
+$MESS["subscr_descr_subscrnews_ibcode"] = "Kod bloku informacyjnego";
+$MESS["subscr_descr_subscrnews_sort"] = "Pole do sortowania sekcji";
+$MESS["subscr_descr_subscrnews_sort_dir"] = "Kierunek sortowania sekcji";
+?>

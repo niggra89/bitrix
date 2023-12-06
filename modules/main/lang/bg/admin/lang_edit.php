@@ -1,0 +1,31 @@
+<?
+$MESS ['EDIT_LANG_TITLE'] = "Редактиране на езика \"#ID#\"";
+$MESS ['NEW_LANG_TITLE'] = "Добавяне на език";
+$MESS ['RECORD_LIST'] = "Списък на езиците";
+$MESS ['NAME'] = "Име:";
+$MESS ['ACTIVE'] = "Активен:";
+$MESS ['DEF'] = "По подразбиране:";
+$MESS ['SORT'] = "Сортиране:";
+$MESS ['DIR'] = "Папка на сайта:";
+$MESS ['FORMAT_DATE'] = "Формат на датата:<br><small>(например: DD.MM.YYYY)</small>";
+$MESS ['FORMAT_DATETIME'] = "Формат на датата и часа:<br><small>(например: DD.MM.YYYY HH:MI:SS)</small>";
+$MESS ['CHARSET'] = "Encoding:";
+$MESS ['SAVE'] = "Запиши промените";
+$MESS ['ADD'] = "Добави нов език";
+$MESS ['RESET'] = "Отмени";
+$MESS ['MAIN_NEW_RECORD'] = "Добави език";
+$MESS ['MAIN_DELETE_RECORD'] = "Премахни езика";
+$MESS ['MAIN_DELETE_RECORD_CONF'] = "Сигурни ли сте, че искате да изтриете този език?";
+$MESS ['MAIN_PARAM'] = "Параметри";
+$MESS ['MAIN_PARAM_TITLE'] = "Параметри на езика в системата";
+$MESS ['MAIN_ERROR_SAVING'] = "Грешка при записа";
+$MESS ['MAIN_DELETE_RECORD_TITLE'] = "Премахни текущият език";
+$MESS ['MAIN_NEW_RECORD_TITLE'] = "Добави нов език";
+$MESS ['RECORD_LIST_TITLE'] = "Вижте списъка на езиците";
+$MESS ['MAIN_COPY_RECORD_TITLE'] = "Копирай езика";
+$MESS ['MAIN_COPY_RECORD'] = "Добави копие";
+$MESS ['ERROR_DELETE'] = "Не може да се изтрие езика, възможно той  да е свързан с други обекти.";
+$MESS ['DIRECTION'] = "Посока на текста:";
+$MESS ['DIRECTION_LTR'] = "От ляво на дясно";
+$MESS ['DIRECTION_RTL'] = "От дясно на ляво";
+?>

@@ -1,0 +1,29 @@
+<?
+$MESS ['SEC_IP_EDIT_TAB'] = "Правило";
+$MESS ['SEC_IP_EDIT_TAB_TITLE'] = "Редактиране правилата за блокиране на IP адресите";
+$MESS ['SEC_IP_EDIT_SAVE_ERROR'] = "Грешка при записа на правилата";
+$MESS ['SEC_IP_EDIT_EDIT_TITLE'] = "Редактиране на правило";
+$MESS ['SEC_IP_EDIT_ADD_TITLE'] = "Ново правило";
+$MESS ['SEC_IP_EDIT_MENU_LIST'] = "Списък";
+$MESS ['SEC_IP_EDIT_MENU_LIST_TITLE'] = "Списък на правилата за блокиране";
+$MESS ['SEC_IP_EDIT_MENU_ADD'] = "Добави";
+$MESS ['SEC_IP_EDIT_MENU_ADD_TITLE'] = "Добави ново правило";
+$MESS ['SEC_IP_EDIT_MENU_DELETE'] = "Премахни";
+$MESS ['SEC_IP_EDIT_MENU_DELETE_TITLE'] = "Премахни правилото";
+$MESS ['SEC_IP_EDIT_MENU_DELETE_CONF'] = "Сигурни ли сте, че искате да изтриете правилото?";
+$MESS ['SEC_IP_EDIT_ID'] = "ID";
+$MESS ['SEC_IP_EDIT_ACTIVE'] = "Активни";
+$MESS ['SEC_IP_EDIT_ADMIN_SECTION'] = "Действат за страниците на Контролният панел";
+$MESS ['SEC_IP_EDIT_SITE_ID'] = "Действат за страниците на публичната част на сайта";
+$MESS ['SEC_IP_EDIT_SORT'] = "Сортиране";
+$MESS ['SEC_IP_EDIT_NAME'] = "Име";
+$MESS ['SEC_IP_EDIT_ACTIVE_FROM'] = "Активни от";
+$MESS ['SEC_IP_EDIT_ACTIVE_TO'] = "Активни до";
+$MESS ['SEC_IP_EDIT_INCL_IPS'] = "IP-адреса и диапазоните на адресите, които ще бъдат блокирани";
+$MESS ['SEC_IP_EDIT_INCL_IPS_SAMPLE'] = "Например: 192.168.0.7 или 192.168.0.1-192.168.0.100";
+$MESS ['SEC_IP_EDIT_EXCL_IPS'] = "Изключване на IP от блокираните";
+$MESS ['SEC_IP_EDIT_INCL_MASKS'] = "Маски на пътя за достъп към тези които ще бъдат блокирани";
+$MESS ['SEC_IP_EDIT_INCL_MASKS_SAMPLE'] = "Например: /* или /bitrix/admin/*";
+$MESS ['SEC_IP_EDIT_EXCL_MASKS'] = "Изключение за маските на пътя";
+$MESS ['SEC_IP_EDIT_ROW_ADD'] = "Добави";
+?>

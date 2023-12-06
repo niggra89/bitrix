@@ -1,0 +1,34 @@
+div.modern-page-navigation { 
+	padding: 0.5em 0;}
+div.modern-page-navigation a, 
+span.modern-page-current, 
+span.modern-page-dots
+{
+
+
+}
+div.modern-page-navigation a.modern-page-previous { 
+
+}
+div.modern-page-navigation a.modern-page-first, 
+div.modern-page-navigation span.modern-page-first { 
+	border-left: none; 
+	padding-left: 0.5em; }
+span.modern-page-current { 
+	
+}
+div.modern-page-navigation a, 
+span.modern-page-current, 
+div.modern-page-navigation a.modern-page-previous, 
+span.modern-page-dots { 
+	border-color: #cdcdcd; }
+	
+span.modern-page-title
+{
+	float:left;
+}
+
+.modern-page-navigation a
+{
+	margin:0 3px;
+}

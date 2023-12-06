@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_INSTALL_DEFAULT'] = "Изберете какви примери за публични файлове от модула на продажбите да се инсталират отначало.";
+$MESS ['SALE_INSTALL_NAME'] = "Интернет магазин";
+$MESS ['SALE_INSTALL_DESCRIPTION'] = "Позволява да се извършват продажби на посетителите. ";
+$MESS ['SALE_INSTALL_BASKET'] = "Кошница";
+$MESS ['SALE_INSTALL_PERSON'] = "Персонален раздел";
+$MESS ['SALE_INSTALL_PUBLIC'] = "Публична папка за инсталиране";
+$MESS ['SALE_INSTALL_TITLE'] = "Инсталиране на модула \"Интернет магазин\"";
+$MESS ['SALE_INSTALL_PUBLIC_DIR'] = "Публична  папка";
+$MESS ['SALE_INSTALL_SETUP'] = "Инсталиране";
+$MESS ['SALE_INSTALL_COMPLETE_OK'] = "Инсталацията е завършена. За допълнителна помощ, ако е нужна, се обърнете към помощният раздел.";
+$MESS ['SALE_INSTALL_COMPLETE_ERROR'] = "Инсталацията завърши с грешки";
+$MESS ['SALE_INSTALL_ERROR'] = "Грешки при инсталирането";
+$MESS ['SALE_INSTALL_BACK'] = "Назад към управлението на модулите.";
+$MESS ['SALE_UNINSTALL_WARNING'] = "Внимание! Модула ще бъде премахнат от системата.";
+$MESS ['SALE_UNINSTALL_SAVEDATA'] = "Вие можете да запишете данните в базата данни, ако отметнете &quot;Запиши таблицата&quot;";
+$MESS ['SALE_UNINSTALL_SAVECURRENCY'] = "Записване таблиците на валутата (използва се съвместно от модула на търговският каталог и модула на \"Интернет магазина\")";
+$MESS ['SALE_UNINSTALL_SAVETABLE'] = "Запиши таблиците";
+$MESS ['SALE_UNINSTALL_DEL'] = "Деинсталиране";
+$MESS ['SALE_UNINSTALL_ERROR'] = "Грешки при деинсталирането:";
+$MESS ['SALE_UNINSTALL_COMPLETE'] = "Деинсталирането завърши.";
+$MESS ['SALE_INSTALL_PUBLIC_SETUP'] = "Инсталиране";
+$MESS ['SALE_INSTALL_PUBLIC_REW'] = "Презаписване на съществуващите файлове";
+$MESS ['SALE_INST_PUB_VAR'] = "Варианти за публичната част";
+$MESS ['SALE_VARIANT_NUM'] = "Вариант";
+$MESS ['SALE_VARIANT1_DESCR'] = "Препоръчва се. Универсалните шаблони.";
+$MESS ['SALE_VARIANT2_DESCR'] = "Две степенна процедура на поръчката. Нужно е допълнителна ръчна настройка (подробностите са вътре в скрипта за процедурите на поръчката).";
+$MESS ['SIM_COPY_PUBLIC_FILES'] = "Копиране на публичните файлове";
+$MESS ['SIM_COPY_FOLDER'] = "Папка, в която ще се поставят копираните файлове (относително корена на сайта):";
+$MESS ['SIM_REWRITE_ADD'] = "Презаписване на помощните файлове";
+$MESS ['SINS_PERM_D'] = "затворено";
+$MESS ['SINS_PERM_R'] = "преглед без право за редактиране";
+$MESS ['SINS_PERM_U'] = "обработка на поръчките";
+$MESS ['SINS_PERM_W'] = "пълен достъп";
+$MESS ['SALE_INSTALL_CURRENCY'] = "За функционирането на Интернет магазина е необходим модула Валута.<br />Инсталирайте от начало модула Валута.";
+?>

@@ -1,0 +1,22 @@
+/*Menu icon*/
+.dd_productreviews_menu_icon { 
+	background-image: url( icons/dev2day.productreviews/mnu_productreviews.png ) !important;
+	background-position: 8px 7px;
+}
+
+.b-icon.m_star {
+  background: url( 'icons/dev2day.productreviews/star.png' ) no-repeat;
+  width: 16px;
+  height: 16px;
+  display: block;
+  float: left;
+  margin: 0 2px 0 0;
+}
+
+.b-icon.m_star.m_empty {
+  background: url( 'icons/dev2day.productreviews/empty-star.png' ) no-repeat;
+}
+
+.b-icon.m_star.m_can_choice {
+  cursor: pointer;
+}

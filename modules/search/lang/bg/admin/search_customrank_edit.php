@@ -1,0 +1,33 @@
+<?
+$MESS ['customrank_edit_param1'] = "Параметър 1:";
+$MESS ['customrank_edit_param2'] = "Параметър 2:";
+$MESS ['customrank_edit_param3'] = "Параметър 3:";
+$MESS ['customrank_edit_site'] = "Сайт:";
+$MESS ['customrank_edit_module'] = "Модул:";
+$MESS ['customrank_edit_no'] = "(не)";
+$MESS ['customrank_edit_sort'] = "Ранг:";
+$MESS ['customrank_edit_edit_rule'] = "Редактиране на правилата #";
+$MESS ['customrank_edit_add_rule'] = "Добавяне на правила";
+$MESS ['customrank_edit_list_rule'] = "Списък";
+$MESS ['customrank_edit_list_rule_title'] = "Списък на правилата";
+$MESS ['customrank_edit_add_new'] = "Добави";
+$MESS ['customrank_edit_add_new_title'] = "Добави ново правило";
+$MESS ['customrank_edit_delete'] = "Премахни ";
+$MESS ['customrank_edit_delete_title'] = "Премахни това правило";
+$MESS ['customrank_edit_delete_conf'] = "Да се премахне ли?";
+$MESS ['customrank_edit_param3_main'] = "Параметър 3 (пълен път към файла):";
+$MESS ['customrank_edit_param1_iblock'] = "Параметър 1 (тип на информационният блок):";
+$MESS ['customrank_edit_param2_iblock'] = "Параметър 2 (информационнен блок):";
+$MESS ['customrank_edit_param3_iblock'] = "Параметър 3 (елемент от информационният блок):";
+$MESS ['customrank_edit_param1_forum'] = "Параметър 1 (форум):";
+$MESS ['customrank_edit_param2_forum'] = "Параметър 2 (тема на форума):";
+$MESS ['customrank_edit_param3_forum'] = "Параметър 3 (съобщение на форума):";
+$MESS ['customrank_edit_rule'] = "Редактиране на правилата #";
+$MESS ['customrank_edit_rule_title'] = "Параметри за правилата на сортиране";
+$MESS ['customrank_edit_iblocks'] = "Информационни блокове";
+$MESS ['customrank_edit_forum'] = "Форум";
+$MESS ['customrank_edit_files'] = "Статични файлове";
+$MESS ['customrank_edit_blog'] = "Блогове";
+$MESS ['customrank_edit_socialnetwork'] = "Социална мрежа";
+$MESS ['customrank_edit_intranet'] = "Потребители";
+?>

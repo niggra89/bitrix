@@ -1,0 +1,32 @@
+<?
+$MESS ['PERSON_TYPE_TITLE'] = "Ödeyen türü";
+$MESS ['ERROR_ADD_REC'] = "Kayıt eklemesinde hata";
+$MESS ['ERROR_NAME_REC'] = "Ad alanı kayıt içerisinde ayarlanmamıştır ";
+$MESS ['ERROR_LID_REC'] = "Site alanı kayıt içerisinde ayarlanmamıştır ";
+$MESS ['ERROR_UPDATE_REC'] = "Kayıt değişikliğinde hata";
+$MESS ['SALE_F_FILTER'] = "Filtre";
+$MESS ['LANG_FILTER_NAME'] = "Site";
+$MESS ['LANG_FILTER_BTN'] = "Ayarla";
+$MESS ['SALE_F_DEL'] = "Sıfırla";
+$MESS ['LANG_ALL'] = "(Tümü)";
+$MESS ['PERS_TYPE_NAV'] = "Ödeyen türleri";
+$MESS ['PERS_TYPE_NAME'] = "Ad";
+$MESS ['PERS_TYPE_LID'] = "Site";
+$MESS ['PERS_TYPE_SORT'] = "Sıralama";
+$MESS ['PERS_TYPE_DEL'] = "Sil";
+$MESS ['PERS_TYPE_UPD'] = "Kaydet";
+$MESS ['PERS_TYPE_RESET'] = "Sıfırla";
+$MESS ['PERS_TYPE_ID'] = "ID";
+$MESS ['PERS_TYPE_DEL_CONF'] = "Ödeyen türün silinmesi, ilgili tüm özelliklerin ve ayarların silinmesine yol açacaktır. Bu ödeyen türün siparişi var ise, bu durumda silinmeyecektir.";
+$MESS ['SALE_PROPS'] = "Özellikleri";
+$MESS ['SPT_ALL'] = "(tümü)";
+$MESS ['SPT_UNSET'] = "Sıfırla";
+$MESS ['SPTAN_ERROR_UPDATE'] = "Kayıt değişikliğinde hata";
+$MESS ['SPTAN_ERROR_DELETE'] = "Kayıt silme hata";
+$MESS ['PERS_PROPS'] = "Özellikleri";
+$MESS ['SPTAN_UPDATE_ALT'] = "Değiştir";
+$MESS ['SPTAN_DELETE_ALT1'] = "Sil";
+$MESS ['SPTAN_ADD_NEW'] = "Tür ekle";
+$MESS ['SPTAN_ADD_NEW_ALT'] = "Yeni ödeyen türü eklemek için tıklatınız";
+$MESS ['SPTAN_VIEW_PROPS'] = "Özellik listesini görüntüle";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS ['CATALOG_CONTROL'] = "Catalogue commercial";
+$MESS ['CURRENCY'] = "Devises";
+$MESS ['CURRENCY_ALT'] = "Devises";
+$MESS ['CURRENCY_RATES'] = "Taux de devise";
+$MESS ['CURRENCY_RATES_ALT'] = "Taux de devise";
+$MESS ['EXTRA'] = "Adaptation des prix";
+$MESS ['EXTRA_ALT'] = "Types d'adaptation Des prix";
+$MESS ['GROUP'] = "Liste de types des prix";
+$MESS ['GROUP_ALT'] = "Liste de types des prix";
+$MESS ['LOAD_1C'] = "Importez des données XML (CommerceML)";
+$MESS ['LOAD_1C_ALT'] = "Données d'importation dans le format de CommerceML";
+$MESS ['LOAD_DATA'] = "Importation du dossier";
+$MESS ['LOAD_DATA_ALT'] = "Importation du dossier CSV";
+$MESS ['UNLOAD_DATA'] = "Exportez au dossier";
+$MESS ['UNLOAD_DATA_ALT'] = "Exportez au dossier CSV";
+$MESS ['SETUP_UNLOAD_DATA'] = "Exportation de données";
+$MESS ['SETUP_UNLOAD_DATA_ALT'] = "Les données exportent l'organisation";
+$MESS ['CAM_EXPORT_DESCR'] = "Les données exportent par";
+$MESS ['CM_DISCOUNTS'] = "Escomptes";
+$MESS ['CM_DISCOUNTS_ALT'] = "Les escomptes pour les produits et les services";
+$MESS ['CM_IMPORT_NEW'] = "L'importation (le nouveau format)";
+$MESS ['CM_IMPORT_NEW_ALT'] = "Données d'importation dans le nouveau format de CSV";
+$MESS ['SETUP_LOAD_DATA'] = "Importation de données";
+$MESS ['SETUP_LOAD_DATA_ALT'] = "Les données importent l'organisation";
+$MESS ['CAM_IMPORT_DESCR'] = "Les données importent par";
+$MESS ['CATALOG_MNU_TITLE'] = "Direction de catalogue commerciale";
+$MESS ['CM_COUPONS'] = "Coupons";
+$MESS ['CM_COUPONS_ALT'] = "Coupons";
+?>

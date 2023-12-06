@@ -1,0 +1,38 @@
+<?
+$MESS ['STO_EMPTY_BASKET'] = "Sizin sepetiniz boş";
+$MESS ['STO_EMPTY_FIELD'] = "#FIELD# alanları doldurulması için zorunludur";
+$MESS ['STO_SELECT_PS'] = "Sipariş ödeme yöntemini seçiniz lütfen.<br>";
+$MESS ['STO_WRONG_PS'] = "Ödeme yöntemi yanlış.<br>";
+$MESS ['STO_AUTH'] = "Yetkilendirme";
+$MESS ['STO_CUR_USER'] = "Mevcut kullanıcı:";
+$MESS ['STO_LOGOUT'] = "Çıkış";
+$MESS ['STO_LOGIN'] = "Giriş adı:";
+$MESS ['STO_PASSWORD'] = "Şifre:";
+$MESS ['STO_LOG_IN'] = "Giriş";
+$MESS ['STO_FORGOT_PAS'] = "Şifrenizi mi unuttunuz?";
+$MESS ['STO_ORDER_PARAMS'] = "Sipariş parametreleri";
+$MESS ['STO_NEW_BUYER'] = "Yeni alıcı";
+$MESS ['STO_PAYMENT'] = "Ödeme";
+$MESS ['STO_PAY_FROM_ACCOUNT'] = "Hesaptan öde";
+$MESS ['STO_YOU_HAVE1'] = "Sizin kullanıcı hesabınızda var";
+$MESS ['STO_YOU_HAVE2'] = "sipariş bedelin tamamı veya bir kısmını ödemeniz için kullanabileceğiniz '. Kullanıcı hesabınıdan araçların çıkarılmasını istemediğiniz durumunda, ilgili bayrağı çıkartınız.";
+$MESS ['STO_PAYMENT_WAY'] = "Ödeme yöntemi:";
+$MESS ['STO_PLEASE_SELECT'] = "Please select";
+$MESS ['STO_NEXT_STEP'] = "&gt";
+$MESS ['STO_PAYMENT1'] = "Ödeme:";
+$MESS ['STO_MAKE_ORDER'] = "Siparişi düzenle";
+$MESS ['STO_PRIOR_STEP'] = "&lt";
+$MESS ['STO_ORDER_CREATED'] = "Sipariş düzenlendi";
+$MESS ['STO_ORDER_CREATED_DESCR'] = "<b>?#ORDER_ID#</b> ?? #ORDER_DATE# siparişiniz başarı ile oluşturuldu.";
+$MESS ['STO_ORDER_HINT'] = "Kendi siparişinizin uygulanmasını  <a href=\"#LINK#\"> <Sitedeki kişisel bölüm</a> 'den takip edebilirsiniz (bulunduğu aşamayı kontrol edebilirsiniz). Bu bölüme girişin yapılması için site kullanıcının kullanıcı adını ve şifresini girmeniz gerekicektir. ";
+$MESS ['STO_ORDER_HINT_ANN'] = "Siparişi iptal etmek için,site</a> kişisel bölümünde <a href=\"#LINK#\">' de   erşilebilen sipariş değiştirme fonksiyonunu kullanınız. ";
+$MESS ['STO_ORDER_HINT2'] = "İnternet dükkan yönetimine danışmanızda, kendi sipariş numaranızı belirtiniz lütfen ?#ORDER_ID#.";
+$MESS ['STO_ERROR_CREATING'] = "Sipariş düzenleme hatası";
+$MESS ['STO_NO_ORDER'] = "#ORDER_ID#  No'lu sipariş bulunmamıştır.";
+$MESS ['STO_CONTACT_ADMIN'] = "Dükkan idaresine danışınız veya siparişinizi tekrar düzenlemeye deneyiniz lütfen. ";
+$MESS ['STO_TITLE'] = "Siparişin düzenlenmesi";
+$MESS ['STO_ERROR_REG_USER'] = "Yeni kullanıcı kaydında hata";
+$MESS ['STO_ERROR_SAVING_ORDER'] = "Sipariş kaydında hata";
+$MESS ['STO_PROFILE_TITLE'] = "Profil #DATE#";
+$MESS ['STO_SHT'] = "adet";
+?>

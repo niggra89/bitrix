@@ -1,0 +1,33 @@
+<?
+$MESS ['SALE_F_FILTER'] = "Filtro";
+$MESS ['SALE_F_ID'] = "Ide de la orden";
+$MESS ['SALE_F_DATE'] = "Fecha de la orden";
+$MESS ['SALE_F_STATUS'] = "Estatus de laorden";
+$MESS ['SALE_F_ALL'] = "< Todo >";
+$MESS ['SALE_F_SUBMIT'] = "Fijar";
+$MESS ['SALE_F_DEL'] = "Remover";
+$MESS ['SALE_PRLIST'] = "Órdenes";
+$MESS ['P_ID'] = "ID de la orden ";
+$MESS ['P_PRICE'] = "PRecio";
+$MESS ['P_STATUS'] = "Estatus";
+$MESS ['P_PAYED'] = "Pagado";
+$MESS ['P_CANCELED'] = "Anulado";
+$MESS ['SALE_ACTION'] = "Acciones";
+$MESS ['SALE_F_PAYED'] = "Pagado";
+$MESS ['SALE_F_CANCELED'] = "Anulado";
+$MESS ['SALE_F_HISTORY'] = "entrega incluida";
+$MESS ['P_PAY_SYS'] = "Métodos de pago y envío";
+$MESS ['P_BASKET'] = "Carro";
+$MESS ['SALE_DELETE'] = "Cancelar";
+$MESS ['SALE_COPY_ORDER'] = "Re-order";
+$MESS ['SALE_DETAIL'] = "Detalles";
+$MESS ['SALE_YES'] = "Si";
+$MESS ['SALE_NO'] = "No";
+$MESS ['SALE_FROM'] = "desde";
+$MESS ['SALE_TO'] = "a";
+$MESS ['SALE_DETAIL_DESCR'] = "Ver detalles de la orden";
+$MESS ['SALE_COPY_ORDER_DESCR'] = "Repetir esta orden";
+$MESS ['SALE_DELETE_DESCR'] = "Anular esta orden";
+$MESS ['SPO_ORDERS_LIST'] = "Lista de órdenes";
+$MESS ['SALE_NO_MODULE_X'] = "Módulo no instalado";
+?>

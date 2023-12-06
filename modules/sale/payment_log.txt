@@ -1,0 +1,144 @@
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1.000000
+    [OutSum] => 1.000000
+    [inv_id] => 9473
+    [InvId] => 9473
+    [crc] => F7D7B2577500016BF5EA879AD439B50A
+    [SignatureValue] => F7D7B2577500016BF5EA879AD439B50A
+    [PaymentMethod] => BankCard
+    [IncSum] => 1.070000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 09/15/2017 19:38:25
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1449.000000
+    [OutSum] => 1449.000000
+    [inv_id] => 9595
+    [InvId] => 9595
+    [crc] => C1C74A2F9BD24EB6ED47B4A1D4D3E919
+    [SignatureValue] => C1C74A2F9BD24EB6ED47B4A1D4D3E919
+    [PaymentMethod] => BankCard
+    [IncSum] => 1550.430000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 09/28/2017 16:20:28
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1658.000000
+    [OutSum] => 1658.000000
+    [inv_id] => 9596
+    [InvId] => 9596
+    [crc] => 47976DF567A185B59BE51E1CC95D0C19
+    [SignatureValue] => 47976DF567A185B59BE51E1CC95D0C19
+    [PaymentMethod] => BankCard
+    [IncSum] => 1774.060000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 09/28/2017 16:26:25
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1553.000000
+    [OutSum] => 1553.000000
+    [inv_id] => 9637
+    [InvId] => 9637
+    [crc] => 9C2D3B508DAB436369A10C1AC3EBB894
+    [SignatureValue] => 9C2D3B508DAB436369A10C1AC3EBB894
+    [PaymentMethod] => BankCard
+    [IncSum] => 1661.710000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 10/06/2017 17:30:04
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 730.000000
+    [OutSum] => 730.000000
+    [inv_id] => 9680
+    [InvId] => 9680
+    [crc] => 2A8A46C994E081A5E5E162D1890662AA
+    [SignatureValue] => 2A8A46C994E081A5E5E162D1890662AA
+    [PaymentMethod] => BankCard
+    [IncSum] => 781.100000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 10/13/2017 16:09:57
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1542.000000
+    [OutSum] => 1542.000000
+    [inv_id] => 9662
+    [InvId] => 9662
+    [crc] => 3EC2989383718801F862BDD7F6EB2012
+    [SignatureValue] => 3EC2989383718801F862BDD7F6EB2012
+    [PaymentMethod] => BankCard
+    [IncSum] => 1649.940000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 10/31/2017 18:31:19
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1471.000000
+    [OutSum] => 1471.000000
+    [inv_id] => 9867
+    [InvId] => 9867
+    [crc] => 5B227E090FAA66562455D83E1340F13A
+    [SignatureValue] => 5B227E090FAA66562455D83E1340F13A
+    [PaymentMethod] => BankCard
+    [IncSum] => 1573.970000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 11/22/2017 08:18:33
+
+ACTION : RESPONSE
+MESSAGE : Array
+(
+    [out_summ] => 1553.000000
+    [OutSum] => 1553.000000
+    [inv_id] => 9935
+    [InvId] => 9935
+    [crc] => 02CCFFAF421FDA05FEB7363E79B2635F
+    [SignatureValue] => 02CCFFAF421FDA05FEB7363E79B2635F
+    [PaymentMethod] => BankCard
+    [IncSum] => 1661.710000
+    [IncCurrLabel] => QCardR
+    [SHP_BX_PAYSYSTEM_CODE] => 46
+    [SHP_HANDLER] => ROBOXCHANGE
+)
+
+DATE_INSERT : 12/04/2017 12:34:27
+

@@ -1,0 +1,28 @@
+
+.catalog-compare-list .compare_item
+{
+	text-decoration:none;display:inline-block;
+	line-height:1;margin:0 3px 5px 0;
+}
+.catalog-compare-list .clear_item
+{
+	text-decoration:none;
+}
+.catalog-compare-list .clear_item div
+{
+	width:15px;height:14px;
+	background:url('images/close.png') no-repeat top right transparent;
+	display:inline-block;
+	*display:inline;
+	margin-bottom:-1px;*margin:0;
+	overflow:hidden;
+
+}
+a.action_compare
+{
+	margin:10px 0 20px;
+	display:inline-block;
+	background-repeat:no-repeat;	background-position:top right;	background-color:transparent;
+	width:111px;height:24px;border:0;overflow:hidden;
+	text-decoration:none;	
+}

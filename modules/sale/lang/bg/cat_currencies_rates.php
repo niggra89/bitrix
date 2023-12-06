@@ -1,0 +1,30 @@
+<?
+$MESS ['curr_rates_flt_date'] = "Дата:";
+$MESS ['curr_rates_flt_btn'] = "Филтър";
+$MESS ['curr_rates_nav'] = "Курсове";
+$MESS ['curr_rates_rate'] = "Курс";
+$MESS ['curr_rates_rate_cnt'] = "Номинал";
+$MESS ['curr_rates_del'] = "Премахни";
+$MESS ['curr_rates_query'] = "Забр.";
+$MESS ['curr_rates_reset'] = "Изчисти";
+$MESS ['curr_rates_title'] = "Валутни курсове";
+$MESS ['curr_rates_list'] = "Валути";
+$MESS ['curr_rates_err1'] = "Грешен формат на датата за начало на периода.";
+$MESS ['curr_rates_err2'] = "Грешен формат на датата за края на периода.";
+$MESS ['curr_rates_curr'] = "Валута:";
+$MESS ['curr_rates_all'] = "(всички)";
+$MESS ['curr_rates_date1'] = "Дата";
+$MESS ['curr_rates_curr1'] = "Валута";
+$MESS ['curr_rates_upd'] = "Запиши";
+$MESS ['CURRENCY_TITLE'] = "Валутни курсове";
+$MESS ['ERROR_ADD_REC'] = "Грешка при добавянето на записа";
+$MESS ['ERROR_ADD_REC2'] = "Възможно е на тази дата курса да е бил зададен.";
+$MESS ['ERROR_UPDATE_REC'] = "Грешка при обновяването на записа";
+$MESS ['ERROR_QUERY_RATE'] = "Грешка при поискването на курса";
+$MESS ['ERROR_EMPTY_ANSWER'] = "Няма отговор от сървъра.";
+$MESS ['ERROR_SAVING_RATE'] = "Грешка при записа на курса";
+$MESS ['ERROR_SAVING_RATE1'] = "Курса не е уточнен.";
+$MESS ['ERROR_SAVING_RATE2'] = "Номинала не е уточнен.";
+$MESS ['ERROR_DATE_RATE'] = "Датата на курса не е уточнена";
+$MESS ['SALE_F_DEL'] = "Премахване на филтъра";
+?>

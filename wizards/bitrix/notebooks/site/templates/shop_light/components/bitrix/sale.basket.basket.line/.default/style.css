@@ -1,0 +1,12 @@
+.basket-line
+{
+	display:block;
+	float:left;
+	font-size:11px;
+	line-height:2.5;
+}
+.basket-line-basket
+{
+	float:left;
+	margin-right:5px;
+}

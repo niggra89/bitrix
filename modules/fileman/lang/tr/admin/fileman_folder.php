@@ -1,0 +1,27 @@
+<?
+$MESS ['FILEMAN_FOLDER_TITLE'] = "Klasör Özellikleri";
+$MESS ['FILEMAN_FOLDER_SECTION_NAME'] = "Bölüm Adı:";
+$MESS ['FILEMAN_FOLDER_ACCESS'] = "Erişim hakları";
+$MESS ['FILEMAN_FOLDER_ACCESS_GROUP'] = "Grup";
+$MESS ['FILEMAN_FOLDER_ACCESS_LEVEL'] = "Erişim düzeyi";
+$MESS ['FM_FOLDER_ACCESS_DENIED'] = "Reddet";
+$MESS ['FM_FOLDER_ACCESS_READ'] = "Oku";
+$MESS ['FM_FOLDER_ACCESS_WRITE'] = "Yaz";
+$MESS ['FM_FOLDER_ACCESS_FULL'] = "Tam erişim";
+$MESS ['FM_FOLDER_ACCESS_WORKFLOW'] = "İş akışı";
+$MESS ['FILEMAN_FOLDER_ACCESS_INHERIT'] = "Devral";
+$MESS ['FILEMAN_FOLDER_ACCESS_FOR_INHERIT'] = "Inherit&quot";
+$MESS ['FILEMAN_FOLDER_SAVE'] = "Kaydet";
+$MESS ['FILEMAN_FOLDER_APPLY'] = "Uygula";
+$MESS ['FILEMAN_FOLDER_RESET'] = "Sıfırla";
+$MESS ['FILEMAN_FOLDER_FILEPROPS'] = "Klasör özellikleri";
+$MESS ['FILEMAN_FOLDER_PROPSCODE'] = "Kod";
+$MESS ['FILEMAN_FOLDER_PROPSVAL'] = "Değer";
+$MESS ['FILEMAN_FOLDER_PROPSDEL'] = "Sil";
+$MESS ['FILEMAN_FOLDER_PROPSMORE'] = "Daha fazla:";
+$MESS ['FILEMAN_FOLDER_CURVAL'] = "Geçerli değer:";
+$MESS ['FILEMAN_FOLDER_BACK'] = "Klasör";
+$MESS ['FILEMAN_TAB'] = "Klasör özellikleri";
+$MESS ['FILEMAN_TAB_ALT'] = "Klasör özellikleri";
+$MESS ['FILEMAN_ACCESS'] = "Erişim";
+?>
